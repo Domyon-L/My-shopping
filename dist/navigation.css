@@ -4,8 +4,10 @@ html{scroll-padding-top:calc(var(--shop-header-height) + 22px)}
 #storefront{padding-top:var(--shop-header-height)}
 #storefront .header{position:fixed;top:0;left:0;right:0;width:100%;height:var(--shop-header-height);z-index:60}
 #storefront .header .search{flex:1 1 460px;max-width:720px;min-width:0;width:auto}
-#storefront .workspace{max-width:1600px;padding-left:0;transition:padding-left .23s ease}
-#storefront .workspace main{padding:24px 36px 0}
+#storefront{width:100%;min-height:100dvh}
+#storefront .workspace{width:100%;max-width:none;margin:0;padding:0;min-height:calc(100dvh - var(--shop-header-height));transition:padding-left .23s ease}
+#storefront .workspace main{padding:0;min-height:calc(100dvh - var(--shop-header-height))}
+#storefront .browse{padding-top:0}
 #categoryRail{opacity:0;pointer-events:none;transition:transform .23s ease,opacity .18s ease,visibility .23s;gap:12px;padding:20px 14px 22px;overscroll-behavior:contain}
 #categoryRail .mobile-rail-head{margin-bottom:5px;flex:none;font-weight:650}
 #categoryRail .rail-label{padding:0 10px;flex:none;letter-spacing:.08em}
@@ -27,21 +29,22 @@ html{scroll-padding-top:calc(var(--shop-header-height) + 22px)}
 .rail-edge{position:fixed;left:0;top:var(--shop-header-height);bottom:0;width:14px;z-index:50;border:0!important;border-radius:0;background:transparent!important;box-shadow:none!important;opacity:0;padding:0}
 .rail-edge span{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
 .rail-open .rail-edge{pointer-events:none}
-#storefront .control-deck{top:calc(var(--shop-header-height) + 8px)}
+#storefront .control-deck{position:relative;top:auto;margin:0 0 12px;border-radius:0;padding:16px}
+#storefront .catalog-note,#storefront .pager,#storefront footer{padding-left:16px;padding-right:16px}
+#storefront .product-list .empty{grid-column:1/-1;width:100%;min-height:35dvh}
+.search-result-summary{margin:10px 0 0;color:var(--muted);font-size:13px;line-height:1.7}
 @media(min-width:901px){
  #storefront .header #menuToggle{display:none}
  .rail-open #storefront .workspace{padding-left:var(--shop-rail-width)}
  #storefront #categoryRail{inset:var(--shop-header-height) auto 0 0!important;top:var(--shop-header-height)!important;width:var(--shop-rail-width);height:calc(100dvh - var(--shop-header-height))!important;z-index:45;box-shadow:8px 0 32px #00000012}
  #storefront .rail-backdrop{display:none!important}
 }
-@media(max-width:1100px){#storefront .workspace main{padding:22px 26px 0}}
 @media(max-width:900px){.rail-edge{display:none}#categoryRail .quick-browse [data-personal-open]{display:block}}
 @media(max-width:600px){
  :root{--shop-header-height:116px}
  #storefront .header{padding:8px 12px 10px;flex-wrap:wrap;min-height:116px}
  #storefront .header .search{order:5;flex:0 0 100%;max-width:none;width:100%;height:45px}
- #storefront .workspace main{padding:15px 12px 0}
- #storefront .control-deck{top:calc(var(--shop-header-height) + 8px)}
+ #storefront .control-deck{padding:12px}
  #categoryRail .category-nav .channel b{font-size:14px}
 }
 @media(prefers-reduced-motion:reduce){#storefront .workspace{transition:none}}

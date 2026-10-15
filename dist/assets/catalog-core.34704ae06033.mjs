@@ -1,5 +1,7 @@
 import {brandKey} from './brand-keys.d90428947558.mjs';
 import {DAILY_TYPES} from './taxonomy-core.e0b955ae256f.mjs';
+import {parseSearch,createSearchMatcher} from './search-core.58724d0f3e65.mjs';
+export {parseSearch} from './search-core.58724d0f3e65.mjs';
 export const TYPE_ORDER=DAILY_TYPES;
 export const BANDS=[['0-50','50 元以下',0,50],['50-100','50–100 元',50,100],['100-300','100–300 元',100,300],['300-600','300–600 元',300,600],['600-1000','600–1000 元',600,1000],['1000-2000','1000–2000 元',1000,2000],['2000+','2000 元及以上',2000,Infinity]];
 export const freshState=()=>({q:'',brand:'',type:'',group:'',category:'',scope:'all',budget:'',max:null,sort:'recommended',personalized:true,scene:'',history:true,priceKind:'',page:1,valueMode:'',valueFirst:false,preferredTypes:[]});
@@ -24,7 +26,6 @@ export function isListed(x,now=new Date()){
   try{const u=new URL(x.price.url);return u.protocol==='https:'&&!u.username&&!u.password;}catch{return false;}
 }
 export function budgetLabel(p){const n=priceMid(p);return n===null?'价格待核验':BANDS.find(b=>n>=b[2]&&n<b[3])?.[1]||'价格待核验';}
-export function parseSearch(q){let max=null;const re=/(?:预算\s*)?(\d+(?:\.\d+)?)\s*(?:元|块|¥)?\s*(?:以下|以内|内|封顶)/;const m=q.match(re);if(m)max=Number(m[1]);return {q:q.replace(re,'').trim(),max};}
 // These are evidence/relevance rules, never an asserted product quality score.
 export function productURL(x){
   for(const source of x.source?.urls||[]){try{const u=new URL(source.url);if(u.protocol==='https:'&&!u.username&&!u.password)return u.href;}catch{}}
@@ -79,16 +80,19 @@ export function rankCatalog(xs,s,profile,now=new Date()){
   return ranked;
 }
 export function filterCatalog(items,s,favorites=[],now=new Date()){
-  const {q,max}=parseSearch(s.q);const cap=s.max??max;const band=BANDS.find(b=>b[0]===s.budget);
+  const search=createSearchMatcher(items,s.q),{q,max}=search;const cap=s.max===null||s.max===undefined?max:max===null?s.max:Math.min(s.max,max);const band=BANDS.find(b=>b[0]===s.budget);
   let xs=items.filter(x=>isListed(x,now)&&(!s.brand||brandKey(x.brand)===s.brand)&&(!s.type||x.type===s.type)&&(!s.group||x.group===s.group)&&(!s.category||x.category===s.category)&&(!s.scene||(x.tags||[]).includes(s.scene))&&(s.scope!=='documented'||x.review.status==='documented')&&(s.scope!=='new'||x.isNew)&&(s.scope!=='pending'||x.review.status==='pending')&&(s.scope!=='favorites'||favorites.includes(x.id)));
   if(s.personalOnly&&s.preferredTypes?.length)xs=xs.filter(x=>s.preferredTypes.includes(x.type));
   if(s.valueMode==='hundred')xs=xs.filter(x=>priceUsable(x.price,s.history,now)&&x.price.max<=100);
   if(s.valueMode==='upgrade')xs=xs.filter(x=>evidenceTier(x,now)>0&&priceUsable(x.price,false,now)&&x.price.max>100&&x.price.max<=300&&x.purchase?.upgrade);
-  if(q){const tokens=q.toLowerCase().split(/\s+/);xs=xs.filter(x=>{const h=[x.brand,x.product,x.model,x.type,x.legacy_type,x.group,x.category,x.variant,...x.tags,...Object.values(x.specs)].join(' ').toLowerCase();return tokens.every(t=>h.includes(t));});}
+  if(q)xs=xs.filter(x=>search.score(x)>0);
   if(s.priceKind)xs=xs.filter(x=>s.priceKind==='unknown'?x.price.kind==='unknown':s.priceKind==='documented'?x.price.kind==='documented'&&!dated(x.price,now):x.price.kind==='historical');
   if(band||cap!==null)xs=xs.filter(x=>{if(!priceUsable(x.price,s.history,now))return false;const n=priceMid(x.price);return (!band||(n>=band[2]&&n<band[3]))&&(cap===null||x.price.max<=cap);});
   const n=x=>priceUsable(x.price,s.history,now)?priceMid(x.price):null;
-  if(['recommended','evidence'].includes(s.sort))return rankCatalog(xs,s,preferenceProfile(items,favorites),now);
+  if(['recommended','evidence'].includes(s.sort)){
+    const ranked=rankCatalog(xs,s,preferenceProfile(items,favorites),now);
+    return q&&s.sort==='recommended'?ranked.sort((a,b)=>search.score(b)-search.score(a)):ranked;
+  }
   xs.sort((a,b)=>{if(s.sort==='price-asc'||s.sort==='price-desc'){let aa=n(a),bb=n(b);if(aa===null||bb===null)return (aa===null)-(bb===null);return s.sort==='price-asc'?aa-bb:bb-aa;}if(s.sort==='name')return a.product.localeCompare(b.product,'zh-CN');return (b.review.status==='documented')-(a.review.status==='documented')||Number(b.isNew)-Number(a.isNew)||a.id-b.id;});
   return xs;
 }

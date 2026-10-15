@@ -1,5 +1,5 @@
 import {brandKey} from './brand-keys.d90428947558.mjs';
-import {isListed,evidenceTier,priceUsable} from './catalog-core.f7839bf3b745.mjs';
+import {isListed,evidenceTier,priceUsable} from './catalog-core.34704ae06033.mjs';
 export {brandKey};
 export function validBrandPick(pick,items,now=new Date()){
  const selected=items.find(x=>x.id===pick.product_id);

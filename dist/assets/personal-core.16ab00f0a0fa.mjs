@@ -1,4 +1,5 @@
 import {DAILY_TYPES,LEGACY_INTEREST_TYPES} from './taxonomy-core.e0b955ae256f.mjs';
+import {filterCatalog,freshState} from './catalog-core.34704ae06033.mjs';
 export const PERSONAL_TYPES=DAILY_TYPES;
 export const PERSONAL_SCENES=['','办公','学生','宿舍','通勤','桌面','运动','户外'];
 export function normalizePreferences(raw={}){
@@ -19,7 +20,6 @@ export function personalMatch(x,prefs,favorites=[],items=[]){
   return (!types.size||types.has(x.type))&&(!prefs.scene||(x.tags||[]).includes(prefs.scene));
 }
 export function suggestions(items,q,limit=5){
-  const terms=q.trim().toLowerCase().split(/\s+/).filter(Boolean);if(!terms.length)return [];
-  return items.filter(x=>terms.every(t=>[x.product,x.brand,x.model,x.category].join(' ').toLowerCase().includes(t)))
-    .sort((a,b)=>Number(withinBudget(b))-Number(withinBudget(a))||a.id-b.id).slice(0,limit);
+  if(!q.trim())return [];
+  return filterCatalog(items,{...freshState(),q,valueFirst:true}).slice(0,limit);
 }
