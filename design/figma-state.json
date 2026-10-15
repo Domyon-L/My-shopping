@@ -1,0 +1,208 @@
+{
+  "fileKey": "S0oE0Xi71chU7RpN5MK78h",
+  "url": "https://www.figma.com/design/S0oE0Xi71chU7RpN5MK78h",
+  "screenNodes": {
+    "PC/Home": "4:36",
+    "PC/Category": "4:37",
+    "PC/Search": "4:38",
+    "PC/Filter": "4:39",
+    "PC/Detail": "4:40",
+    "Mobile/Home": "4:41",
+    "Mobile/Category": "4:42",
+    "Mobile/Search": "4:43",
+    "Mobile/Filter": "4:44",
+    "Mobile/Detail": "4:45"
+  },
+  "components": {
+    "Primary": "3:6",
+    "Secondary": "3:10",
+    "Hover": "3:14",
+    "Disabled": "3:18",
+    "Search": "3:22",
+    "Filter": "3:26",
+    "Category": "3:32",
+    "Badge": "3:38",
+    "CardPC": "3:42",
+    "CardMobile": "3:64"
+  },
+  "variables": {
+    "bg": "VariableID:2:6",
+    "surface": "VariableID:2:8",
+    "raised": "VariableID:2:10",
+    "ink": "VariableID:2:12",
+    "muted": "VariableID:2:14",
+    "accent": "VariableID:2:16",
+    "violet": "VariableID:2:18",
+    "line": "VariableID:2:20",
+    "warn": "VariableID:2:22",
+    "onAccent": "VariableID:2:24",
+    "gap/sm": "VariableID:2:25",
+    "gap/md": "VariableID:2:26",
+    "gap/lg": "VariableID:2:27",
+    "gap/xl": "VariableID:2:28",
+    "radius/sm": "VariableID:2:29",
+    "radius/md": "VariableID:2:30",
+    "radius/lg": "VariableID:2:31"
+  },
+  "textStyles": {
+    "Display": "S:25a5fd61c85d84b91d5dc34a4324576bcac2928d,",
+    "Heading": "S:c9921b30303521dd15929aca9d90e6ed73c33bec,",
+    "Title": "S:285f9c0d5552c56d16e3efa9707cdd3fd5502ea3,",
+    "Body": "S:4e47856ee79836d34b4cdf7cd6ec6ee4c4e9869a,",
+    "Label": "S:93f66598564c23579d4eccdffe41e6ee3d699088,",
+    "Caption": "S:fb361892748c3ceb24d658db625cc7cbae9075a7,"
+  },
+  "font": "Noto Sans SC",
+  "validatedScreens": [
+    {
+      "name": "PC/Home",
+      "id": "4:36",
+      "width": 1440,
+      "height": 1809,
+      "counts": {
+        "FRAME": 16,
+        "TEXT": 102,
+        "INSTANCE": 39
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "PC/Category",
+      "id": "4:37",
+      "width": 1440,
+      "height": 1438,
+      "counts": {
+        "FRAME": 8,
+        "TEXT": 87,
+        "INSTANCE": 35
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "PC/Search",
+      "id": "4:38",
+      "width": 1440,
+      "height": 897,
+      "counts": {
+        "FRAME": 7,
+        "TEXT": 33,
+        "INSTANCE": 13
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "PC/Filter",
+      "id": "4:39",
+      "width": 1440,
+      "height": 1572,
+      "counts": {
+        "FRAME": 7,
+        "TEXT": 34,
+        "INSTANCE": 13
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "PC/Detail",
+      "id": "4:40",
+      "width": 1440,
+      "height": 1055,
+      "counts": {
+        "FRAME": 10,
+        "TEXT": 46,
+        "INSTANCE": 19
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "Mobile/Home",
+      "id": "4:41",
+      "width": 390,
+      "height": 3359,
+      "counts": {
+        "FRAME": 18,
+        "TEXT": 69,
+        "INSTANCE": 21
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "Mobile/Category",
+      "id": "4:42",
+      "width": 390,
+      "height": 1275,
+      "counts": {
+        "FRAME": 5,
+        "TEXT": 32,
+        "INSTANCE": 12
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "Mobile/Search",
+      "id": "4:43",
+      "width": 390,
+      "height": 1335,
+      "counts": {
+        "FRAME": 8,
+        "TEXT": 30,
+        "INSTANCE": 9
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "Mobile/Filter",
+      "id": "4:44",
+      "width": 390,
+      "height": 1548,
+      "counts": {
+        "FRAME": 7,
+        "TEXT": 31,
+        "INSTANCE": 9
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    },
+    {
+      "name": "Mobile/Detail",
+      "id": "4:45",
+      "width": 390,
+      "height": 1265,
+      "counts": {
+        "FRAME": 10,
+        "TEXT": 23,
+        "INSTANCE": 5
+      },
+      "fonts": [
+        "Noto Sans SC"
+      ],
+      "imageNodes": []
+    }
+  ]
+}

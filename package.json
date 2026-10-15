@@ -1,0 +1,13 @@
+{
+  "name": "boutique-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/refresh-catalog.mjs && node scripts/build-static.mjs",
+    "dev": "node qa-server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^26.1.0"
+  }
+}

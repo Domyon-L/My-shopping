@@ -1,0 +1,117 @@
+﻿<!doctype html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>精品之城</title>
+<meta name="description" content="精品之城 · Domyon 好物引力。用可靠来源与真实需求发现好物，支持商品直达、预算筛选、收藏和对比。">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('boutique-theme')==='light'?'light':'dark'}catch{}</script>
+<link rel="stylesheet" href="./assets/pet.1763a291c813.css">
+<link rel="stylesheet" href="./assets/app.3681e86c2188.css">
+<link rel="stylesheet" href="./assets/cosmic.c6983de125fd.css">
+<link rel="stylesheet" href="./assets/storefront.f35d6bed69dc.css">
+<link rel="stylesheet" href="./assets/tech.0e54c4cf85c5.css">
+<link rel="stylesheet" href="./assets/refined.5af652c72c4a.css">
+<link rel="stylesheet" href="./assets/discovery.b9cc45d658fa.css">
+<link rel="stylesheet" href="./assets/cyber.f1c8003635cd.css">
+<link rel="stylesheet" href="./assets/galactic.a301a106da3f.css">
+<link rel="icon" type="image/svg+xml" href="./assets/domyon-mark.10cc18a926d2.svg">
+<meta name="theme-color" content="#080c1b">
+<script src="./assets/catalog-data.f75ae6e7abbf.js" defer></script>
+<script src="./assets/brand-data.291370b27c48.js" defer></script>
+<script type="module" src="./assets/app.cd379c7126b5.mjs"></script>
+<script type="module" src="./assets/experience.8962de1de93d.mjs"></script>
+</head>
+<body>
+<canvas id="snow" aria-hidden="true"></canvas><div class="sky-curtain" aria-hidden="true"><i></i><i></i><i></i></div><div class="cosmic-grid entry-only" aria-hidden="true"></div>
+<section id="entryScreen" class="entry-screen" aria-labelledby="entryTitle">
+ <div class="entry-top"><a class="entry-brand" href="#entryTitle"><img src="./assets/domyon-mark.10cc18a926d2.svg" width="40" height="40" alt=""><span>Domyon <small>好物引力</small></span></a><div class="entry-controls"><button id="entryThemeToggle" aria-label="切换白昼主题">☼</button><button data-personal-open class="personal-entry">✦ 我的星球</button><button id="snowToggle" aria-label="关闭星空动效" title="开关星空动效">✧ 星空</button><button id="petRestore" aria-label="显示或定位好物精灵">◉ 找回小引</button></div></div>
+ <div class="celestial-objects" aria-hidden="true"><span class="planet planet-a"></span><span class="planet planet-b"></span><span class="satellite"></span><span class="orbit-track"></span></div><div class="entry-orbits" aria-hidden="true"><i></i><i></i><i></i><span></span></div>
+ <div class="entry-content"><span class="entry-kicker">DOMYON · GALACTIC DISTRICT</span><h1 id="entryTitle">精品之城</h1><p>穿过星海，发现你的百元小确幸。</p>
+  <form id="entrySearchForm" class="entry-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="entrySearch" type="search" aria-label="进入前搜索商品" placeholder="想发现什么？试试「100元以内 食品盒」" autocomplete="off"><button id="enterCity" type="submit">进入精品之城 <span>↗</span></button></form>
+  <div id="entryChannels" class="entry-channels" aria-label="快捷进入"><button data-entry-type="数码科技">数码科技</button><button data-entry-type="家居生活">家居生活</button><button data-entry-type="服饰穿搭">服饰穿搭</button><button data-entry-type="运动户外">运动户外</button></div>
+  <div class="entry-options"><button id="entryBrowse">浏览全部好物 →</button><button id="entryFavorites">我的收藏 ☆</button><button data-personal-open>定制我的星球 ✦</button></div>
+  <details class="entry-settings"><summary>进入设置</summary><div class="entry-settings-panel"><label for="portalDuration">进入时长 <output id="portalDurationValue" for="portalDuration">1.5 秒</output></label><input id="portalDuration" type="range" min="0.5" max="3" step="0.1" value="1.5" aria-describedby="portalDurationValue"><div class="duration-limits" aria-hidden="true"><span>0.5 秒</span><span>3 秒</span></div></div></details>
+ </div>
+</section>
+<div id="storefront" hidden inert>
+<a class="skip" href="#products">跳到商品列表</a>
+<header class="header">
+  <button id="menuToggle" class="icon-button menu-toggle" aria-label="打开分类侧栏" aria-controls="categoryRail" aria-expanded="false">☰</button>
+  <a class="brand" href="#heroTitle" aria-label="精品之城首页"><img src="./assets/domyon-mark.10cc18a926d2.svg" width="38" height="38" alt=""><span>精品之城<small>DOMYON · 好物引力</small></span></a>
+  <form id="searchForm" class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" type="search" placeholder="搜索商品 / 品牌 / 预算" autocomplete="off" aria-label="搜索商品或预算" enterkeyhint="search" aria-controls="searchSuggestions" aria-expanded="false"><button type="button" id="clearSearch" aria-label="清除搜索" hidden>×</button><button id="searchSubmit" type="submit">搜索</button><kbd>/</kbd><div id="searchSuggestions" class="search-suggestions" hidden aria-label="商品搜索建议"></div></form>
+  <div class="header-actions"><button data-personal-open class="personal-header" aria-label="打开我的星球"><span>✦</span><b>我的星球</b></button><button id="themeToggle" class="theme-button" aria-label="切换黑夜主题"><span aria-hidden="true">☾</span><span id="themeLabel">黑夜</span></button><button id="favoritesShortcut" class="icon-button" aria-label="查看收藏" title="我的收藏">☆<small id="favCount">0</small></button><button id="backToEntry" class="entry-return" aria-label="返回星空入口">返回入口 ↗</button></div>
+</header>
+<button class="rail-backdrop" id="railBackdrop" aria-label="关闭分类侧栏" hidden></button>
+<div class="workspace">
+ <aside class="rail" id="categoryRail" aria-label="商品分类"><div class="mobile-rail-head"><span>探索精品之城</span><button id="menuClose" aria-label="关闭分类侧栏">×</button></div>
+   <div class="rail-label">探索频道 <span id="channelCount">11</span></div>
+   <nav id="categories" class="category-nav"></nav>
+   <div class="rail-bottom"><i class="signal"></i><span>价格核对于 <b>2026.10.14</b></span><button id="standardsButton">查看选品规则 ↗</button></div>
+ </aside>
+ <main id="main">
+  <section class="hero shop-banner" aria-labelledby="heroTitle">
+   <div class="hero-copy"><div class="eyebrow">DOMYON / 好物集市</div><h1 id="heroTitle" tabindex="-1">小预算，<br><span>也有大惊喜。</span></h1><p>先逛百元好物，需要加预算时，把理由看清楚。</p><div class="hero-shortcuts"><button data-value="hundred">百元以内 →</button><button data-value="upgrade">有理由，再加预算</button><button data-shortcut="documented">逛逛精选 ↗</button><button data-shortcut="new">本次新品</button></div></div>
+   <div class="market-visual" aria-hidden="true"><div class="cyber-emblem"><i></i><i></i><i></i><span></span></div><div class="market-bag"><img src="./assets/domyon-mark.10cc18a926d2.svg" width="82" height="82" alt=""><span>Domyon</span></div><div id="heroMarketIcons" class="market-orbit"></div></div>
+  </section>
+  <div class="catalog-stats"><div><strong id="totalStat">—</strong><span>件在展好物</span></div><div><strong id="verifiedStat">—</strong><span>参考价有据</span></div><div><strong id="newStat">—</strong><span>本次上新</span></div></div>
+  <section class="personal-dashboard" aria-label="我的个性化发现"><div class="personal-orb" aria-hidden="true">✦</div><div class="personal-greeting"><span>我的星球 / FOR YOU</span><h2 id="personalGreeting">好物探索家，欢迎回来。</h2><p id="personalSummary">百元预算 · 按你的喜欢，慢慢发现。</p></div><div class="personal-actions"><button id="personalDiscover">专属发现 ↗</button><button data-personal-open>定制偏好</button><button id="recentShortcut">最近看过 <b id="recentCount">0</b></button></div></section>
+  <section class="value-spotlight" aria-labelledby="valueSpotlightTitle"><div class="value-heading"><div><span class="eyebrow">LESS BUDGET, MORE JOY</span><h2 id="valueSpotlightTitle">百元有据好物</h2></div><button data-value="hundred">更多百元好物 ↗</button></div><div id="valuePicks" class="value-picks"></div></section>
+  <section class="brand-spotlight" aria-labelledby="brandSpotlightTitle"><div class="brand-section-heading"><div><span class="eyebrow">BRAND / SIGNATURE PICKS</span><h2 id="brandSpotlightTitle">这个品牌，先买哪件？</h2><p>按用途选代表作，百元优先，把取舍讲清楚。</p></div><button data-brand-open class="brand-explore">查看全部品牌 ↗</button></div><div id="brandPicks" class="brand-picks"></div></section>
+  <nav id="shopChannels" class="shop-scenes" aria-label="逛逛频道"></nav>
+  <div class="quick-browse" aria-label="快捷预算"><button data-value="" aria-pressed="true">全部好物</button><button data-value="hundred" aria-pressed="false">¥100 以内</button><button data-value="upgrade" aria-pressed="false">值得加预算</button><button data-personal-open>✦ 我的偏好</button></div>
+  <section class="browse" aria-label="商品浏览">
+   <div class="control-deck">
+    <div class="browse-heading"><div><span class="eyebrow" id="breadcrumb">全部分类</span><h2 id="listTitle">发现好物<span class="count" id="resultCount" aria-live="polite"></span></h2></div><div class="scope-tabs" role="group" aria-label="浏览范围"><button data-scope="all" aria-pressed="true">全部</button><button data-scope="documented" aria-pressed="false">有据精选</button><button data-scope="new" aria-pressed="false">新品</button><button data-scope="favorites" aria-pressed="false">收藏</button></div></div>
+    <div class="mobile-tools"><button id="mobileFiltersToggle" aria-expanded="false" aria-controls="filterFields">筛选 <span id="filterBadge"></span> ☷</button><span id="mobileBrowseCount"></span></div>
+    <div id="filterFields"><div class="filters"><label>细分类<select id="groupSelect" aria-label="商品分组"><option value="">全部分组</option></select></label><label>品类<select id="categorySelect" aria-label="商品品类"><option value="">全部品类</option></select></label><label>预算<select id="budgetSelect" aria-label="预算范围"><option value="">不限预算</option></select></label><label>排序<select id="sortSelect" aria-label="商品排序"><option value="recommended">百元优先 · 多样发现</option><option value="evidence">资料完整优先</option><option value="price-asc">价格从低到高</option><option value="price-desc">价格从高到低</option><option value="name">商品名称</option></select></label><button id="moreFilters" class="filter-button">更多筛选 <span>☷</span></button></div><div class="recommendation-bar"><button id="recommendationInfo" class="text-button">为什么推荐？ ↗</button><label><input type="checkbox" id="personalizeToggle" checked>结合我的收藏</label></div><button id="applyMobileFilters" class="primary mobile-filter-apply">查看结果 ↗</button></div>
+    <div class="filter-meta"><div id="activeChips" class="chips"></div><button id="reset" class="text-button" hidden>重置筛选 ↺</button></div>
+   </div>
+   <div class="catalog-note" id="catalogNote">资料核验不等于实物质检。旧记录已标记待核验，详情可查看依据与限制。</div>
+
+   <div id="products" class="product-list" tabindex="-1"></div>
+   <div class="pager"><span id="pageInfo"></span><div id="pageButtons"><button id="prevPage" aria-label="上一页">←</button><button id="nextPage" aria-label="下一页">→</button></div></div><button id="loadMore" class="load-more" hidden>加载更多好物 ↓</button>
+  </section>
+  <footer><span>精品之城 © Domyon · 好物引力</span><span>参考资料与成交价格可能变化，请以实际型号及销售条款为准。</span><button id="exportButton">导出当前结果 ↗</button></footer>
+ </main>
+</div>
+
+<div id="compareTray" class="compare-tray" hidden><div><span class="compare-indicator">⇄</span><strong>商品对比</strong><span id="compareCount"></span></div><div id="compareNames"></div><div><button id="clearCompare" class="text-button">清空</button><button id="compareOpen" class="primary" disabled>开始对比 →</button></div></div>
+<nav class="mobile-dock" aria-label="手机快捷导航"><button data-mobile="discover" aria-label="发现好物"><span>✧</span>发现</button><button data-mobile="categories" aria-label="打开全部分类"><span>▦</span>分类</button><button data-mobile="favorites" aria-label="打开我的收藏"><span>♡</span>收藏</button><button data-mobile="entrance" aria-label="返回星空入口"><span>↗</span>入口</button></nav>
+</div>
+<div class="pet-wrap" id="petWrap"><div class="pet-stage" id="petStage" aria-live="polite">
+  <div class="pet-bubble" id="petBubble"><b>小引</b></div>
+  <button class="pet-buddy" id="petBuddy" type="button" aria-label="和小诺互动">
+    <span class="pet-aura pet-aura-a"></span><span class="pet-aura pet-aura-b"></span>
+    <span class="pet-halo"></span>
+    <span class="pet-orbit pet-orbit-a"><i></i></span><span class="pet-orbit pet-orbit-b"><i></i></span>
+    <span class="pet-wing pet-wing-l"><i></i></span><span class="pet-wing pet-wing-r"><i></i></span>
+    <span class="pet-ear pet-ear-l"></span><span class="pet-ear pet-ear-r"></span>
+    <span class="pet-core">
+      <span class="pet-glass"></span>
+      <span class="pet-visor"></span>
+      <span class="pet-face">
+        <span class="pet-eye pet-eye-l"><i></i></span><span class="pet-eye pet-eye-r"><i></i></span>
+        <span class="pet-mouth"></span>
+      </span>
+      <span class="pet-cheek pet-cheek-l"></span><span class="pet-cheek pet-cheek-r"></span>
+      <span class="pet-nose"></span><span class="pet-core-dot"></span>
+      <span class="pet-status"><i></i><i></i><i></i></span>
+    </span>
+    <span class="pet-tail"><i></i></span><span class="pet-paw pet-paw-l"></span><span class="pet-paw pet-paw-r"></span>
+    <span class="pet-spark pet-spark-a"></span><span class="pet-spark pet-spark-b"></span><span class="pet-spark pet-spark-c"></span>
+    <span class="pet-shadow"></span>
+  </button>
+</div>
+<div class="pet-panel" id="petPanel" hidden><b>小引 · 你的好物向导</b><button data-pet-action="discover">带我发现好物 ↗</button><button data-pet-action="favorites">看看我的收藏 ☆</button><button data-pet-action="reset">回到默认位置</button><button data-pet-action="hide">暂时收起精灵</button></div></div>
+<dialog id="portalDialog" class="portal-dialog" aria-labelledby="portalTitle"><canvas id="portalCanvas" aria-hidden="true"></canvas><div class="hole-fallback" aria-hidden="true"><i class="hole-disc"></i><i class="hole-lens"></i><i class="hole-core"></i><i class="hole-arc"></i></div><div class="portal-copy"><img src="./assets/domyon-mark.10cc18a926d2.svg" alt="" width="62" height="62"><h2 id="portalTitle">精品之城</h2><div class="portal-progress"><i></i></div><div class="portal-controls"><button id="portalSkip">立即进入 →</button><button id="portalCancel">取消</button></div></div></dialog>
+<dialog id="personalDialog" class="personal-dialog" aria-labelledby="personalTitle"><div class="dialog-top"><h2 id="personalTitle">✦ 我的星球</h2><button data-close="personalDialog" aria-label="关闭我的星球">×</button></div><form id="personalForm" class="personal-form"><p class="personal-intro">让每一次发现，都更像你。</p><label class="field">怎么称呼你<input id="personalNickname" type="text" maxlength="18" placeholder="好物探索家" autocomplete="nickname"></label><div class="personal-form-row"><label class="field">日常预算<select id="personalBudget"><option value="50">50 元以内</option><option value="100">100 元以内</option><option value="120">120 元以内</option><option value="200">200 元以内</option><option value="300">300 元以内</option></select></label><label class="field">常用场景<select id="personalScene"><option value="">随心发现</option><option>办公</option><option>学生</option><option>宿舍</option><option>通勤</option><option>桌面</option><option>运动</option><option>户外</option></select></label></div><fieldset class="interest-field"><legend>你感兴趣的好物</legend><div id="personalInterests" class="interest-chips"></div></fieldset><fieldset class="accent-field"><legend>你的主题色</legend><div class="accent-choices"><label><input type="radio" name="accent" value="blue"><span class="accent-dot blue"></span>星海蓝</label><label><input type="radio" name="accent" value="violet"><span class="accent-dot violet"></span>星云紫</label><label><input type="radio" name="accent" value="coral"><span class="accent-dot coral"></span>日落橙</label></div></fieldset><label class="field">宇宙氛围<select id="personalCosmicTone"><option value="galaxy">紫蓝星河</option><option value="crimson">暗红星潮</option></select></label><label class="field">星空氛围<select id="personalIntensity"><option value="quiet">轻盈</option><option value="balanced">舒适</option><option value="rich">繁星</option></select></label><label class="checkbox personal-motion"><input id="personalEffects" type="checkbox" checked>开启星空与流星动效</label><div class="personal-history"><h3>最近看过</h3><div id="recentProducts"></div><button id="clearRecent" type="button">清空浏览记录</button></div><p class="personal-privacy">偏好与浏览记录保存在此浏览器。</p><div class="personal-form-actions"><button id="resetPersonal" type="button">恢复默认</button><button class="primary" type="submit">保存我的星球 →</button></div><output id="personalSaved" aria-live="polite"></output></form></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<dialog id="detailDialog" class="detail-dialog" aria-labelledby="detailTitle"><div class="dialog-top"><span>商品详情</span><div><button id="prevDetail" aria-label="上一个商品">←</button><button id="nextDetail" aria-label="下一个商品">→</button><button data-close="detailDialog" aria-label="关闭商品详情">×</button></div></div><div id="detailContent"></div></dialog>
+<dialog id="brandDialog" class="brand-dialog" aria-labelledby="brandDialogTitle"><div class="dialog-top"><h2 id="brandDialogTitle">品牌代表作</h2><button data-close="brandDialog" aria-label="关闭品牌代表作">×</button></div><div class="brand-dialog-body"><p class="brand-intro">在已核对的同类商品中，按用途与预算选择。品牌跨度太大，先说清楚你要用它做什么。</p><label class="field">找品牌<input id="brandSearch" type="search" placeholder="例如 宜家 / Nike / MUJI" autocomplete="off"></label><div id="brandDirectory" class="brand-directory" aria-label="品牌列表"></div><section id="brandProfile" aria-live="polite"></section></div></dialog>
+<dialog id="filterDialog" class="small-dialog" aria-labelledby="filterTitle"><div class="dialog-top"><h2 id="filterTitle">按需求筛选</h2><button data-close="filterDialog" aria-label="关闭更多筛选">×</button></div><div class="dialog-body"><label class="field">使用场景<select id="sceneSelect"><option value="">不限场景</option><option>办公</option><option>学生</option><option>宿舍</option><option>通勤</option><option>运动</option><option>桌面</option><option>户外</option></select></label><label class="field">价格资料<select id="priceKindSelect"><option value="">全部口径</option><option value="documented">近期核对的公开标价</option><option value="historical">历史参考价</option></select></label><label class="checkbox"><input id="includeHistory" type="checkbox" checked>预算筛选及排序中纳入历史参考价</label><p class="muted">历史参考价沿用原目录价格与日期，尚未取得当前报价；关闭此选项后，预算及价格排序仅使用近期有来源的参考价。</p><button data-close="filterDialog" class="primary wide">完成筛选</button></div></dialog>
+<dialog id="compareDialog" class="compare-dialog" aria-labelledby="compareTitle"><div class="dialog-top"><h2 id="compareTitle">并排看清差别</h2><button data-close="compareDialog" aria-label="关闭商品对比">×</button></div><div id="compareContent" class="dialog-body"></div></dialog>
+<dialog id="standardsDialog" class="small-dialog" aria-labelledby="standardsTitle"><div class="dialog-top"><h2 id="standardsTitle">选品与核验规则</h2><button data-close="standardsDialog" aria-label="关闭选品规则">×</button></div><div class="dialog-body"><ol class="standards"><li><b>推荐顺序透明可解释</b><p>全目录恢复原有历史参考价记录，并保留原日期；有据精选仅展示资料完整且人民币参考价有来源、价格核对未超过 30 天的商品。默认把参考价格区间上限不超过100元的商品排在前面，各预算层内再结合资料、兴趣和收藏排序；历史记录只作浏览参考。值得加预算频道只展示100–300元、资料完整且有具体加价理由的商品。新品标签不额外加权，也不把推荐顺序当作实物质量评级。收藏偏好只保存在当前浏览器，可随时关闭。</p></li><li><b>确认身份</b><p>型号和版本明确，来源网址对应该型号；重定向到其他商品的页面不能作为依据。</p></li><li><b>核对规格</b><p>参数、材质、包装和地区信息保留原口径，不混用不同版本。</p></li><li><b>说明限制</b><p>写清兼容性、保养、适用边界和售后核对事项。药品和证据不足的旧记录不纳入精选。</p></li><li><b>区分价格</b><p>页面区分近期参考价和历史参考价。历史参考价保留原目录日期，不代表现价或指定规格的报价；尚无价格记录及过复核期的公开标价暂不展示。</p></li></ol><p class="muted">“资料已核验”表示已审查所列原厂公开资料，不表示已完成实物测试、鉴真或全地区召回排查。购买时仍需核对批次、当地认证、卖家资质与售后。</p><div id="auditSummary" class="audit-summary"></div></div></dialog>
+<noscript>请启用 JavaScript 以使用商品搜索与筛选。</noscript>
+</body></html>

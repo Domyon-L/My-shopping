@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "scope": "本次逐项复核的六条公开标价，非全目录实物质检"
+  },
+  "items": [
+    {
+      "id": 682,
+      "brand": "IKEA 宜家",
+      "product": "IKEA 365+ 玻璃食品盒 / 硅树脂盖 1 L",
+      "type": "家居生活",
+      "group": "餐厨水具",
+      "category": "食品盒",
+      "model": "092.767.73",
+      "variant": "附盖；玻璃 / 硅树脂；1.0 L",
+      "specs": {
+        "容量": "1.0 L",
+        "尺寸": "21 × 15 × 7 cm",
+        "盒身材质": "玻璃",
+        "盖材质": "硅树脂",
+        "保养": "可用于微波炉、冰箱冷冻室、洗碗机及烤箱",
+        "官方耐温说明": "最高 220 °C，按配套使用说明操作"
+      },
+      "fit": [
+        "宿舍",
+        "通勤"
+      ],
+      "limits": [
+        "首次使用前清洗；加热与保养按此具体材质的说明。",
+        "检索页面提示地区库存待确认，不承诺有货。"
+      ],
+      "tags": [
+        "宿舍",
+        "通勤"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 74.99,
+        "max": 74.99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/",
+        "label": "宜家中国公开标价",
+        "variant": "货号 092.767.73；玻璃盒及硅树脂盖，1 L",
+        "note": "页面显示地区缺货提示；参考标价不表示现货。"
+      },
+      "isNew": false,
+      "updated_at": "2026-10-11",
+      "overview": "适合日常存放熟食与备餐的长方形玻璃食品盒，参考规格包含盒身和硅树脂盖。透明盒身便于查看内容，玻璃不易吸附食物气味。",
+      "highlights": [
+        "1 L 容量，附盖规格",
+        "玻璃盒身，硅树脂盖",
+        "可冷藏、冷冻及清洗"
+      ],
+      "package": [
+        "长方形玻璃盒身 1 个",
+        "匹配的硅树脂盖 1 个"
+      ],
+      "care": [
+        "首次使用前清洗。",
+        "按该规格的官方说明使用微波炉、洗碗机和烤箱。"
+      ],
+      "purchase": {
+        "value": "玻璃盒与硅树脂盖一套，带饭和保存食物不用再另配盖。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/"
+        ]
+      }
+    },
+    {
+      "id": 683,
+      "brand": "IKEA 宜家",
+      "product": "SAMLA 萨姆拉 附盖透明储物盒 5 L",
+      "type": "家居生活",
+      "group": "收纳整理",
+      "category": "收纳箱",
+      "model": "194.408.48",
+      "variant": "附盖；透明；5 L",
+      "specs": {
+        "容量": "5 L",
+        "尺寸": "28 × 20 × 14 cm",
+        "使用范围": "室内收纳",
+        "材质": "聚丙烯塑料",
+        "结构": "附盖，内嵌锁扣"
+      },
+      "fit": [
+        "宿舍",
+        "桌面"
+      ],
+      "limits": [
+        "不可直接接触食物，仅限室内使用。",
+        "检索页面提示地区库存待确认，不承诺有货。"
+      ],
+      "tags": [
+        "宿舍",
+        "桌面"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://www.ikea.cn/cn/zh/p/samla-box-with-lid-transparent-s19440848/"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 9.99,
+        "max": 9.99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.ikea.cn/cn/zh/p/samla-box-with-lid-transparent-s19440848/",
+        "label": "宜家中国公开标价",
+        "variant": "货号 194.408.48；附盖透明收纳盒，5 L",
+        "note": "页面显示地区缺货提示；参考标价不表示现货。"
+      },
+      "isNew": false,
+      "updated_at": "2026-10-11",
+      "overview": "用于室内整理小工具、线材和日常零碎物品的透明储物盒。附盖和锁扣结构便于防尘及叠放，透明盒身可直接看到收纳内容。",
+      "highlights": [
+        "5 L 附盖规格",
+        "透明盒身便于查找",
+        "适合室内整理和叠放"
+      ],
+      "package": [
+        "透明储物盒 1 个",
+        "5 L 配套盒盖 1 个"
+      ],
+      "care": [
+        "用软布配合水和中性清洁剂擦拭。",
+        "仅供室内收纳，不可直接接触食物。"
+      ],
+      "purchase": {
+        "value": "5 L 透明附盖收纳，适合整理小工具与线材；不要直接装食物。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.ikea.cn/cn/zh/p/samla-box-with-lid-transparent-s19440848/"
+        ]
+      }
+    },
+    {
+      "id": 1002,
+      "brand": "Apple 苹果",
+      "product": "AirPods Pro 3 无线降噪耳机",
+      "type": "数码科技",
+      "group": "影音设备",
+      "category": "入耳式耳机",
+      "model": "AirPods Pro 3",
+      "variant": "USB-C MagSafe 充电盒；5 种尺寸耳塞",
+      "specs": {
+        "芯片": "H2",
+        "单次聆听": "最长 8 小时（开启降噪，厂商测试）",
+        "防护": "耳机及充电盒 IP57",
+        "连接": "蓝牙 5.3",
+        "单只重量": "5.55 g，依配置及制造工艺可能变化",
+        "充电盒重量": "43.99 g",
+        "含盒续航": "开启主动降噪时最长 24 小时，厂商测试",
+        "充电方式": "USB-C / MagSafe / Apple Watch / Qi"
+      },
+      "fit": [
+        "通勤",
+        "运动"
+      ],
+      "limits": [
+        "防护性能会随磨损下降；不适用于水上活动，潮湿时不能充电。",
+        "部分功能需兼容 Apple 设备与系统；USB-C 线及适配器单购。"
+      ],
+      "tags": [
+        "通勤",
+        "运动"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://support.apple.com/zh-cn/125135"
+          },
+          {
+            "label": "官方购买与包装内容",
+            "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 1899,
+        "max": 1899,
+        "observed_at": "2026-10-14",
+        "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3",
+        "label": "Apple 中国大陆公开标价",
+        "variant": "AirPods Pro 3；USB-C MagSafe 充电盒",
+        "note": "未扣除以旧换新、教育或支付活动优惠；不含另购充电线和适配器。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-11",
+      "overview": "配备主动降噪与通透模式的入耳式无线耳机，适合通勤聆听和兼容设备上的日常通话。提供五种尺寸耳塞，部分空间音频、心率和查找功能依赖兼容设备及系统版本。",
+      "highlights": [
+        "H2 芯片，主动降噪",
+        "降噪开启时最长 8 小时聆听",
+        "耳机与充电盒 IP57"
+      ],
+      "package": [
+        "AirPods Pro 3 耳机",
+        "带扬声器和挂绳孔的 USB-C MagSafe 充电盒",
+        "XXS、XS、S、M、L 五种尺寸耳塞及资料"
+      ],
+      "care": [
+        "USB-C 充电线和电源适配器需另购。",
+        "防护性能会随磨损下降，避免水上活动和潮湿充电。"
+      ],
+      "purchase": {
+        "upgrade": "经常通勤、需要主动降噪时，最长8小时降噪聆听和多种充电方式才可能值得；1899元远超日常预算，先试戴并确认设备兼容。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3"
+        ]
+      }
+    },
+    {
+      "id": 1003,
+      "brand": "Apple 苹果",
+      "product": "iPad（A16）128 GB 无线局域网版",
+      "type": "数码科技",
+      "group": "平板电脑",
+      "category": "平板电脑",
+      "model": "iPad A16",
+      "variant": "128 GB；Wi-Fi 版",
+      "specs": {
+        "芯片": "A16",
+        "存储": "128 GB",
+        "接口": "USB-C",
+        "屏幕": "11 英寸 Liquid Retina",
+        "分辨率": "2360 × 1640，264 ppi",
+        "亮度": "500 尼特",
+        "机身尺寸": "248.6 × 179.5 × 7 mm",
+        "重量": "477 g，无线局域网版",
+        "USB 数据速率": "USB 2.0，最高 480 Mb/s",
+        "标示续航": "无线局域网浏览或视频最长 10 小时，厂商测试"
+      },
+      "fit": [
+        "学生",
+        "办公"
+      ],
+      "limits": [
+        "手写笔及键盘兼容性需按具体型号确认，配件单购。",
+        "无线局域网版不能直接使用蜂窝数据；购买前核对型号和容量。"
+      ],
+      "tags": [
+        "学生",
+        "办公"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://support.apple.com/zh-cn/122240"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 3799,
+        "max": 3799,
+        "observed_at": "2026-10-14",
+        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+        "label": "Apple 中国大陆公开标价",
+        "variant": "iPad A16；128 GB；无线局域网版",
+        "note": "仅对应页面所列 128 GB 无线局域网配置；不含手写笔、键盘和折抵优惠。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-11",
+      "overview": "A16 芯片的 11 英寸 iPad，当前展示 128 GB 无线局域网配置。适合阅读、记笔记、文档处理和影音使用，可搭配指定 Apple Pencil 与键盘；配件费用需单独考虑。",
+      "highlights": [
+        "A16 芯片，128 GB",
+        "11 英寸 Liquid Retina 显示屏",
+        "USB-C，支持指定 Apple Pencil"
+      ],
+      "package": [
+        "iPad",
+        "1 米 USB-C 充电线",
+        "20 W USB-C 电源适配器，按中国技术规格页所列"
+      ],
+      "care": [
+        "Apple Pencil 和键盘单独出售。",
+        "第一代 Apple Pencil 需 USB-C 转换器；无线局域网版没有蜂窝连接。"
+      ],
+      "purchase": {
+        "upgrade": "只有确实需要独立平板学习或阅读时，A16、128 GB和11英寸屏幕才有加预算的意义；3799元另做预算，手写笔与键盘还需单购。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.apple.com.cn/shop/buy-ipad/ipad"
+        ]
+      }
+    },
+    {
+      "id": 1005,
+      "brand": "CASIO 卡西欧",
+      "product": "fx-991CN CW II 科学计算器",
+      "type": "学习办公",
+      "group": "学习工具",
+      "category": "计算器",
+      "model": "fx-991CN CW II",
+      "variant": "中文 ClassWiz；黑色；附硬质保护壳",
+      "specs": {
+        "显示": "中文 / 自然书写显示",
+        "电源": "LR44 + 太阳能",
+        "类型": "无编程与文本存储功能",
+        "功能": "方程 / 矩阵 / 向量 / 统计"
+      },
+      "fit": [
+        "学生"
+      ],
+      "limits": [
+        "考试能否使用此型号须核对具体考试规则。",
+        "核对 II 代及黑色版本；其他后缀配色需单独核查。"
+      ],
+      "tags": [
+        "学生"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://www.casio.com.cn/scientific-calculators/product.FX-991CN-CW-PLUS/"
+          },
+          {
+            "label": "官方操作指南",
+            "url": "https://support.casio.com/global/cn/calc/manual/fx-991CNCWII_999CNCWII_cn/"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 218,
+        "max": 218,
+        "observed_at": "2026-10-14",
+        "url": "https://www.casio.com.cn/scientific-calculators/product.FX-991CN-CW-PLUS/",
+        "label": "卡西欧中国官网公开标价",
+        "variant": "fx-991CN CW II；黑色；硬质保护壳",
+        "note": "官网公开参考价；考试使用许可需另行确认，不含购买渠道优惠。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-11",
+      "overview": "面向学习中方程、矩阵、向量和统计计算的中文科学计算器。自然书写显示便于核对表达式，采用电池与太阳能供电；使用前应确认考试是否允许该具体型号。",
+      "highlights": [
+        "中文 ClassWiz，自然书写显示",
+        "方程、矩阵、向量与统计",
+        "无编程和文本存储功能"
+      ],
+      "package": [
+        "fx-991CN CW II 计算器及硬质保护壳；完整附件以销售包装为准"
+      ],
+      "care": [
+        "保留准确的 II 代型号和配色信息。",
+        "考试使用限制以具体考试规则为准。"
+      ],
+      "purchase": {
+        "upgrade": "若经常用科学函数计算，218元对应中文自然书写显示和太阳能＋LR44双电源；只做四则运算就无需加预算，考试使用先查规则。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.casio.com.cn/scientific-calculators/product.FX-991CN-CW-PLUS/"
+        ]
+      }
+    },
+    {
+      "id": 1012,
+      "brand": "IKEA 宜家",
+      "product": "IKEA 365+ 正方形玻璃食品盒 1.2 L",
+      "type": "家居生活",
+      "group": "餐厨水具",
+      "category": "食品盒",
+      "model": "003.592.11",
+      "variant": "仅盒身；1.2 L；盖需另购",
+      "specs": {
+        "容量": "1.2 L",
+        "尺寸": "15 × 15 × 11 cm",
+        "材质": "耐热玻璃",
+        "配盖": "IKEA 365+ 方形盖，单独出售",
+        "保养": "可用于微波炉、冰箱冷冻室、洗碗机及烤箱"
+      },
+      "fit": [
+        "宿舍",
+        "通勤"
+      ],
+      "limits": [
+        "需搭配 IKEA 365+ 方形盖；与附盖 1 L 款不是同一规格。",
+        "首次使用前清洗，按官方说明加热与保养。"
+      ],
+      "tags": [
+        "宿舍",
+        "通勤"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "品牌产品资料",
+            "url": "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/"
+          }
+        ],
+        "checked_at": "2026-10-11"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-11",
+        "method": "型号、规格、适用限制与官方资料人工交叉核对",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 19.99,
+        "max": 19.99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/",
+        "label": "宜家中国公开标价",
+        "variant": "货号 003.592.11；正方形玻璃盒身，1.2 L；盖另购",
+        "note": "读取的是公开页面所列价格；页面有地区缺货提示，具体库存另行确认。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-11",
+      "overview": "用于备餐和存放食物的正方形耐热玻璃盒。此条目只包含 1.2 L 盒身，密封盖需另行搭配，适合需要自行选择盖子材质的用户。",
+      "highlights": [
+        "1.2 L 玻璃盒身",
+        "正方形，15 × 15 × 11 cm",
+        "方形盖单独购买"
+      ],
+      "package": [
+        "正方形玻璃食品盒 1 个；不含盖"
+      ],
+      "care": [
+        "首次使用前清洗。",
+        "官方列明可用于微波炉、冰箱冷冻室、洗碗机和烤箱；按实际说明操作。"
+      ],
+      "purchase": {
+        "value": "1.2 L 耐热玻璃盒身，可微波加热；盖需另购，把配盖成本也算上。",
+        "checked_at": "2026-10-14",
+        "basis": "按公开功能与使用需求给出的购买建议，不是实物质量评级",
+        "source_urls": [
+          "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/"
+        ]
+      }
+    }
+  ]
+}

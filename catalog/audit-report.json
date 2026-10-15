@@ -1,0 +1,29 @@
+{
+  "reviewed_at": "2026-10-11",
+  "latest_batch_reviewed_at": "2026-10-14",
+  "target_visible_count": 1000,
+  "price_reviewed_at": "2026-10-14",
+  "original_count": 850,
+  "new_count": 154,
+  "total_records": 1016,
+  "visible_count": 1000,
+  "retained_count": 1015,
+  "hidden_count": 15,
+  "documented_count": 175,
+  "pending_count": 840,
+  "merged_count": 1,
+  "removed_unsubstantiated_scores": 850,
+  "documented_price_count": 160,
+  "historical_price_count": 840,
+  "method": "恢复原目录中有历史参考价的记录，保留原价格日期并明确标注历史；有据精选只收录资料完整且近期价格有来源的商品。尚无价格记录的商品暂不展示。",
+  "rejected_candidates": [
+    {
+      "model": "3M 1100",
+      "reason": "所查美版资料面向职业防护；不直接作为日常消费新品推荐。"
+    },
+    {
+      "model": "Nike CW2288-111",
+      "reason": "所查网址已重定向至 IO5011-300，型号不符，未将旧款标为已核验。"
+    }
+  ]
+}

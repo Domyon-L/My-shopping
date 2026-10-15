@@ -1,0 +1,2731 @@
+[
+  {
+    "id": 2123,
+    "brand": "CASIO 卡西欧",
+    "product": "fx-82CN CW II 科学计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "fx-82CN CW II",
+    "variant": "中文黑色；附硬质保护壳",
+    "specs": {
+      "显示": "10+2位，中文自然书写，192×63点阵",
+      "功能": "计算、统计、函数表格三大应用",
+      "电源": "AAA型R03（7号）电池",
+      "尺寸": "162×77×13.8 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 88,
+      "max": 88,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "中文黑色；附硬质保护壳",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "88元已涵盖三角函数、统计和函数表格；常规科学计算优先这一款，仅有方程求解等实际需要再升级。",
+    "highlights": [
+      "显示：10+2位，中文自然书写，192×63点阵",
+      "功能：计算、统计、函数表格三大应用",
+      "电源：AAA型R03（7号）电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "purchase": {
+      "value": "88元已涵盖三角函数、统计和函数表格；常规科学计算优先这一款，仅有方程求解等实际需要再升级。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/"
+      ]
+    }
+  },
+  {
+    "id": 2124,
+    "brand": "CASIO 卡西欧",
+    "product": "MS-20UC-PK 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "MS-20UC-PK",
+    "variant": "粉色，12位 Mini Just款",
+    "specs": {
+      "位数": "12位",
+      "功能": "时间计算、税率计算、平方根",
+      "电源": "太阳能和电池",
+      "尺寸": "149.5×105×22.8 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.MS-20UC-PK/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 88,
+      "max": 88,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.MS-20UC-PK/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "粉色，12位 Mini Just款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "88元提供时间与税率计算，适合兼顾日常记账和工时核算；只做四则运算可选42元MX-12B。",
+    "highlights": [
+      "位数：12位",
+      "功能：时间计算、税率计算、平方根",
+      "电源：太阳能和电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "88元提供时间与税率计算，适合兼顾日常记账和工时核算；只做四则运算可选42元MX-12B。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.MS-20UC-PK/"
+      ]
+    }
+  },
+  {
+    "id": 2125,
+    "brand": "CASIO 卡西欧",
+    "product": "MX-12B-LB 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "MX-12B-LB",
+    "variant": "浅蓝色，12位 Mini Desk款",
+    "specs": {
+      "位数": "12位",
+      "功能": "常规百分比、独立存储器、退位键",
+      "电源": "太阳能和电池",
+      "尺寸": "147×106.5×29 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.MX-12B-LB/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 42,
+      "max": 42,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.MX-12B-LB/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "浅蓝色，12位 Mini Desk款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "42元可完成日常四则与百分比计算，体积适合小桌面；不需要科学函数或税率专键时预算较省。",
+    "highlights": [
+      "位数：12位",
+      "功能：常规百分比、独立存储器、退位键",
+      "电源：太阳能和电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "42元可完成日常四则与百分比计算，体积适合小桌面；不需要科学函数或税率专键时预算较省。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.MX-12B-LB/"
+      ]
+    }
+  },
+  {
+    "id": 2126,
+    "brand": "CASIO 卡西欧",
+    "product": "GY-120-RD 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "GY-120-RD",
+    "variant": "红色，金属面板台式款",
+    "specs": {
+      "位数": "12位",
+      "功能": "真人发音、总计GT、利润率计算",
+      "电源": "五号LR06电池×2",
+      "尺寸": "202.5×155×45.8 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.GY-120-RD/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99,
+      "max": 99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.GY-120-RD/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "红色，金属面板台式款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "99元带真人发音和较大的台式机身，适合需听读核对账目的场景；不需要语音可优先更便宜基础款。",
+    "highlights": [
+      "位数：12位",
+      "功能：真人发音、总计GT、利润率计算",
+      "电源：五号LR06电池×2"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "99元带真人发音和较大的台式机身，适合需听读核对账目的场景；不需要语音可优先更便宜基础款。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.GY-120-RD/"
+      ]
+    }
+  },
+  {
+    "id": 2127,
+    "brand": "CASIO 卡西欧",
+    "product": "AX-120B 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "AX-120B",
+    "variant": "12位 Compact Desk款",
+    "specs": {
+      "位数": "12位",
+      "功能": "总计GT、平方根、小数及舍入选择器",
+      "电源": "太阳能和电池",
+      "尺寸": "175.5×110.5×25 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.AX-120B/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59,
+      "max": 59,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.AX-120B/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "12位 Compact Desk款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "59元含总计GT和舍入选择器，适合连续汇总费用；比只含基础记忆的款式更方便记账。",
+    "highlights": [
+      "位数：12位",
+      "功能：总计GT、平方根、小数及舍入选择器",
+      "电源：太阳能和电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "59元含总计GT和舍入选择器，适合连续汇总费用；比只含基础记忆的款式更方便记账。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.AX-120B/"
+      ]
+    }
+  },
+  {
+    "id": 2128,
+    "brand": "CASIO 卡西欧",
+    "product": "GX-12B 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "GX-12B",
+    "variant": "12位台式款",
+    "specs": {
+      "位数": "12位",
+      "功能": "项目计数器、平方根、小数及舍入选择器",
+      "电源": "太阳能和电池",
+      "尺寸": "207.5×159×34.3 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.GX-12B/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 69,
+      "max": 69,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.GX-12B/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "12位台式款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "69元提供项目计数器及较大台式布局，适合一边录入多笔金额一边核对笔数。",
+    "highlights": [
+      "位数：12位",
+      "功能：项目计数器、平方根、小数及舍入选择器",
+      "电源：太阳能和电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "69元提供项目计数器及较大台式布局，适合一边录入多笔金额一边核对笔数。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.GX-12B/"
+      ]
+    }
+  },
+  {
+    "id": 2129,
+    "brand": "CASIO 卡西欧",
+    "product": "DY-120-RDG 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "DY-120-RDG",
+    "variant": "赤金色，金属面板台式款",
+    "specs": {
+      "位数": "12位",
+      "功能": "真人发音、总计GT、利润率计算",
+      "电源": "五号LR06电池×2",
+      "尺寸": "176.5×128.5×42.6 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.DY-120-RDG/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99,
+      "max": 99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.DY-120-RDG/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "赤金色，金属面板台式款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "99元带真人发音，机身比GY-120-RD小；需要语音核对但桌面空间有限时可选。",
+    "highlights": [
+      "位数：12位",
+      "功能：真人发音、总计GT、利润率计算",
+      "电源：五号LR06电池×2"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "99元带真人发音，机身比GY-120-RD小；需要语音核对但桌面空间有限时可选。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.DY-120-RDG/"
+      ]
+    }
+  },
+  {
+    "id": 2130,
+    "brand": "CASIO 卡西欧",
+    "product": "DS-2D 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "DS-2D",
+    "variant": "黑色，12位金属面板台式款",
+    "specs": {
+      "位数": "12位",
+      "功能": "税率计算、货币兑换、总计GT",
+      "按键": "原厂标注耐用防褪色按键",
+      "电源": "太阳能和电池",
+      "尺寸": "188×135×36.6 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.DS-2D/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 179,
+      "max": 179,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.DS-2D/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "黑色，12位金属面板台式款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "若每天频繁核对税率、汇率和多笔账目，179元换来对应专用计算功能及防滑结构；偶尔记账选百元内基础款更划算。",
+    "highlights": [
+      "位数：12位",
+      "功能：税率计算、货币兑换、总计GT",
+      "按键：原厂标注耐用防褪色按键"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "upgrade": "若每天频繁核对税率、汇率和多笔账目，179元换来对应专用计算功能及防滑结构；偶尔记账选百元内基础款更划算。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.DS-2D/"
+      ]
+    }
+  },
+  {
+    "id": 2131,
+    "brand": "CASIO 卡西欧",
+    "product": "DX-120B 办公计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "DX-120B",
+    "variant": "12位金属面板台式款",
+    "specs": {
+      "位数": "12位",
+      "功能": "总计GT、百分比、平方根、舍入选择器",
+      "电源": "太阳能和电池",
+      "尺寸": "175.5×129×33.2 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/basic-calculators/product.DX-120B/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 67,
+      "max": 67,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/basic-calculators/product.DX-120B/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "12位金属面板台式款",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "67元可做费用总计和舍入设置，金属面板机身适合固定办公桌使用；不会凭面板材质保证整机耐用。",
+    "highlights": [
+      "位数：12位",
+      "功能：总计GT、百分比、平方根、舍入选择器",
+      "电源：太阳能和电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "面向基础或商务计算；不能替代科学函数计算器。"
+    ],
+    "purchase": {
+      "value": "67元可做费用总计和舍入设置，金属面板机身适合固定办公桌使用；不会凭面板材质保证整机耐用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/basic-calculators/product.DX-120B/"
+      ]
+    }
+  },
+  {
+    "id": 2132,
+    "brand": "CASIO 卡西欧",
+    "product": "FC-01A 科学计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "FC-01A",
+    "variant": "黑色；附滑盖式外壳",
+    "specs": {
+      "显示": "10+2位，自然格式、点阵显示",
+      "功能": "分数、小数一键转换、乘方开方、对数",
+      "类型": "不可编程、非图形",
+      "电源": "AAA型R03电池×1"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/scientific-calculators/product.FC-01A/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99,
+      "max": 99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/scientific-calculators/product.FC-01A/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "黑色；附滑盖式外壳",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "99元支持分数与小数转换及重复计算，适合主要处理基础算式；需要三角函数等功能先对照fx-82CN CW II。",
+    "highlights": [
+      "显示：10+2位，自然格式、点阵显示",
+      "功能：分数、小数一键转换、乘方开方、对数",
+      "类型：不可编程、非图形"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "purchase": {
+      "value": "99元支持分数与小数转换及重复计算，适合主要处理基础算式；需要三角函数等功能先对照fx-82CN CW II。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FC-01A/"
+      ]
+    }
+  },
+  {
+    "id": 2133,
+    "brand": "CASIO 卡西欧",
+    "product": "fx-95CN CW II 科学计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "fx-95CN CW II",
+    "variant": "中文黑色；附硬质保护壳",
+    "specs": {
+      "显示": "10+2位，192×63点阵，中文自然书写",
+      "功能": "二至四元线性方程组、二至四次多项式方程、不等式",
+      "电源": "AAA型R03（7号）电池",
+      "尺寸": "162×77×13.8 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 128,
+      "max": 128,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "中文黑色；附硬质保护壳",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "只有经常解方程组、多项式方程或不等式时，128元比88元fx-82CN CW II多付的40元才有意义；一般函数和统计无需加预算。",
+    "highlights": [
+      "显示：10+2位，192×63点阵，中文自然书写",
+      "功能：二至四元线性方程组、二至四次多项式方程、不等式",
+      "电源：AAA型R03（7号）电池"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "purchase": {
+      "upgrade": "只有经常解方程组、多项式方程或不等式时，128元比88元fx-82CN CW II多付的40元才有意义；一般函数和统计无需加预算。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/"
+      ]
+    }
+  },
+  {
+    "id": 2134,
+    "brand": "CASIO 卡西欧",
+    "product": "fx-999CN CW II 科学计算器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "计算器",
+    "model": "fx-999CN CW II",
+    "variant": "中文黑色；附硬质保护壳",
+    "specs": {
+      "显示": "10+2位，192×63点阵，中文自然书写",
+      "功能": "数值微积分、4×4矩阵、向量、方程及45行5列数据表格",
+      "电源": "LR44纽扣电池与太阳能",
+      "尺寸": "162×77×10.7 mm"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开原厂产品页，逐项核对具体型号、公开规格、适用范围及人民币标价；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 228,
+      "max": 228,
+      "observed_at": "2026-10-14",
+      "url": "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/",
+      "label": "原厂中国官网公开参考价",
+      "variant": "中文黑色；附硬质保护壳",
+      "note": "所选具体型号或SKU的公开标价；库存、运费、渠道优惠和最终成交价另行确认。"
+    },
+    "limits": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "若课程或工作确实要数值微积分、矩阵、向量及表格计算，228元可减少手算步骤；普通科学计算优先88元款，购买前比较已有fx-991CN CW II的功能与218元标价。",
+    "highlights": [
+      "显示：10+2位，192×63点阵，中文自然书写",
+      "功能：数值微积分、4×4矩阵、向量、方程及45行5列数据表格",
+      "电源：LR44纽扣电池与太阳能"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "官网价格为公开参考价，不代表所有销售渠道的成交价。",
+      "此记录核对具体型号与所列版本，其他后缀配色未作为独立新品。",
+      "考试是否准许该具体型号必须查对应考试规则；无编程功能不等于任何考试均可使用。"
+    ],
+    "purchase": {
+      "upgrade": "若课程或工作确实要数值微积分、矩阵、向量及表格计算，228元可减少手算步骤；普通科学计算优先88元款，购买前比较已有fx-991CN CW II的功能与218元标价。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/"
+      ]
+    }
+  },
+  {
+    "id": 2135,
+    "brand": "MUJI 无印良品",
+    "product": "凝胶中性墨水圆珠笔芯",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "中性笔",
+    "model": "NB12CC0A",
+    "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084731",
+    "specs": {
+      "系列型号": "NB12CC0A",
+      "SKU": "4550344084731",
+      "规格": "0.5㎜",
+      "所选款式": "0.5㎜・黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/72881"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=72881&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.0,
+      "max": 4.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/72881",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084731",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。",
+      "这是替换笔芯，不含完整笔杆；购买前核对笔杆接口和笔芯型号。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "用于与本系列兼容的凝胶中性墨水笔替换。 4元补充0.5mm黑色笔芯，有兼容笔杆时可继续使用原笔，避免为外壳重复花钱。",
+    "highlights": [
+      "系列型号：NB12CC0A",
+      "SKU：4550344084731",
+      "规格：0.5㎜"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。",
+      "这是替换笔芯，不含完整笔杆；购买前核对笔杆接口和笔芯型号。"
+    ],
+    "purchase": {
+      "value": "4元补充0.5mm黑色笔芯，有兼容笔杆时可继续使用原笔，避免为外壳重复花钱。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/72881"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550344084731_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2136,
+    "brand": "MUJI 无印良品",
+    "product": "牛皮纸 杂记本",
+    "type": "学习办公",
+    "group": "本册纸品",
+    "category": "笔记本纸品",
+    "model": "NA68CC1A",
+    "variant": "棕色；横线 32张 A6；SKU 4550344864265",
+    "specs": {
+      "系列型号": "NA68CC1A",
+      "SKU": "4550344864265",
+      "规格": "横线 32张 A6",
+      "所选款式": "棕色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/89180"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=89180&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.0,
+      "max": 4.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/89180",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "棕色；横线 32张 A6；SKU 4550344864265",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "A6横线记录本。 4元的A6横线32张杂记本适合随手记录，尺寸便携；需要长期存档的大容量本册则另选。",
+    "highlights": [
+      "系列型号：NA68CC1A",
+      "SKU：4550344864265",
+      "规格：横线 32张 A6"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "4元的A6横线32张杂记本适合随手记录，尺寸便携；需要长期存档的大容量本册则另选。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/89180"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms916010678/1a0bba3b-fd3b-469b-ba96-6dd40919669f.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2137,
+    "brand": "MUJI 无印良品",
+    "product": "凝胶中性墨水圆珠笔·笔帽式",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "中性笔",
+    "model": "NB06CC0A",
+    "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084373",
+    "specs": {
+      "系列型号": "NB06CC0A",
+      "SKU": "4550344084373",
+      "规格": "0.5㎜",
+      "所选款式": "0.5㎜・黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/72853"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=72853&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.0,
+      "max": 7.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/72853",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084373",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "笔帽式凝胶中性墨水圆珠笔。 7元黑色0.5mm笔帽式中性笔适合日常书写，喜欢盖帽操作时再选这一款。",
+    "highlights": [
+      "系列型号：NB06CC0A",
+      "SKU：4550344084373",
+      "规格：0.5㎜"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "purchase": {
+      "value": "7元黑色0.5mm笔帽式中性笔适合日常书写，喜欢盖帽操作时再选这一款。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/72853"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550344084373_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2138,
+    "brand": "MUJI 无印良品",
+    "product": "凝胶中性墨水圆珠笔·按压式",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "中性笔",
+    "model": "NB05CC0A",
+    "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084175",
+    "specs": {
+      "系列型号": "NB05CC0A",
+      "SKU": "4550344084175",
+      "规格": "0.5㎜",
+      "所选款式": "0.5㎜・黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/72824"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=72824&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.0,
+      "max": 7.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/72824",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "0.5㎜・黑色；0.5㎜；SKU 4550344084175",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "按压式凝胶中性墨水圆珠笔。 7元黑色0.5mm按压式中性笔方便单手出笔，适合课间、会议频繁记录。",
+    "highlights": [
+      "系列型号：NB05CC0A",
+      "SKU：4550344084175",
+      "规格：0.5㎜"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "purchase": {
+      "value": "7元黑色0.5mm按压式中性笔方便单手出笔，适合课间、会议频繁记录。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/72824"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550344084175_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2139,
+    "brand": "MUJI 无印良品",
+    "product": "塑料橡皮",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "橡皮",
+    "model": "E5A4228",
+    "variant": "黑；小/硬；SKU 4945247421347",
+    "specs": {
+      "系列型号": "E5A4228",
+      "SKU": "4945247421347",
+      "规格": "小/硬",
+      "所选款式": "黑"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/50354"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=50354&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.0,
+      "max": 4.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/50354",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "黑；小/硬；SKU 4945247421347",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "小号硬质塑料橡皮。 4元小号硬质橡皮便于放进笔袋，适合普通铅笔修改；擦除效果还需结合纸张与笔芯。",
+    "highlights": [
+      "系列型号：E5A4228",
+      "SKU：4945247421347",
+      "规格：小/硬"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "4元小号硬质橡皮便于放进笔袋，适合普通铅笔修改；擦除效果还需结合纸张与笔芯。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/50354"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4945247421347_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2140,
+    "brand": "MUJI 无印良品",
+    "product": "单面透明文件夹",
+    "type": "学习办公",
+    "group": "办公收纳",
+    "category": "文件夹",
+    "model": "8A65013",
+    "variant": "灰白 型号:8A65013；数量1个；SKU 4550002553210",
+    "specs": {
+      "系列型号": "8A65013",
+      "SKU": "4550002553210",
+      "规格": "数量1个",
+      "所选款式": "灰白 型号:8A65013",
+      "材质": "聚氯乙烯树脂",
+      "SKU型号": "8A65013"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/39360"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=39360&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 8.0,
+      "max": 8.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/39360",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "灰白 型号:8A65013；数量1个；SKU 4550002553210",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "单面透明文件夹。 8元单面透明文件夹用于辨认和分类纸张；保密文件不宜通过透明面暴露内容。",
+    "highlights": [
+      "系列型号：8A65013",
+      "SKU：4550002553210",
+      "规格：数量1个"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "8元单面透明文件夹用于辨认和分类纸张；保密文件不宜通过透明面暴露内容。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/39360"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550002553210_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2141,
+    "brand": "MUJI 无印良品",
+    "product": "亚克力透明尺",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "直尺",
+    "model": "ND80CA4A",
+    "variant": "其他；150mm；SKU 4550584835841",
+    "specs": {
+      "系列型号": "ND80CA4A",
+      "SKU": "4550584835841",
+      "规格": "150mm",
+      "所选款式": "其他",
+      "材质": "丙烯酸树脂"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/98854"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=98854&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 5.0,
+      "max": 5.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/98854",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "其他；150mm；SKU 4550584835841",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "150mm透明亚克力尺。 5元的150mm透明尺便于看到下方文字与线条，适合日常标线与尺寸粗测。",
+    "highlights": [
+      "系列型号：ND80CA4A",
+      "SKU：4550584835841",
+      "规格：150mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "5元的150mm透明尺便于看到下方文字与线条，适合日常标线与尺寸粗测。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/98854"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms916012152/033b15f3-0106-42b3-9095-a321b4124773.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2142,
+    "brand": "MUJI 无印良品",
+    "product": "胶棒",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "胶棒",
+    "model": "ZE0S159",
+    "variant": "8g；SKU 4550182847901",
+    "specs": {
+      "系列型号": "ZE0S159",
+      "SKU": "4550182847901",
+      "规格": "8g",
+      "主体配方": "PVP"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/73858"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=73858&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 5.0,
+      "max": 5.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/73858",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "8g；SKU 4550182847901",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "不可食用，避免接触眼睛；若不慎入眼应按原厂说明冲洗。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "PVP胶棒8g。 5元8g胶棒用于日常纸张粘贴，轻便易携带；不能替代结构胶或防水胶。",
+    "highlights": [
+      "系列型号：ZE0S159",
+      "SKU：4550182847901",
+      "规格：8g"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "不可食用，避免接触眼睛；若不慎入眼应按原厂说明冲洗。"
+    ],
+    "purchase": {
+      "value": "5元8g胶棒用于日常纸张粘贴，轻便易携带；不能替代结构胶或防水胶。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/73858"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms916012284/01225818-8fb8-44d4-9344-6a2648a4284f.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2143,
+    "brand": "MUJI 无印良品",
+    "product": "亚克力三角尺",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "三角尺",
+    "model": "ND1ACC4A",
+    "variant": "透明；85X85X2mm；SKU 4550584835810",
+    "specs": {
+      "系列型号": "ND1ACC4A",
+      "SKU": "4550584835810",
+      "规格": "85X85X2mm",
+      "所选款式": "透明",
+      "材质": "丙烯酸树脂"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/98861"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=98861&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 8.0,
+      "max": 8.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/98861",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "透明；85X85X2mm；SKU 4550584835810",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐利边缘和尖端；不适合6岁以下儿童使用，按原厂警示妥善放置。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "85×85×2mm透明亚克力三角尺。 8元小尺寸透明三角尺适合学习绘图和辅助作线，透明主体便于定位。",
+    "highlights": [
+      "系列型号：ND1ACC4A",
+      "SKU：4550584835810",
+      "规格：85X85X2mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐利边缘和尖端；不适合6岁以下儿童使用，按原厂警示妥善放置。"
+    ],
+    "purchase": {
+      "value": "8元小尺寸透明三角尺适合学习绘图和辅助作线，透明主体便于定位。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/98861"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms3907/b26b16e7-e2e4-4b16-9430-761c06c7e3dd.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2144,
+    "brand": "MUJI 无印良品",
+    "product": "亚克力量角器",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "量角器",
+    "model": "ND3ACC4A",
+    "variant": "透明；90X2mm；SKU 4550584835827",
+    "specs": {
+      "系列型号": "ND3ACC4A",
+      "SKU": "4550584835827",
+      "规格": "90X2mm",
+      "所选款式": "透明",
+      "材质": "丙烯酸树脂"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/98853"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=98853&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 8.0,
+      "max": 8.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/98853",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "透明；90X2mm；SKU 4550584835827",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐利边缘和尖端；不适合6岁以下儿童使用，按原厂警示妥善放置。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "90×2mm透明亚克力量角器。 8元透明量角器便于对齐角的顶点与边，适合课堂角度学习；不能当高精度测量仪。",
+    "highlights": [
+      "系列型号：ND3ACC4A",
+      "SKU：4550584835827",
+      "规格：90X2mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐利边缘和尖端；不适合6岁以下儿童使用，按原厂警示妥善放置。"
+    ],
+    "purchase": {
+      "value": "8元透明量角器便于对齐角的顶点与边，适合课堂角度学习；不能当高精度测量仪。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/98853"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms3907/f3e5a834-3ee3-44d1-ad36-562d488419fb.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2145,
+    "brand": "MUJI 无印良品",
+    "product": "白板笔",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "白板笔",
+    "model": "NB0SKA2S",
+    "variant": "黑色；SKU 4550344902660",
+    "specs": {
+      "系列型号": "NB0SKA2S",
+      "SKU": "4550344902660",
+      "所选款式": "黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/89272"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=89272&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.0,
+      "max": 9.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/89272",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "黑色；SKU 4550344902660",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "黑色白板笔。 9元黑色白板笔用于适用白板的临时记录；先在边角试写，确认板面可擦性。",
+    "highlights": [
+      "系列型号：NB0SKA2S",
+      "SKU：4550344902660",
+      "所选款式：黑色"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "9元黑色白板笔用于适用白板的临时记录；先在边角试写，确认板面可擦性。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/89272"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550344902660_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2146,
+    "brand": "MUJI 无印良品",
+    "product": "折纸",
+    "type": "学习办公",
+    "group": "本册纸品",
+    "category": "手工纸",
+    "model": "8A68001",
+    "variant": "SKU 4550002555771",
+    "specs": {
+      "系列型号": "8A68001",
+      "SKU": "4550002555771",
+      "材质": "纸"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/39407"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=39407&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.0,
+      "max": 9.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/39407",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "SKU 4550002555771",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "官方可读取结构化资料未确认纸张张数与尺寸，包装数量须在购买页或实物包装补核。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "纸质折纸用品。 9元纸质折纸用于手工与折叠练习；本次资料未确认张数，购买时先查看包装。",
+    "highlights": [
+      "系列型号：8A68001",
+      "SKU：4550002555771",
+      "材质：纸"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "官方可读取结构化资料未确认纸张张数与尺寸，包装数量须在购买页或实物包装补核。"
+    ],
+    "purchase": {
+      "value": "9元纸质折纸用于手工与折叠练习；本次资料未确认张数，购买时先查看包装。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/39407"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550002555771_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2147,
+    "brand": "MUJI 无印良品",
+    "product": "油性双头记号笔",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "记号笔",
+    "model": "8A63012",
+    "variant": "黑色；细/黑色；SKU 4550002555658",
+    "specs": {
+      "系列型号": "8A63012",
+      "SKU": "4550002555658",
+      "规格": "细/黑色",
+      "所选款式": "黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/39400"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=39400&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.0,
+      "max": 9.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/39400",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "黑色；细/黑色；SKU 4550002555658",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "细款黑色油性双头记号笔。 9元油性双头设计方便不同粗细标记；不可把它当可擦白板笔使用。",
+    "highlights": [
+      "系列型号：8A63012",
+      "SKU：4550002555658",
+      "规格：细/黑色"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "9元油性双头设计方便不同粗细标记；不可把它当可擦白板笔使用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/39400"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550002555658_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2148,
+    "brand": "MUJI 无印良品",
+    "product": "口袋自动铅笔",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "自动铅笔",
+    "model": "NBI8CA6S",
+    "variant": "半透明；0.5mm；SKU 4550723017046",
+    "specs": {
+      "系列型号": "NBI8CA6S",
+      "SKU": "4550723017046",
+      "规格": "0.5mm",
+      "所选款式": "半透明"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/103620"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=103620&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/103620",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "半透明；0.5mm；SKU 4550723017046",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "0.5mm半透明口袋自动铅笔。 10元0.5mm口袋自动铅笔方便随身记录；选购替芯时确认0.5mm兼容规格。",
+    "highlights": [
+      "系列型号：NBI8CA6S",
+      "SKU：4550723017046",
+      "规格：0.5mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "purchase": {
+      "value": "10元0.5mm口袋自动铅笔方便随身记录；选购替芯时确认0.5mm兼容规格。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/103620"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms916012658/6ab9152e-dc31-491f-ba30-fd531f3b46b9.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2149,
+    "brand": "MUJI 无印良品",
+    "product": "书写顺滑油性圆珠笔",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "圆珠笔",
+    "model": "NBE01A3A",
+    "variant": "黑色；0.5mm；SKU 4550583768157",
+    "specs": {
+      "系列型号": "NBE01A3A",
+      "SKU": "4550583768157",
+      "规格": "0.5mm",
+      "所选款式": "黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/101301"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=101301&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/101301",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "黑色；0.5mm；SKU 4550583768157",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "0.5mm黑色油性圆珠笔。 10元0.5mm黑色油性笔可用于日常记录；先确认你更喜欢油性墨水还是凝胶墨水。",
+    "highlights": [
+      "系列型号：NBE01A3A",
+      "SKU：4550583768157",
+      "规格：0.5mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "10元0.5mm黑色油性笔可用于日常记录；先确认你更喜欢油性墨水还是凝胶墨水。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/101301"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550583768126_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2150,
+    "brand": "MUJI 无印良品",
+    "product": "口袋彩色标记笔 笔帽式",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "标记笔",
+    "model": "NBG5CC4S",
+    "variant": "芥末黄；其他；SKU 4550583693510",
+    "specs": {
+      "系列型号": "NBG5CC4S",
+      "SKU": "4550583693510",
+      "规格": "其他",
+      "所选款式": "芥末黄"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/95700"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=95700&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/95700",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "芥末黄；其他；SKU 4550583693510",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "芥末黄色笔帽式口袋彩色标记笔。 10元口袋标记笔适合重点区分和随身携带；显色与是否透纸取决于实际纸张。",
+    "highlights": [
+      "系列型号：NBG5CC4S",
+      "SKU：4550583693510",
+      "规格：其他"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "purchase": {
+      "value": "10元口袋标记笔适合重点区分和随身携带；显色与是否透纸取决于实际纸张。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/95700"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550583693510_01_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2151,
+    "brand": "MUJI 无印良品",
+    "product": "按压式口袋笔 凝胶中性墨水",
+    "type": "学习办公",
+    "group": "书写工具",
+    "category": "中性笔",
+    "model": "NBE1CC4S",
+    "variant": "黑色；0.5mm；SKU 4550583693275",
+    "specs": {
+      "系列型号": "NBE1CC4S",
+      "SKU": "4550583693275",
+      "规格": "0.5mm",
+      "所选款式": "黑色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/94235"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=94235&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/94235",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "黑色；0.5mm；SKU 4550583693275",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "0.5mm黑色按压式口袋凝胶笔。 10元0.5mm黑色口袋笔用于希望随身携带的日常记录；只放桌面可先比较7元标准按压款。",
+    "highlights": [
+      "系列型号：NBE1CC4S",
+      "SKU：4550583693275",
+      "规格：0.5mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "含小部件，避免儿童吞食；按包装所列适龄与使用说明操作。"
+    ],
+    "purchase": {
+      "value": "10元0.5mm黑色口袋笔用于希望随身携带的日常记录；只放桌面可先比较7元标准按压款。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/94235"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms61806189/bc0edaba-eb47-41b5-b2b7-64cdddfc5d0c.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2152,
+    "brand": "MUJI 无印良品",
+    "product": "票夹/大",
+    "type": "学习办公",
+    "group": "办公收纳",
+    "category": "票夹",
+    "model": "ND16CC0A",
+    "variant": "银色；25mm/12个；SKU 4550344072912",
+    "specs": {
+      "系列型号": "ND16CC0A",
+      "SKU": "4550344072912",
+      "规格": "25mm/12个",
+      "所选款式": "银色"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/74755"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=74755&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/74755",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "银色；25mm/12个；SKU 4550344072912",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "25mm金属票夹12个。 10元含25mm票夹12个，适合多组纸张分类固定；容量应按实际纸厚选择。",
+    "highlights": [
+      "系列型号：ND16CC0A",
+      "SKU：4550344072912",
+      "规格：25mm/12个"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "10元含25mm票夹12个，适合多组纸张分类固定；容量应按实际纸厚选择。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/74755"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4550344072912_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2153,
+    "brand": "MUJI 无印良品",
+    "product": "卷笔刀",
+    "type": "学习办公",
+    "group": "学习工具",
+    "category": "卷笔刀",
+    "model": "E3S3008",
+    "variant": "其他；白；SKU 4548076369479",
+    "specs": {
+      "系列型号": "E3S3008",
+      "SKU": "4548076369479",
+      "规格": "白",
+      "所选款式": "其他"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/6323"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=6323&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 10.0,
+      "max": 10.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/6323",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "其他；白；SKU 4548076369479",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐边和尖端，请谨慎操作。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "白色便携卷笔刀。 10元卷笔刀用于普通铅笔削尖，适合放在笔袋中备用；刀口有锐边，应谨慎使用。",
+    "highlights": [
+      "系列型号：E3S3008",
+      "SKU：4548076369479",
+      "规格：白"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。",
+      "存在功能性锐边和尖端，请谨慎操作。"
+    ],
+    "purchase": {
+      "value": "10元卷笔刀用于普通铅笔削尖，适合放在笔袋中备用；刀口有锐边，应谨慎使用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/6323"
+      ]
+    },
+    "image_source": {
+      "url": "https://img.muji.com.cn/img/item/4548076369479_400.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  },
+  {
+    "id": 2154,
+    "brand": "MUJI 无印良品",
+    "product": "聚丙烯 笔盒 横型",
+    "type": "学习办公",
+    "group": "办公收纳",
+    "category": "笔盒",
+    "model": "ND1MAA6S",
+    "variant": "深灰色；小 长170×宽51×高20 mm；SKU 4548076738879",
+    "specs": {
+      "系列型号": "ND1MAA6S",
+      "SKU": "4548076738879",
+      "规格": "小 长170×宽51×高20 mm",
+      "所选款式": "深灰色",
+      "材质": "聚丙烯树脂"
+    },
+    "fit": [
+      "学生",
+      "办公"
+    ],
+    "tags": [
+      "学生",
+      "办公"
+    ],
+    "source": {
+      "region": "中国大陆（上海公开配送区域）",
+      "urls": [
+        {
+          "label": "品牌公开产品资料及价格",
+          "url": "https://www.muji.com.cn/cn/store/commodity/107856"
+        },
+        {
+          "label": "官方商城公开产品数据（上海区域）",
+          "url": "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=107856&provinceCd=31"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "读取原厂网络商城公开产品数据接口，完整核对商品编号、系列型号、所选SKU、规格、警示和SKU人民币价格；未做实物测试",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 12.0,
+      "max": 12.0,
+      "observed_at": "2026-10-14",
+      "url": "https://www.muji.com.cn/cn/store/commodity/107856",
+      "label": "MUJI中国官方商城所选SKU公开标价",
+      "variant": "深灰色；小 长170×宽51×高20 mm；SKU 4548076738879",
+      "note": "读取官方商城所选SKU price字段；不是系列最低价或初上市价，采用上海区域的公开报价，库存和配送费另核。"
+    },
+    "limits": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "深灰小号横型聚丙烯笔盒。 12元小号170×51×20mm笔盒用于基本笔具整理；较长或粗大的工具先核对内部空间。",
+    "highlights": [
+      "系列型号：ND1MAA6S",
+      "SKU：4548076738879",
+      "规格：小 长170×宽51×高20 mm"
+    ],
+    "package": [
+      "所选型号或SKU；完整包装及附件以官方购买页为准"
+    ],
+    "care": [
+      "只核对所列SKU，其他笔径、尺寸、颜色和包装价格不直接套用。",
+      "公开价格读取官方商城上海配送区域数据；不同地区库存与运费另行确认。"
+    ],
+    "purchase": {
+      "value": "12元小号170×51×20mm笔盒用于基本笔具整理；较长或粗大的工具先核对内部空间。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与实际用途的条件性建议，不是实物质量评级",
+      "source_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/107856"
+      ]
+    },
+    "image_source": {
+      "url": "https://webimg.muji.com.cn/oms916014155/f46b7c05-0429-4bae-ad19-4ed18343fd9c.jpg",
+      "label": "原厂商城所选SKU商品图",
+      "checked_at": "2026-10-14"
+    }
+  }
+]

@@ -1,0 +1,2229 @@
+{
+  "meta": {
+    "scope": "32条新加入目录的运动用品，非厂商新发布商品；全部资料与价格核对，未实物测试",
+    "checked_at": "2026-10-14",
+    "official_domains": [
+      "www.nike.com.cn"
+    ],
+    "documented_count": 32,
+    "under_100_count": 20,
+    "over_100_count": 12
+  },
+  "items": [
+    {
+      "id": 2091,
+      "brand": "Nike 耐克",
+      "product": "Nike Elite 2.0 舒适速干中筒运动袜（1 双）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动配件",
+      "model": "HM0285-500",
+      "variant": "暗紫/荧光黄/浅烟灰/黑；1双",
+      "specs": {
+        "技术": "Dri-FIT；Unicorn 3-D Spacer Knit",
+        "材质": "聚酯纤维/莱赛尔纤维/氨纶",
+        "结构": "足弓板带；中筒"
+      },
+      "fit": [
+        "篮球",
+        "训练"
+      ],
+      "tags": [
+        "篮球",
+        "训练"
+      ],
+      "limits": [
+        "按官方尺码表选择；袜子不是医疗支具。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/elite-2-%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-lne43Ape/HM0285-500"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/elite-2-%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-lne43Ape/HM0285-500",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "暗紫/荧光黄/浅烟灰/黑；1双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Elite 2.0 舒适速干中筒运动袜（1 双），核对范围为款式HM0285-500及所列规格。",
+      "highlights": [
+        "技术：Dri-FIT；Unicorn 3-D Spacer Knit",
+        "材质：聚酯纤维/莱赛尔纤维/氨纶",
+        "结构：足弓板带；中筒"
+      ],
+      "purchase": {
+        "value": "99元为1双，适合重视关键部位支撑的球场训练；日常替换更看重数量时优先比较多双装。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/elite-2-%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-lne43Ape/HM0285-500"
+        ]
+      }
+    },
+    {
+      "id": 2092,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Lightweight 速干中筒训练袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "运动袜",
+      "model": "SX7676-903",
+      "variant": "多色；3双",
+      "specs": {
+        "数量": "3双",
+        "技术": "Dri-FIT",
+        "结构": "中筒、罗纹袜口、足弓板带",
+        "材质": "棉/聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "训练",
+        "日常"
+      ],
+      "tags": [
+        "训练",
+        "日常"
+      ],
+      "limits": [
+        "该价格对应多色3双装；尺码需按脚长选择。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%AE%AD%E7%BB%83%E8%A2%9C3-%E5%8F%8C-d9vLkAkW/SX7676-903"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 69,
+        "max": 69,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%AE%AD%E7%BB%83%E8%A2%9C3-%E5%8F%8C-d9vLkAkW/SX7676-903",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Lightweight 速干中筒训练袜（3 双），核对范围为款式SX7676-903及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "技术：Dri-FIT",
+        "结构：中筒、罗纹袜口、足弓板带"
+      ],
+      "purchase": {
+        "value": "69元含3双，导湿与足弓板带适合日常训练和轮换清洗。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%AE%AD%E7%BB%83%E8%A2%9C3-%E5%8F%8C-d9vLkAkW/SX7676-903"
+        ]
+      }
+    },
+    {
+      "id": 2093,
+      "brand": "Nike 耐克",
+      "product": "Nike Club 钥匙扣",
+      "type": "运动户外",
+      "group": "户外恢复",
+      "category": "出行配件",
+      "model": "HF3594-083",
+      "variant": "足球灰/古典绿/白色；1个",
+      "specs": {
+        "材质": "聚酯纤维/聚丙烯",
+        "结构": "钥匙圈＋登山式钩扣"
+      },
+      "fit": [
+        "通勤",
+        "运动出行"
+      ],
+      "tags": [
+        "通勤",
+        "运动出行"
+      ],
+      "limits": [
+        "登山式外观钩扣仅用于挂物；没有攀登承重证明，勿用作攀登保护。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/club-%E9%92%A5%E5%8C%99%E6%89%A3-D7W2Zrus/HF3594-083"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 89,
+        "max": 89,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/club-%E9%92%A5%E5%8C%99%E6%89%A3-D7W2Zrus/HF3594-083",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "足球灰/古典绿/白色；1个",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Club 钥匙扣，核对范围为款式HF3594-083及所列规格。",
+      "highlights": [
+        "材质：聚酯纤维/聚丙烯",
+        "结构：钥匙圈＋登山式钩扣"
+      ],
+      "purchase": {
+        "value": "89元适合需要把钥匙挂在运动包上快速取用的人；只需普通钥匙圈时不必付品牌溢价。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/club-%E9%92%A5%E5%8C%99%E6%89%A3-D7W2Zrus/HF3594-083"
+        ]
+      }
+    },
+    {
+      "id": 2094,
+      "brand": "Nike 耐克",
+      "product": "Nike Club 挂绳",
+      "type": "运动户外",
+      "group": "户外恢复",
+      "category": "出行配件",
+      "model": "HF3596-312",
+      "variant": "古典绿/粉白/白色；1条",
+      "specs": {
+        "材质": "聚酯纤维",
+        "结构": "快拆夹；不易撕裂材料",
+        "清洁": "不可机洗"
+      },
+      "fit": [
+        "通勤",
+        "运动出行"
+      ],
+      "tags": [
+        "通勤",
+        "运动出行"
+      ],
+      "limits": [
+        "不可机洗；不要用作承重或安全绳。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/club-%E6%8C%82%E7%BB%B3-HqplEnKQ/HF3596-312"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 79,
+        "max": 79,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/club-%E6%8C%82%E7%BB%B3-HqplEnKQ/HF3596-312",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "古典绿/粉白/白色；1条",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Club 挂绳，核对范围为款式HF3596-312及所列规格。",
+      "highlights": [
+        "材质：聚酯纤维",
+        "结构：快拆夹；不易撕裂材料",
+        "清洁：不可机洗"
+      ],
+      "purchase": {
+        "value": "79元的快拆夹方便反复取用钥匙或小配件；只需静态挂放时更便宜的普通挂绳也可。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/club-%E6%8C%82%E7%BB%B3-HqplEnKQ/HF3596-312"
+        ]
+      }
+    },
+    {
+      "id": 2095,
+      "brand": "Nike 耐克",
+      "product": "NikeGrip Studio 女子速干训练浅口袜（1 双）",
+      "type": "运动户外",
+      "group": "游泳健身",
+      "category": "训练袜",
+      "model": "SK0113-570",
+      "variant": "宝石蓝/青石蓝/黑/白色；1双",
+      "specs": {
+        "材质": "锦纶/氨纶",
+        "结构": "开口后跟；前足加厚；透气足面",
+        "技术": "NikeGrip纱线"
+      },
+      "fit": [
+        "室内训练",
+        "瑜伽"
+      ],
+      "tags": [
+        "室内训练",
+        "瑜伽"
+      ],
+      "limits": [
+        "后跟开口，覆盖不完整；为室内训练设计，不代替运动鞋。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/nikegrip-studio-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E6%B5%85%E5%8F%A3%E8%A2%9C1-%E5%8F%8C-MaCojJNx/SK0113-570"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 79,
+        "max": 79,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/nikegrip-studio-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E6%B5%85%E5%8F%A3%E8%A2%9C1-%E5%8F%8C-MaCojJNx/SK0113-570",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "宝石蓝/青石蓝/黑/白色；1双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "NikeGrip Studio 女子速干训练浅口袜（1 双），核对范围为款式SK0113-570及所列规格。",
+      "highlights": [
+        "材质：锦纶/氨纶",
+        "结构：开口后跟；前足加厚；透气足面",
+        "技术：NikeGrip纱线"
+      ],
+      "purchase": {
+        "value": "79元适合需要后跟直接接触地面、前足抓附的室内训练；普通鞋内穿着可选多双装。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/nikegrip-studio-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E6%B5%85%E5%8F%A3%E8%A2%9C1-%E5%8F%8C-MaCojJNx/SK0113-570"
+        ]
+      }
+    },
+    {
+      "id": 2096,
+      "brand": "Nike 耐克",
+      "product": "Kobe Bryant Nike Dri-FIT 速干篮球臂带（1 只）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动配件",
+      "model": "IW7957-027",
+      "variant": "黑/白色/白色；1只",
+      "specs": {
+        "材质": "93%聚酯纤维/7%二烯类弹性纤维",
+        "技术": "Dri-FIT",
+        "佩戴": "弹性设计；佩戴于二头肌"
+      },
+      "fit": [
+        "篮球"
+      ],
+      "tags": [
+        "篮球"
+      ],
+      "limits": [
+        "是臂带而非完整护臂；没有医疗治疗或防撞认证依据。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/kobe-bryant-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E8%87%82%E5%B8%A61-%E5%8F%AA-qpdEGcCi/IW7957-027"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/kobe-bryant-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E8%87%82%E5%B8%A61-%E5%8F%AA-qpdEGcCi/IW7957-027",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/白色/白色；1只",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Kobe Bryant Nike Dri-FIT 速干篮球臂带（1 只），核对范围为款式IW7957-027及所列规格。",
+      "highlights": [
+        "材质：93%聚酯纤维/7%二烯类弹性纤维",
+        "技术：Dri-FIT",
+        "佩戴：弹性设计；佩戴于二头肌"
+      ],
+      "purchase": {
+        "value": "99元适合需要二头肌位置吸汗与科比款式的人；不需要臂带时可直接省下预算。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/kobe-bryant-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E8%87%82%E5%B8%A61-%E5%8F%AA-qpdEGcCi/IW7957-027"
+        ]
+      }
+    },
+    {
+      "id": 2097,
+      "brand": "Nike 耐克",
+      "product": "Nike Core Swoosh 婴童运动短袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "儿童运动袜",
+      "model": "CU3604-664",
+      "variant": "多色/泡沫粉；婴童；3双",
+      "specs": {
+        "数量": "3双",
+        "材质": "棉/聚酯纤维/氨纶",
+        "结构": "平整针织；袜底纹理"
+      },
+      "fit": [
+        "婴童日常"
+      ],
+      "tags": [
+        "婴童日常"
+      ],
+      "limits": [
+        "婴童尺码，不适合成人；袜底纹理不能保证在所有地面防滑。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/core-swoosh-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-6wCxAPiQ/CU3604-664"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 79,
+        "max": 79,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/core-swoosh-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-6wCxAPiQ/CU3604-664",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色/泡沫粉；婴童；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Core Swoosh 婴童运动短袜（3 双），核对范围为款式CU3604-664及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "材质：棉/聚酯纤维/氨纶",
+        "结构：平整针织；袜底纹理"
+      ],
+      "purchase": {
+        "value": "79元含3双，适合婴童日常替换；先核对脚长与鞋内空间。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/core-swoosh-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-6wCxAPiQ/CU3604-664"
+        ]
+      }
+    },
+    {
+      "id": 2098,
+      "brand": "Nike 耐克",
+      "product": "Nike Snow Day 幼童中筒运动袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "儿童运动袜",
+      "model": "IQ2821-126",
+      "variant": "沙堆白；幼童；3双",
+      "specs": {
+        "数量": "3双",
+        "材质": "聚酯纤维/氨纶",
+        "结构": "袜底、后跟、足尖加厚"
+      },
+      "fit": [
+        "幼童日常"
+      ],
+      "tags": [
+        "幼童日常"
+      ],
+      "limits": [
+        "幼童规格；加厚会占用鞋内空间，需确认鞋袜组合贴合。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/snow-day-%E5%B9%BC%E7%AB%A5%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-RQlP9WXC/IQ2821-126"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/snow-day-%E5%B9%BC%E7%AB%A5%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-RQlP9WXC/IQ2821-126",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "沙堆白；幼童；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Snow Day 幼童中筒运动袜（3 双），核对范围为款式IQ2821-126及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "材质：聚酯纤维/氨纶",
+        "结构：袜底、后跟、足尖加厚"
+      ],
+      "purchase": {
+        "value": "99元含3双，后跟与足尖加厚适合幼童日常跑跳；鞋已偏紧时不要选厚袜。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/snow-day-%E5%B9%BC%E7%AB%A5%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-RQlP9WXC/IQ2821-126"
+        ]
+      }
+    },
+    {
+      "id": 2099,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Plus 大童速干中筒运动袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "儿童运动袜",
+      "model": "HM6946-901",
+      "variant": "多色；大童；3双",
+      "specs": {
+        "数量": "3双",
+        "结构": "足弓板带；中筒",
+        "技术": "导湿速干",
+        "材质": "棉/聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "大童训练"
+      ],
+      "tags": [
+        "大童训练"
+      ],
+      "limits": [
+        "大童尺码；不要仅凭年龄推断适合脚长。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-plus-%E5%A4%A7%E7%AB%A5%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-btV0gZ9t/HM6946-901"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 59,
+        "max": 59,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-plus-%E5%A4%A7%E7%AB%A5%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-btV0gZ9t/HM6946-901",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色；大童；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Plus 大童速干中筒运动袜（3 双），核对范围为款式HM6946-901及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "结构：足弓板带；中筒",
+        "技术：导湿速干"
+      ],
+      "purchase": {
+        "value": "59元含3双，适合孩子训练和日常轮换，先按脚长核对尺码。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-plus-%E5%A4%A7%E7%AB%A5%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-btV0gZ9t/HM6946-901"
+        ]
+      }
+    },
+    {
+      "id": 2100,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Elevated 速干运动短袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "运动袜",
+      "model": "IH8523-906",
+      "variant": "多色；短袜；3双",
+      "specs": {
+        "数量": "3双",
+        "技术": "Dri-FIT",
+        "结构": "前足与后跟加厚、加固；足背疏松针织",
+        "材质": "棉/聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "训练",
+        "日常"
+      ],
+      "tags": [
+        "训练",
+        "日常"
+      ],
+      "limits": [
+        "这是短袜3双装；加厚版需核对鞋内空间。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-JEn4HX8T/IH8523-906"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 89,
+        "max": 89,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-JEn4HX8T/IH8523-906",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色；短袜；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Elevated 速干运动短袜（3 双），核对范围为款式IH8523-906及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "技术：Dri-FIT",
+        "结构：前足与后跟加厚、加固；足背疏松针织"
+      ],
+      "purchase": {
+        "value": "89元含3双，后跟与前足加厚、足背透气，适合想兼顾轮换数量与局部缓冲的人。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-JEn4HX8T/IH8523-906"
+        ]
+      }
+    },
+    {
+      "id": 2101,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Lightweight 速干训练短袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "运动袜",
+      "model": "SX7677-906",
+      "variant": "多色；短袜；3双",
+      "specs": {
+        "数量": "3双",
+        "技术": "Dri-FIT",
+        "结构": "罗纹袜口；足弓板带",
+        "材质": "棉/聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "训练",
+        "日常"
+      ],
+      "tags": [
+        "训练",
+        "日常"
+      ],
+      "limits": [
+        "与中筒款SX7676不同，是较短袜筒；尺码按脚长选。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-weuzQ5N5/SX7677-906"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 69,
+        "max": 69,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-weuzQ5N5/SX7677-906",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色；短袜；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Lightweight 速干训练短袜（3 双），核对范围为款式SX7677-906及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "技术：Dri-FIT",
+        "结构：罗纹袜口；足弓板带"
+      ],
+      "purchase": {
+        "value": "69元3双，适合偏好短袜与日常导湿的训练者，轮换成本低于单双装。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-weuzQ5N5/SX7677-906"
+        ]
+      }
+    },
+    {
+      "id": 2102,
+      "brand": "Jordan",
+      "product": "Jordan Everyday 速干运动短袜（3 双）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动袜",
+      "model": "DX9655-100",
+      "variant": "多色/黑；3双",
+      "specs": {
+        "数量": "3双",
+        "结构": "足弓包覆；足尖与袜底加厚；足背疏松针织",
+        "材质": "聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "篮球",
+        "训练"
+      ],
+      "tags": [
+        "篮球",
+        "训练"
+      ],
+      "limits": [
+        "短袜规格；不同配色材质可能不同，本条仅核对所列款式。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/jordan-everyday-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-d3lxurQR/DX9655-100"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/jordan-everyday-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-d3lxurQR/DX9655-100",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色/黑；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Jordan Everyday 速干运动短袜（3 双），核对范围为款式DX9655-100及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "结构：足弓包覆；足尖与袜底加厚；足背疏松针织",
+        "材质：聚酯纤维/其他纤维；罗纹含氨纶"
+      ],
+      "purchase": {
+        "value": "99元3双，适合重视足底加厚和足背通风的训练；按鞋内空间试配。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/jordan-everyday-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-d3lxurQR/DX9655-100"
+        ]
+      }
+    },
+    {
+      "id": 2103,
+      "brand": "Jordan",
+      "product": "Jordan Americana 婴童运动短袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "儿童运动袜",
+      "model": "IZ7518-657",
+      "variant": "大学红；婴童；3双",
+      "specs": {
+        "数量": "3双",
+        "材质": "棉/聚酯纤维/氨纶",
+        "结构": "平整针织；袜底纹理"
+      },
+      "fit": [
+        "婴童日常"
+      ],
+      "tags": [
+        "婴童日常"
+      ],
+      "limits": [
+        "婴童规格；袜底纹理不等于全地面防滑保障。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/jordan-americana-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-5k6qMPsH/IZ7518-657"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 89,
+        "max": 89,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/jordan-americana-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-5k6qMPsH/IZ7518-657",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "大学红；婴童；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Jordan Americana 婴童运动短袜（3 双），核对范围为款式IZ7518-657及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "材质：棉/聚酯纤维/氨纶",
+        "结构：平整针织；袜底纹理"
+      ],
+      "purchase": {
+        "value": "89元3双，适合需要柔软棉混纺与纹理袜底的婴童日常轮换。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/jordan-americana-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-5k6qMPsH/IZ7518-657"
+        ]
+      }
+    },
+    {
+      "id": 2104,
+      "brand": "Jordan",
+      "product": "Jordan 大童条纹短袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "儿童运动袜",
+      "model": "HM4781-010",
+      "variant": "黑；大童；3双",
+      "specs": {
+        "数量": "3双",
+        "材质": "聚酯纤维/氨纶",
+        "结构": "足面疏松针织；罗纹足弓板带；局部加厚"
+      },
+      "fit": [
+        "大童训练"
+      ],
+      "tags": [
+        "大童训练"
+      ],
+      "limits": [
+        "大童尺码；足底加厚并不表示已验证运动伤害防护。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/jordan-%E5%A4%A7%E7%AB%A5%E6%9D%A1%E7%BA%B9%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-28gpnsoj/HM4781-010"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 69,
+        "max": 69,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/jordan-%E5%A4%A7%E7%AB%A5%E6%9D%A1%E7%BA%B9%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-28gpnsoj/HM4781-010",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑；大童；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Jordan 大童条纹短袜（3 双），核对范围为款式HM4781-010及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "材质：聚酯纤维/氨纶",
+        "结构：足面疏松针织；罗纹足弓板带；局部加厚"
+      ],
+      "purchase": {
+        "value": "69元3双，适合大童训练轮换，兼顾足面透气与后跟、足尖加厚。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/jordan-%E5%A4%A7%E7%AB%A5%E6%9D%A1%E7%BA%B9%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-28gpnsoj/HM4781-010"
+        ]
+      }
+    },
+    {
+      "id": 2105,
+      "brand": "Nike 耐克",
+      "product": "Nike Skills 3号篮球",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "篮球",
+      "model": "BB0634-563",
+      "variant": "紫红/透明粉/黑/电子绿；3号",
+      "specs": {
+        "规格": "3号",
+        "面层": "橡胶",
+        "用途": "户外；鹅卵石纹理与凹槽"
+      },
+      "fit": [
+        "儿童控球",
+        "户外训练"
+      ],
+      "tags": [
+        "儿童控球",
+        "户外训练"
+      ],
+      "limits": [
+        "3号小篮球，不是成人比赛使用的7号球；充气与球针需核对。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/skills-%E7%AF%AE%E7%90%83-zTtCrbHZ/BB0634-563"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 89,
+        "max": 89,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/skills-%E7%AF%AE%E7%90%83-zTtCrbHZ/BB0634-563",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "紫红/透明粉/黑/电子绿；3号",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Skills 3号篮球，核对范围为款式BB0634-563及所列规格。",
+      "highlights": [
+        "规格：3号",
+        "面层：橡胶",
+        "用途：户外；鹅卵石纹理与凹槽"
+      ],
+      "purchase": {
+        "value": "89元适合儿童与小尺寸控球训练；成人对抗比赛需要另选对应球号。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/skills-%E7%AF%AE%E7%90%83-zTtCrbHZ/BB0634-563"
+        ]
+      }
+    },
+    {
+      "id": 2106,
+      "brand": "Nike 耐克",
+      "product": "Nike Skills 1号足球",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "足球",
+      "model": "IQ0648-100",
+      "variant": "白色/亮深红/煤黑/黑；1号",
+      "specs": {
+        "规格": "1号训练小球",
+        "球胆": "橡胶",
+        "结构": "机器缝制球皮",
+        "面层": "橡胶/合成革/聚酯纤维/乙烯基醋纤"
+      },
+      "fit": [
+        "步法训练",
+        "控球训练"
+      ],
+      "tags": [
+        "步法训练",
+        "控球训练"
+      ],
+      "limits": [
+        "1号偏小尺寸，用于技能训练，不代替正式比赛用球。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/skills-%E8%B6%B3%E7%90%83-um4YuOAr/IQ0648-100"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/skills-%E8%B6%B3%E7%90%83-um4YuOAr/IQ0648-100",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "白色/亮深红/煤黑/黑；1号",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Skills 1号足球，核对范围为款式IQ0648-100及所列规格。",
+      "highlights": [
+        "规格：1号训练小球",
+        "球胆：橡胶",
+        "结构：机器缝制球皮"
+      ],
+      "purchase": {
+        "value": "99元适合专门练步法与小球控球；想踢正式比赛时不要因价格低而选错球号。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/skills-%E8%B6%B3%E7%90%83-um4YuOAr/IQ0648-100"
+        ]
+      }
+    },
+    {
+      "id": 2107,
+      "brand": "Nike 耐克",
+      "product": "Kobe Nike Dri-FIT 速干篮球头带（1 条）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动配件",
+      "model": "IW7960-027",
+      "variant": "黑/白色/白色；1条",
+      "specs": {
+        "材质": "94%聚酯纤维/6%二烯类弹性纤维",
+        "技术": "Dri-FIT",
+        "清洁": "可机洗"
+      },
+      "fit": [
+        "篮球"
+      ],
+      "tags": [
+        "篮球"
+      ],
+      "limits": [
+        "吸汗头带不提供头部撞击防护；按头围确认贴合。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/kobe-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-iI2XpJeQ/IW7960-027"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/kobe-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-iI2XpJeQ/IW7960-027",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/白色/白色；1条",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Kobe Nike Dri-FIT 速干篮球头带（1 条），核对范围为款式IW7960-027及所列规格。",
+      "highlights": [
+        "材质：94%聚酯纤维/6%二烯类弹性纤维",
+        "技术：Dri-FIT",
+        "清洁：可机洗"
+      ],
+      "purchase": {
+        "value": "99元适合球场吸汗并偏好科比款式的人；日常无需头带可省下此项。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/kobe-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-iI2XpJeQ/IW7960-027"
+        ]
+      }
+    },
+    {
+      "id": 2108,
+      "brand": "Nike 耐克",
+      "product": "Nike Swoosh Classic 毛圈护腕（1 对）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动配件",
+      "model": "II5301-010",
+      "variant": "黑/白色；1对",
+      "specs": {
+        "面料": "柔软毛圈",
+        "数量": "1对",
+        "清洁": "可机洗"
+      },
+      "fit": [
+        "球类吸汗"
+      ],
+      "tags": [
+        "球类吸汗"
+      ],
+      "limits": [
+        "用于吸汗与贴合，不按医疗护腕或固定支具推荐；具体纤维比例官网未列。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/swoosh-classic-%E6%8A%A4%E8%85%951-%E5%AF%B9-KIXObTU8"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 79,
+        "max": 79,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/swoosh-classic-%E6%8A%A4%E8%85%951-%E5%AF%B9-KIXObTU8",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/白色；1对",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Swoosh Classic 毛圈护腕（1 对），核对范围为款式II5301-010及所列规格。",
+      "highlights": [
+        "面料：柔软毛圈",
+        "数量：1对",
+        "清洁：可机洗"
+      ],
+      "purchase": {
+        "value": "79元1对，适合球类运动中擦汗和舒适贴合；没有固定治疗需求时才按吸汗用品选购。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/swoosh-classic-%E6%8A%A4%E8%85%951-%E5%AF%B9-KIXObTU8"
+        ]
+      }
+    },
+    {
+      "id": 2109,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Elevated 速干高筒运动袜（1 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "运动袜",
+      "model": "IO1846-100",
+      "variant": "白色/浅银灰；高筒；1双",
+      "specs": {
+        "数量": "1双",
+        "技术": "Dri-FIT",
+        "结构": "轻薄袜筒；加厚袜底；加固后跟与足尖",
+        "材质": "聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "日常运动"
+      ],
+      "tags": [
+        "日常运动"
+      ],
+      "limits": [
+        "单双高筒款；袜筒更长不意味着额外医疗防护。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-nHw7SwR6/IO1846-100"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-nHw7SwR6/IO1846-100",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "白色/浅银灰；高筒；1双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Elevated 速干高筒运动袜（1 双），核对范围为款式IO1846-100及所列规格。",
+      "highlights": [
+        "数量：1双",
+        "技术：Dri-FIT",
+        "结构：轻薄袜筒；加厚袜底；加固后跟与足尖"
+      ],
+      "purchase": {
+        "value": "99元适合需要高袜筒而又希望袜底加厚的人；无需高筒时优先比较3双装。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-nHw7SwR6/IO1846-100"
+        ]
+      }
+    },
+    {
+      "id": 2110,
+      "brand": "Nike 耐克",
+      "product": "Nike Academy 速干高筒足球袜（1 双）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "足球袜",
+      "model": "SX4120-402",
+      "variant": "校园宝蓝/白色；1双",
+      "specs": {
+        "技术": "Dri-FIT",
+        "结构": "左右足区分；足弓板带；加固后跟与足尖",
+        "材质": "锦纶/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "足球训练"
+      ],
+      "tags": [
+        "足球训练"
+      ],
+      "limits": [
+        "足球高筒袜不代替护腿板；按左右足标识穿着。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/academy-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%B6%B3%E7%90%83%E8%A2%9C1-%E5%8F%8C-pmUGWjAM/SX4120-402"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 99,
+        "max": 99,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/academy-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%B6%B3%E7%90%83%E8%A2%9C1-%E5%8F%8C-pmUGWjAM/SX4120-402",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "校园宝蓝/白色；1双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Academy 速干高筒足球袜（1 双），核对范围为款式SX4120-402及所列规格。",
+      "highlights": [
+        "技术：Dri-FIT",
+        "结构：左右足区分；足弓板带；加固后跟与足尖",
+        "材质：锦纶/其他纤维；罗纹含氨纶"
+      ],
+      "purchase": {
+        "value": "99元适合需要左右足区分、加固高磨损部位的足球训练袜；防撞仍需护腿板。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/academy-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%B6%B3%E7%90%83%E8%A2%9C1-%E5%8F%8C-pmUGWjAM/SX4120-402"
+        ]
+      }
+    },
+    {
+      "id": 2111,
+      "brand": "Nike 耐克",
+      "product": "Nike Pacer Dri-FIT 速干跑步手套（1 副）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "跑步手套",
+      "model": "HM9024-318",
+      "variant": "梦幻绿/银；1副",
+      "specs": {
+        "材质": "织物",
+        "技术": "Dri-FIT",
+        "用途": "轻量；可单独或作为内层叠搭"
+      },
+      "fit": [
+        "跑步",
+        "换季训练"
+      ],
+      "tags": [
+        "跑步",
+        "换季训练"
+      ],
+      "limits": [
+        "不是个人防护装备PPE；寒冷天气是否保暖需按实际环境叠搭。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/pacer-dri-fit-%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%89%8B%E5%A5%971-%E5%89%AF-tFzvBaZU/HM9024-318"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 129,
+        "max": 129,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/pacer-dri-fit-%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%89%8B%E5%A5%971-%E5%89%AF-tFzvBaZU/HM9024-318",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "梦幻绿/银；1副",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Pacer Dri-FIT 速干跑步手套（1 副），核对范围为款式HM9024-318及所列规格。",
+      "highlights": [
+        "材质：织物",
+        "技术：Dri-FIT",
+        "用途：轻量；可单独或作为内层叠搭"
+      ],
+      "purchase": {
+        "upgrade": "如果换季跑步需要轻量导湿手套、冷天还会作为厚手套内层，129元的两种用法才值得多付29元；只需普通保暖手套可留在百元预算。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/pacer-dri-fit-%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%89%8B%E5%A5%971-%E5%89%AF-tFzvBaZU/HM9024-318"
+        ]
+      }
+    },
+    {
+      "id": 2112,
+      "brand": "Nike 耐克",
+      "product": "Nike Refuel 0.95L 挤压式水壶",
+      "type": "运动户外",
+      "group": "游泳健身",
+      "category": "运动水壶",
+      "model": "IR8702-069",
+      "variant": "黑/黑/黑/白色；0.95L",
+      "specs": {
+        "容量": "0.95L",
+        "结构": "可挤压壶身；防溢阀",
+        "材质": "聚乙烯壶身/聚丙烯盖/硅橡胶密封圈",
+        "说明": "不含双酚A"
+      },
+      "fit": [
+        "训练补水"
+      ],
+      "tags": [
+        "训练补水"
+      ],
+      "limits": [
+        "仅适用于冷饮；使用前清洗；不是保温壶。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/refuel-0-95l-%E6%8C%A4%E5%8E%8B%E5%BC%8F%E6%B0%B4%E5%A3%B6-HRbCqbSI/IR8702-069"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 109,
+        "max": 109,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/refuel-0-95l-%E6%8C%A4%E5%8E%8B%E5%BC%8F%E6%B0%B4%E5%A3%B6-HRbCqbSI/IR8702-069",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/黑/黑/白色；0.95L",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Refuel 0.95L 挤压式水壶，核对范围为款式IR8702-069及所列规格。",
+      "highlights": [
+        "容量：0.95L",
+        "结构：可挤压壶身；防溢阀",
+        "材质：聚乙烯壶身/聚丙烯盖/硅橡胶密封圈"
+      ],
+      "purchase": {
+        "upgrade": "经常在训练间隙快速补水、确实需要0.95L容量与挤压防溢阀时，多付9元才有意义；想装热水或保温应另选。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/refuel-0-95l-%E6%8C%A4%E5%8E%8B%E5%BC%8F%E6%B0%B4%E5%A3%B6-HRbCqbSI/IR8702-069"
+        ]
+      }
+    },
+    {
+      "id": 2113,
+      "brand": "Nike 耐克",
+      "product": "Nike Club 收纳袋式钱包",
+      "type": "运动户外",
+      "group": "户外恢复",
+      "category": "出行配件",
+      "model": "IQ6092-138",
+      "variant": "粉白/古典绿/白色；1个",
+      "specs": {
+        "尺寸": "13×1.2×8cm",
+        "结构": "拉链口袋；挂圈",
+        "材质": "织物；不易撕裂材料"
+      },
+      "fit": [
+        "通勤",
+        "运动出行"
+      ],
+      "tags": [
+        "通勤",
+        "运动出行"
+      ],
+      "limits": [
+        "不可机洗；13×8cm收纳空间需核对卡片、钥匙尺寸。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/club-%E6%94%B6%E7%BA%B3%E8%A2%8B%E5%BC%8F%E9%92%B1%E5%8C%85-yegLEaH8/IQ6092-138"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 109,
+        "max": 109,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/club-%E6%94%B6%E7%BA%B3%E8%A2%8B%E5%BC%8F%E9%92%B1%E5%8C%85-yegLEaH8/IQ6092-138",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "粉白/古典绿/白色；1个",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Club 收纳袋式钱包，核对范围为款式IQ6092-138及所列规格。",
+      "highlights": [
+        "尺寸：13×1.2×8cm",
+        "结构：拉链口袋；挂圈",
+        "材质：织物；不易撕裂材料"
+      ],
+      "purchase": {
+        "upgrade": "如果运动出行需要把卡片、钥匙收在同一个可挂放拉链袋里，109元才值得超过百元9元；只放一张卡不必升级。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/club-%E6%94%B6%E7%BA%B3%E8%A2%8B%E5%BC%8F%E9%92%B1%E5%8C%85-yegLEaH8/IQ6092-138"
+        ]
+      }
+    },
+    {
+      "id": 2114,
+      "brand": "Nike 耐克",
+      "product": "NikeCourt 可调节速干网球头带（1 条）",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "运动配件",
+      "model": "DD4490-374",
+      "variant": "薄荷绿/黑；1条",
+      "specs": {
+        "材质": "96%聚酯纤维/4%氨纶",
+        "技术": "Dri-FIT",
+        "结构": "可调节贴合度"
+      },
+      "fit": [
+        "网球训练"
+      ],
+      "tags": [
+        "网球训练"
+      ],
+      "limits": [
+        "不是头部防护装备；需按个人头围调节。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/nikecourt-%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-eIZQJiWj/DD4490-374"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 139,
+        "max": 139,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/nikecourt-%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-eIZQJiWj/DD4490-374",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "薄荷绿/黑；1条",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "NikeCourt 可调节速干网球头带（1 条），核对范围为款式DD4490-374及所列规格。",
+      "highlights": [
+        "材质：96%聚酯纤维/4%氨纶",
+        "技术：Dri-FIT",
+        "结构：可调节贴合度"
+      ],
+      "purchase": {
+        "upgrade": "经常打网球且普通固定式头带过松或过紧时，可调节设计与导湿功能才可能值得139元；固定式已合适就选百元款。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/nikecourt-%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-eIZQJiWj/DD4490-374"
+        ]
+      }
+    },
+    {
+      "id": 2115,
+      "brand": "Nike 耐克",
+      "product": "Nike Club Premier 软顶足球运动帽",
+      "type": "运动户外",
+      "group": "户外恢复",
+      "category": "运动帽",
+      "model": "IV7540-065",
+      "variant": "冷灰/黑/白色；软顶",
+      "specs": {
+        "材质": "面料/前片里料100%棉",
+        "结构": "五片式；弧形帽檐；日字扣可调节固定带",
+        "清洁": "手洗"
+      },
+      "fit": [
+        "日常出行"
+      ],
+      "tags": [
+        "日常出行"
+      ],
+      "limits": [
+        "无UPF数值证明，不按专业防晒帽推荐；只可手洗。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/club-premier-%E8%BD%AF%E9%A1%B6%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%B8%BD-eXQL5Re8/IV7540-065"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 169,
+        "max": 169,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/club-premier-%E8%BD%AF%E9%A1%B6%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%B8%BD-eXQL5Re8/IV7540-065",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "冷灰/黑/白色；软顶",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Club Premier 软顶足球运动帽，核对范围为款式IV7540-065及所列规格。",
+      "highlights": [
+        "材质：面料/前片里料100%棉",
+        "结构：五片式；弧形帽檐；日字扣可调节固定带",
+        "清洁：手洗"
+      ],
+      "purchase": {
+        "upgrade": "如果你已试戴确认软顶纯棉斜纹、五片式剪裁比现有帽子更贴合，169元才有加预算的理由；未经试戴不要只为标志升级。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/club-premier-%E8%BD%AF%E9%A1%B6%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%B8%BD-eXQL5Re8/IV7540-065"
+        ]
+      }
+    },
+    {
+      "id": 2116,
+      "brand": "Nike 耐克",
+      "product": "Nike Dri-FIT ADV Ace 速干遮阳帽",
+      "type": "运动户外",
+      "group": "户外恢复",
+      "category": "遮阳帽",
+      "model": "FB6443-010",
+      "variant": "黑/煤黑/白色；短帽檐可调节",
+      "specs": {
+        "面料": "90%聚酯纤维/10%氨纶",
+        "结构": "短帽檐；帽冠与内里透气孔；可调节固定带",
+        "技术": "Dri-FIT ADV"
+      },
+      "fit": [
+        "网球",
+        "运动出行"
+      ],
+      "tags": [
+        "网球",
+        "运动出行"
+      ],
+      "limits": [
+        "不是PPE；页面没有UPF数值；本条黑色款不是文中所述100色号运动员同款。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/dri-fit-adv-ace-%E7%B1%B3%E6%8B%89%E5%90%8C%E6%AC%BE%E9%80%9F%E5%B9%B2%E9%81%AE%E9%98%B3%E5%B8%BD-tdKbG9"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 169,
+        "max": 169,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/dri-fit-adv-ace-%E7%B1%B3%E6%8B%89%E5%90%8C%E6%AC%BE%E9%80%9F%E5%B9%B2%E9%81%AE%E9%98%B3%E5%B8%BD-tdKbG9",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/煤黑/白色；短帽檐可调节",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Dri-FIT ADV Ace 速干遮阳帽，核对范围为款式FB6443-010及所列规格。",
+      "highlights": [
+        "面料：90%聚酯纤维/10%氨纶",
+        "结构：短帽檐；帽冠与内里透气孔；可调节固定带",
+        "技术：Dri-FIT ADV"
+      ],
+      "purchase": {
+        "upgrade": "如果网球运动中更在意短帽檐减少视线干扰、透气孔与导湿设计，169元才值得考虑；日常遮阳可优先百元普通帽。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/dri-fit-adv-ace-%E7%B1%B3%E6%8B%89%E5%90%8C%E6%AC%BE%E9%80%9F%E5%B9%B2%E9%81%AE%E9%98%B3%E5%B8%BD-tdKbG9"
+        ]
+      }
+    },
+    {
+      "id": 2117,
+      "brand": "Nike 耐克",
+      "product": "Kobe Signature 7号橡胶篮球",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "篮球",
+      "model": "IW8002-039",
+      "variant": "灰绿/白色/白色/梦幻绿；7号",
+      "specs": {
+        "规格": "7号",
+        "面层": "橡胶",
+        "结构": "剑鞘抓附纹路；凹槽",
+        "出厂状态": "未充气"
+      },
+      "fit": [
+        "成人街头篮球"
+      ],
+      "tags": [
+        "成人街头篮球"
+      ],
+      "limits": [
+        "未充气，球针与气筒另行核对；无室内比赛认证承诺。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/kobe-signature-%E7%A7%91%E6%AF%94%E7%AF%AE%E7%90%83-V6jX9XJr/IW8002-039"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 159,
+        "max": 159,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/kobe-signature-%E7%A7%91%E6%AF%94%E7%AF%AE%E7%90%83-V6jX9XJr/IW8002-039",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "灰绿/白色/白色/梦幻绿；7号",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Kobe Signature 7号橡胶篮球，核对范围为款式IW8002-039及所列规格。",
+      "highlights": [
+        "规格：7号",
+        "面层：橡胶",
+        "结构：剑鞘抓附纹路；凹槽"
+      ],
+      "purchase": {
+        "upgrade": "要打成人7号篮球时，159元的规格比89元3号小篮球更适用；剑鞘纹路仅是公开设计特点，尚无实测证明更耐用。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/kobe-signature-%E7%A7%91%E6%AF%94%E7%AF%AE%E7%90%83-V6jX9XJr/IW8002-039"
+        ]
+      }
+    },
+    {
+      "id": 2118,
+      "brand": "Nike 耐克",
+      "product": "Nike Infinity GameTack 室内/户外篮球",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "篮球",
+      "model": "IW7923-855",
+      "variant": "暗琥珀黄/黑/金属银/黑；球号需下单核对",
+      "specs": {
+        "面层": "合成革",
+        "用途": "室内与户外",
+        "结构": "Infinity抓附纹路；凹槽；纹理标志",
+        "出厂状态": "未充气"
+      },
+      "fit": [
+        "室内篮球",
+        "户外篮球"
+      ],
+      "tags": [
+        "室内篮球",
+        "户外篮球"
+      ],
+      "limits": [
+        "官网正文未列球号，需下单前确认；未充气，不承诺现货。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/infinity-gametack-%E5%AE%A4%E5%86%85-%E6%88%B7%E5%A4%96%E7%AF%AE%E7%90%83-6zJDCpgE/IW7923-855"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 189,
+        "max": 189,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/infinity-gametack-%E5%AE%A4%E5%86%85-%E6%88%B7%E5%A4%96%E7%AF%AE%E7%90%83-6zJDCpgE/IW7923-855",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "暗琥珀黄/黑/金属银/黑；球号需下单核对",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Infinity GameTack 室内/户外篮球，核对范围为款式IW7923-855及所列规格。",
+      "highlights": [
+        "面层：合成革",
+        "用途：室内与户外",
+        "结构：Infinity抓附纹路；凹槽；纹理标志"
+      ],
+      "purchase": {
+        "upgrade": "如果经常切换室内与户外球场，需要一只两种场地均适用、合成革触感的球，189元才有加预算的理由；只在水泥地练习可比较百元橡胶球。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/infinity-gametack-%E5%AE%A4%E5%86%85-%E6%88%B7%E5%A4%96%E7%AF%AE%E7%90%83-6zJDCpgE/IW7923-855"
+        ]
+      }
+    },
+    {
+      "id": 2119,
+      "brand": "Nike 耐克",
+      "product": "Nike Dri-FIT 2.0 UPF40+ 跑步护臂（1 副）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "跑步护臂",
+      "model": "DX7120-318",
+      "variant": "梦幻绿/银；1副",
+      "specs": {
+        "防晒": "UPF40+；覆盖部位UVA/UVB防护",
+        "材质": "88%聚酯纤维/12%氨纶",
+        "技术": "Dri-FIT",
+        "标志": "反光耐克勾标志"
+      },
+      "fit": [
+        "户外跑步"
+      ],
+      "tags": [
+        "户外跑步"
+      ],
+      "limits": [
+        "仅保护被覆盖皮肤；拉伸、潮湿、长期使用可降低紫外线防护；不是PPE。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/dri-fit-2-%E8%BD%BB%E4%BE%BF%E5%9E%8B%E9%98%B2%E6%99%92%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%8A%A4%E8%87%821-%E5%89%AF-dkMrw4/DX7120-318"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 169,
+        "max": 169,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/dri-fit-2-%E8%BD%BB%E4%BE%BF%E5%9E%8B%E9%98%B2%E6%99%92%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%8A%A4%E8%87%821-%E5%89%AF-dkMrw4/DX7120-318",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "梦幻绿/银；1副",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Dri-FIT 2.0 UPF40+ 跑步护臂（1 副），核对范围为款式DX7120-318及所列规格。",
+      "highlights": [
+        "防晒：UPF40+；覆盖部位UVA/UVB防护",
+        "材质：88%聚酯纤维/12%氨纶",
+        "技术：Dri-FIT"
+      ],
+      "purchase": {
+        "upgrade": "户外长时间跑步且确实需要有UPF40+资料的覆盖防晒与导湿时，169元才值得加预算；未覆盖处仍需其他防晒措施。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/dri-fit-2-%E8%BD%BB%E4%BE%BF%E5%9E%8B%E9%98%B2%E6%99%92%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%8A%A4%E8%87%821-%E5%89%AF-dkMrw4/DX7120-318"
+        ]
+      }
+    },
+    {
+      "id": 2120,
+      "brand": "Nike 耐克",
+      "product": "Nike Pitch 12片式训练足球",
+      "type": "运动户外",
+      "group": "球类运动",
+      "category": "足球",
+      "model": "IQ0646-710",
+      "variant": "黄色/橙红/紫色/黑；球号需下单核对",
+      "specs": {
+        "结构": "12块皮面",
+        "面层": "橡胶/合成革/聚酯纤维/乙烯基醋纤",
+        "用途": "新手训练与强化步法"
+      },
+      "fit": [
+        "足球训练"
+      ],
+      "tags": [
+        "足球训练"
+      ],
+      "limits": [
+        "官网正文没有明确球号，下单前确认规格；不以本页认定比赛认证。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/pitch-%E8%B6%B3%E7%90%83-Qu8i8mho/IQ0646-710"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 129,
+        "max": 129,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/pitch-%E8%B6%B3%E7%90%83-Qu8i8mho/IQ0646-710",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黄色/橙红/紫色/黑；球号需下单核对",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Pitch 12片式训练足球，核对范围为款式IQ0646-710及所列规格。",
+      "highlights": [
+        "结构：12块皮面",
+        "面层：橡胶/合成革/聚酯纤维/乙烯基醋纤",
+        "用途：新手训练与强化步法"
+      ],
+      "purchase": {
+        "upgrade": "如果需要12片结构的训练球，并在下单前确认球号适合自己的训练用途，129元才可能值得；单纯练小球步法可选99元1号Skills。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/pitch-%E8%B6%B3%E7%90%83-Qu8i8mho/IQ0646-710"
+        ]
+      }
+    },
+    {
+      "id": 2121,
+      "brand": "Nike 耐克",
+      "product": "Nike Pro 速干训练脚踝护套（1 只）",
+      "type": "运动户外",
+      "group": "游泳健身",
+      "category": "训练护套",
+      "model": "DA6929-010",
+      "variant": "黑/白色；1只",
+      "specs": {
+        "材质": "47%氯丁橡胶/43%聚酯纤维/10%氨纶",
+        "说明": "不含乳胶",
+        "技术": "Dri-FIT；弹性贴合"
+      },
+      "fit": [
+        "健身训练"
+      ],
+      "tags": [
+        "健身训练"
+      ],
+      "limits": [
+        "仅1只，双脚需另计费用；为训练贴合用品，不作伤病治疗或医疗固定推荐。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/pro-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E8%84%9A%E8%B8%9D%E6%8A%A4%E5%A5%971-%E5%8F%AA-DVQ6cILl/DA6929-010"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 129,
+        "max": 129,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/pro-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E8%84%9A%E8%B8%9D%E6%8A%A4%E5%A5%971-%E5%8F%AA-DVQ6cILl/DA6929-010",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "黑/白色；1只",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Pro 速干训练脚踝护套（1 只），核对范围为款式DA6929-010及所列规格。",
+      "highlights": [
+        "材质：47%氯丁橡胶/43%聚酯纤维/10%氨纶",
+        "说明：不含乳胶",
+        "技术：Dri-FIT；弹性贴合"
+      ],
+      "purchase": {
+        "upgrade": "如果训练时需要额外弹性包覆并偏好不含乳胶材料，129元才有加预算理由；不能据此判断能治疗扭伤。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/pro-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E8%84%9A%E8%B8%9D%E6%8A%A4%E5%A5%971-%E5%8F%AA-DVQ6cILl/DA6929-010"
+        ]
+      }
+    },
+    {
+      "id": 2122,
+      "brand": "Nike 耐克",
+      "product": "Nike Everyday Elevated 速干中筒运动袜（3 双）",
+      "type": "运动户外",
+      "group": "跑步骑行",
+      "category": "运动袜",
+      "model": "HQ4335-915",
+      "variant": "多色；中筒；3双",
+      "specs": {
+        "数量": "3双",
+        "技术": "Dri-FIT",
+        "结构": "后跟与前足加厚、加固；透气足背；尺码标识",
+        "材质": "棉/聚酯纤维/其他纤维；罗纹含氨纶"
+      },
+      "fit": [
+        "训练",
+        "日常"
+      ],
+      "tags": [
+        "训练",
+        "日常"
+      ],
+      "limits": [
+        "与69元Lightweight中筒款为不同型号；加厚需核对鞋内空间。",
+        "公开规格资料核对，未进行实物测试；库存与尺码以结算页为准。"
+      ],
+      "source": {
+        "region": "中国大陆",
+        "urls": [
+          {
+            "label": "Nike中国大陆产品页；具体款式及未划线公开标价",
+            "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-H1jNtaap/HQ4335-915"
+          }
+        ],
+        "checked_at": "2026-10-14"
+      },
+      "review": {
+        "status": "documented",
+        "checked_at": "2026-10-14",
+        "method": "完整打开Nike中国大陆具体商品页，逐条核对款式、材质或结构、使用限制和未划线CNY标价；非实物质量测评",
+        "physical_tested": false
+      },
+      "price": {
+        "kind": "documented",
+        "currency": "CNY",
+        "min": 109,
+        "max": 109,
+        "observed_at": "2026-10-14",
+        "url": "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-H1jNtaap/HQ4335-915",
+        "label": "Nike中国大陆公开标价（未划线）",
+        "variant": "多色；中筒；3双",
+        "note": "不含另外的配送费；促销价与建议零售价分开，实际成交以结算页为准。"
+      },
+      "isNew": true,
+      "updated_at": "2026-10-14",
+      "overview": "Nike Everyday Elevated 速干中筒运动袜（3 双），核对范围为款式HQ4335-915及所列规格。",
+      "highlights": [
+        "数量：3双",
+        "技术：Dri-FIT",
+        "结构：后跟与前足加厚、加固；透气足背；尺码标识"
+      ],
+      "purchase": {
+        "upgrade": "如果要中筒3双装，并且确实需要加厚加固后跟与足尖，多付百元以上9元有具体结构理由；只求日常导湿可选69元Lightweight。",
+        "checked_at": "2026-10-14",
+        "basis": "按官方公开功能与需求分析的购买建议；不证明品牌最强、实物质量优胜或销量排名",
+        "source_urls": [
+          "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-H1jNtaap/HQ4335-915"
+        ]
+      }
+    }
+  ]
+}

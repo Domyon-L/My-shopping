@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "checked_at": "2026-10-14",
+    "price_review_days": 30,
+    "currency": "CNY",
+    "claim": "按已比较的同品牌同品类型号、具体用途与预算作出的编辑选择；非绝对质量排名。",
+    "covered_brands": [
+      "IKEA 宜家",
+      "CASIO 卡西欧",
+      "MUJI 无印良品",
+      "Nike 耐克"
+    ],
+    "covered_brand_count": 4,
+    "coverage": "覆盖4个有成对公开规格及当期人民币报价的品牌；未覆盖品牌不作首选结论。"
+  },
+  "picks": [
+    {
+      "brand": "IKEA 宜家",
+      "category": "食品盒",
+      "product_id": 682,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆，百元以内备餐或带饭，想一次配齐盒与盖；仅比较092.767.73附盖1 L和003.592.11盒身1.2 L。",
+      "criteria": [
+        "总购买内容",
+        "百元预算",
+        "容量与摆放尺寸",
+        "加热及清洗说明"
+      ],
+      "reason": "74.99元包含1 L玻璃盒与硅树脂盖，适合没有现成盖、想一次配齐的备餐用户；相比19.99元的1.2 L盒身，多付费用对应配套盖，不代表玻璃质量更好。",
+      "spec_keys": [
+        "容量",
+        "尺寸",
+        "盒身材质",
+        "盖材质",
+        "保养"
+      ],
+      "alternatives": [
+        {
+          "product_id": 1012,
+          "tradeoff": "1.2 L正方形玻璃盒身标价19.99元，容量更大且盒身更便宜；但不含盖，完整配盖费用未核对。已有适配方形盖或无需盖时更合适。",
+          "spec_keys": [
+            "容量",
+            "尺寸",
+            "配盖",
+            "材质"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/",
+        "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "两款包装内容不同，不能直接把单盒价与附盖套价当作同口径性价比。",
+        "宜家页面有地区缺货提示；首次使用前清洗，加热须遵守对应材质说明。"
+      ]
+    },
+    {
+      "brand": "CASIO 卡西欧",
+      "category": "计算器",
+      "product_id": 2123,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆，常规科学计算、统计和函数表格，预算100元；仅比较fx-82CN CW II、fx-95CN CW II和fx-999CN CW II。",
+      "criteria": [
+        "百元预算",
+        "所需计算功能",
+        "显示与电源"
+      ],
+      "reason": "88元的fx-82CN CW II列明计算、统计与函数表格三类应用，适合这些常规需求。相对128元和228元款，把预算用于自己会用到的功能；没有方程求解、矩阵等需求时优先这一款。",
+      "spec_keys": [
+        "功能",
+        "显示",
+        "电源"
+      ],
+      "alternatives": [
+        {
+          "product_id": 2133,
+          "tradeoff": "128元增加目录列明的方程组、多项式方程与不等式功能；经常用这些功能才有必要多付40元。",
+          "spec_keys": [
+            "显示",
+            "功能",
+            "电源"
+          ]
+        },
+        {
+          "product_id": 2134,
+          "tradeoff": "228元列明数值微积分、4×4矩阵、向量与数据表格功能，适合确需进阶计算的用途；普通计算无需为这些功能加价。",
+          "spec_keys": [
+            "显示",
+            "功能",
+            "电源"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/",
+        "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/",
+        "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "考试准入须核对具体考试规则，不能以无编程功能推断所有考试可用。",
+        "没有比较计算速度、按键寿命或实际精度差异。"
+      ]
+    },
+    {
+      "brand": "MUJI 无印良品",
+      "category": "中性笔",
+      "product_id": 2138,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆（官方上海配送区域报价），日常黑色0.5 mm记录书写，偏好按压式开合；仅比较NB05CC0A、NB06CC0A和NBE1CC4S所列黑色SKU。",
+      "criteria": [
+        "所选笔径与颜色",
+        "开合款式偏好",
+        "公开SKU价格"
+      ],
+      "reason": "7元按压式黑色0.5 mm与笔帽式同价，适合偏好按压开合的日常记录；10元口袋笔有不同款式定位。这里按开合习惯和价格选择，不推断三款墨水、流畅度或耐用性高低。",
+      "spec_keys": [
+        "系列型号",
+        "SKU",
+        "规格",
+        "所选款式"
+      ],
+      "alternatives": [
+        {
+          "product_id": 2137,
+          "tradeoff": "同为7元、黑色0.5 mm，采用笔帽式；喜欢独立笔帽时可选，价格并不更高。",
+          "spec_keys": [
+            "系列型号",
+            "SKU",
+            "规格",
+            "所选款式"
+          ]
+        },
+        {
+          "product_id": 2151,
+          "tradeoff": "10元的按压式口袋笔也为黑色0.5 mm；明确想要口袋笔款式可考虑，多付3元不作为书写质量更好的证据。",
+          "spec_keys": [
+            "系列型号",
+            "SKU",
+            "规格",
+            "所选款式"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.muji.com.cn/cn/store/commodity/72824",
+        "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=72824&provinceCd=31",
+        "https://www.muji.com.cn/cn/store/commodity/72853",
+        "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=72853&provinceCd=31",
+        "https://www.muji.com.cn/cn/store/commodity/94235",
+        "https://www.muji.com.cn/cn/ecapi/maps/ec/commodity?id=94235&provinceCd=31"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "仅比较所列黑色SKU；其他笔径、配色及包装价格不套用。",
+        "未核对口袋笔实测尺寸，不以名称推断具体长度。",
+        "含小部件，按包装适龄与使用说明操作。"
+      ]
+    },
+    {
+      "brand": "Nike 耐克",
+      "category": "运动袜",
+      "product_id": 2092,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆，百元以内中筒3双装日常或训练袜，偏好较低购买成本；仅比较SX7676-903和HQ4335-915。",
+      "criteria": [
+        "百元预算",
+        "相同3双装口径",
+        "袜筒形式",
+        "公开结构与材质"
+      ],
+      "reason": "69元Lightweight中筒3双装列明Dri-FIT、罗纹袜口与足弓板带，对一般日常导湿与换洗需求更省预算。109元Elevated中筒款的加厚加固结构只在你需要这些结构时构成加价理由，未证明其实际寿命更长。",
+      "spec_keys": [
+        "数量",
+        "技术",
+        "结构",
+        "材质"
+      ],
+      "alternatives": [
+        {
+          "product_id": 2122,
+          "tradeoff": "109元同为中筒3双装并列明后跟与前足加厚、加固以及透气足背；确实需要这些结构且鞋内空间允许时，可多付40元。",
+          "spec_keys": [
+            "数量",
+            "技术",
+            "结构",
+            "材质"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%AE%AD%E7%BB%83%E8%A2%9C3-%E5%8F%8C-d9vLkAkW/SX7676-903",
+        "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-H1jNtaap/HQ4335-915"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "尺码按脚长选择；具体配色材质与库存以所列款式页面为准。",
+        "没有实测吸湿速度、耐磨次数或舒适度。"
+      ]
+    },
+    {
+      "brand": "CASIO 卡西欧",
+      "category": "计算器",
+      "product_id": 2133,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆，经常使用二至四元方程组、二至四次多项式方程或不等式，接受128元预算；仅比较fx-82CN CW II、fx-95CN CW II和fx-999CN CW II。",
+      "criteria": [
+        "确需的方程功能",
+        "加价对应收益",
+        "可选百元替代"
+      ],
+      "reason": "128元的fx-95CN CW II列明方程组、多项式方程与不等式，只有经常用到这些功能，才值得比88元款多付40元、超过百元预算28元。若只需一般计算，改选88元fx-82CN CW II。",
+      "spec_keys": [
+        "功能",
+        "显示",
+        "电源"
+      ],
+      "alternatives": [
+        {
+          "product_id": 2123,
+          "tradeoff": "88元符合百元预算并列明计算、统计与函数表格；不需要所列方程功能时更省40元。",
+          "spec_keys": [
+            "功能",
+            "显示",
+            "电源"
+          ]
+        },
+        {
+          "product_id": 2134,
+          "tradeoff": "228元增加目录列明的数值微积分、矩阵、向量和数据表格用途；若只需方程组、多项式方程与不等式，不必再多付100元。",
+          "spec_keys": [
+            "功能",
+            "显示",
+            "电源"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/",
+        "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/",
+        "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "128元是中国官网公开参考价，不代表所有渠道成交价。",
+        "考试准入另核；不宣称高价款实物质量更优。"
+      ]
+    },
+    {
+      "brand": "Nike 耐克",
+      "category": "运动袜",
+      "product_id": 2100,
+      "claim_scope": "compared_models",
+      "scope": "中国大陆，百元以内短袜3双装，明确需要前足与后跟加厚的日常或训练用途；仅比较IH8523-906和SX7677-906。",
+      "criteria": [
+        "相同短袜3双装口径",
+        "加厚结构需要",
+        "百元预算"
+      ],
+      "reason": "89元Elevated短袜3双装仍在百元以内，列明前足与后跟加厚加固、足背疏松针织。确实偏好这些结构且鞋内空间允许时，20元差价有明确对应内容；只求日常导湿，69元Lightweight短袜更省。",
+      "spec_keys": [
+        "数量",
+        "技术",
+        "结构",
+        "材质"
+      ],
+      "alternatives": [
+        {
+          "product_id": 2101,
+          "tradeoff": "69元Lightweight短袜同为3双装，列明罗纹袜口和足弓板带；不需要前足与后跟加厚时可省20元。",
+          "spec_keys": [
+            "数量",
+            "技术",
+            "结构",
+            "材质"
+          ]
+        }
+      ],
+      "evidence_urls": [
+        "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-JEn4HX8T/IH8523-906",
+        "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-weuzQ5N5/SX7677-906"
+      ],
+      "limitations": [
+        "仅比较所列同品牌同品类型号，是按用途与预算作出的编辑选择；未做实物测试，也未穷尽品牌全系列。",
+        "价格为2026-10-14公开人民币参考标价；地区库存、运费及实际成交以购买页为准。",
+        "加厚结构不等于实测耐磨或舒适度更优；需核对鞋内空间。",
+        "尺码与所选多色款以官方页面为准。"
+      ]
+    }
+  ]
+}

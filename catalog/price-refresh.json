@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-10-14",
+  "observations": [
+    {
+      "id": 682,
+      "amount": 74.99,
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/",
+      "label": "宜家中国公开标价",
+      "variant": "货号 092.767.73；玻璃盒及硅树脂盖，1 L",
+      "note": "页面显示地区缺货提示；参考标价不表示现货。"
+    },
+    {
+      "id": 683,
+      "amount": 9.99,
+      "url": "https://www.ikea.cn/cn/zh/p/samla-box-with-lid-transparent-s19440848/",
+      "label": "宜家中国公开标价",
+      "variant": "货号 194.408.48；附盖透明收纳盒，5 L",
+      "note": "页面显示地区缺货提示；参考标价不表示现货。"
+    },
+    {
+      "id": 1012,
+      "amount": 19.99,
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/",
+      "label": "宜家中国公开标价",
+      "variant": "货号 003.592.11；正方形玻璃盒身，1.2 L；盖另购",
+      "note": "读取的是公开页面所列价格；页面有地区缺货提示，具体库存另行确认。"
+    },
+    {
+      "id": 1002,
+      "amount": 1899,
+      "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3",
+      "label": "Apple 中国大陆公开标价",
+      "variant": "AirPods Pro 3；USB-C MagSafe 充电盒",
+      "note": "未扣除以旧换新、教育或支付活动优惠；不含另购充电线和适配器。"
+    },
+    {
+      "id": 1003,
+      "amount": 3799,
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+      "label": "Apple 中国大陆公开标价",
+      "variant": "iPad A16；128 GB；无线局域网版",
+      "note": "仅对应页面所列 128 GB 无线局域网配置；不含手写笔、键盘和折抵优惠。"
+    },
+    {
+      "id": 1005,
+      "amount": 218,
+      "url": "https://www.casio.com.cn/scientific-calculators/product.FX-991CN-CW-PLUS/",
+      "label": "卡西欧中国官网公开标价",
+      "variant": "fx-991CN CW II；黑色；硬质保护壳",
+      "note": "官网公开参考价；考试使用许可需另行确认，不含购买渠道优惠。"
+    }
+  ],
+  "not_confirmed": [
+    {
+      "id": 1001,
+      "reason": "罗技中国页面可核对型号，但此次页面没有明确人民币价格，不推算售价。"
+    },
+    {
+      "id": 663,
+      "reason": "索尼中国页面没有可读取的明确人民币报价，不推算售价。"
+    },
+    {
+      "id": 676,
+      "reason": "乐高中国页面有型号和组件资料，没有可读取的明确人民币价格。"
+    },
+    {
+      "id": 1006,
+      "reason": "乐高中国页面有型号和组件资料，没有可读取的明确人民币价格。"
+    }
+  ]
+}

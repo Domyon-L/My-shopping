@@ -1,0 +1,48 @@
+{
+  "fileKey": "S0oE0Xi71chU7RpN5MK78h",
+  "url": "https://www.figma.com/design/S0oE0Xi71chU7RpN5MK78h",
+  "revisionTarget": "v19",
+  "status": "blocked_by_figma_mcp_starter_plan_call_limit",
+  "figmaModified": false,
+  "createdNodeIds": [],
+  "mutatedNodeIds": [],
+  "screenshotPaths": [],
+  "screenNodesPreserved": {
+    "PC/Home": "4:36",
+    "PC/Category": "4:37",
+    "PC/Search": "4:38",
+    "PC/Filter": "4:39",
+    "PC/Detail": "4:40",
+    "Mobile/Home": "4:41",
+    "Mobile/Category": "4:42",
+    "Mobile/Search": "4:43",
+    "Mobile/Filter": "4:44",
+    "Mobile/Detail": "4:45"
+  },
+  "componentsPreserved": {
+    "Primary": "3:6",
+    "Secondary": "3:10",
+    "Hover": "3:14",
+    "Disabled": "3:18",
+    "Search": "3:22",
+    "Filter": "3:26",
+    "Category": "3:32",
+    "Badge": "3:38",
+    "CardPC": "3:42",
+    "CardMobile": "3:64"
+  },
+  "knownFontFromExistingState": "Noto Sans SC",
+  "currentFontAssertion": "not_performed_tool_limit",
+  "liveScreenCounts": "not_read_tool_limit",
+  "attempts": [
+    {
+      "operation": "read_existing_screens_components_variables_fonts",
+      "outcome": "Return value exceeds the 20480-byte limit (22003 bytes). Canvas edits from this run were not committed.",
+      "safeToRetryWithoutCanvasRead": true
+    },
+    {
+      "operation": "retry_narrowed_read",
+      "outcome": "Figma MCP tool call limit reached on Starter plan"
+    }
+  ]
+}

@@ -1,0 +1,3114 @@
+[
+  {
+    "id": 2046,
+    "brand": "IKEA 宜家",
+    "product": "DIMPA 迪姆帕 透明储物袋",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物袋",
+    "model": "901.877.53",
+    "variant": "透明；65×22×65 cm",
+    "specs": {
+      "尺寸": "65 × 22 × 65 cm",
+      "结构": "透明、带拉链、可折叠",
+      "材料": "聚丙烯，至少60%回收材料"
+    },
+    "fit": [
+      "换季衣物"
+    ],
+    "tags": [
+      "换季衣物",
+      "百元内"
+    ],
+    "limits": [
+      "不能水洗；用湿布擦净。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/dimpa-di-mu-pa-chu-wu-dai-tou-ming-90187753/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/dimpa-di-mu-pa-chu-wu-dai-tou-ming-90187753/",
+      "label": "宜家中国公开参考价",
+      "variant": "透明；65×22×65 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "大尺寸透明拉链袋，适合看得见地收纳换季衣物，空袋可折叠。",
+    "highlights": [
+      "尺寸：65 × 22 × 65 cm",
+      "结构：透明、带拉链、可折叠",
+      "材料：聚丙烯，至少60%回收材料"
+    ],
+    "purchase": {
+      "value": "大尺寸透明拉链袋，适合看得见地收纳换季衣物，空袋可折叠。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/dimpa-di-mu-pa-chu-wu-dai-tou-ming-90187753/"
+      ]
+    }
+  },
+  {
+    "id": 2047,
+    "brand": "IKEA 宜家",
+    "product": "PEPPRIG 佩普里格 清洁收纳提篮",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "清洁收纳",
+    "model": "204.830.97",
+    "variant": "44×23×15 cm；仅提篮",
+    "specs": {
+      "尺寸": "44 × 23 × 15 cm",
+      "材料": "聚丙烯塑料",
+      "结构": "底部有沥水小孔"
+    },
+    "fit": [
+      "家居清洁"
+    ],
+    "tags": [
+      "家居清洁",
+      "百元内"
+    ],
+    "limits": [
+      "仅提篮；搭配清洁桶和工具需另购，存放于阴凉干燥处。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-qing-ji-shou-na-ti-lan-20483097/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 30,
+      "max": 30,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-qing-ji-shou-na-ti-lan-20483097/",
+      "label": "宜家中国公开参考价",
+      "variant": "44×23×15 cm；仅提篮",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "带孔提篮能集中携带清洁用具并沥水，适合已有工具、只需收纳的人。",
+    "highlights": [
+      "尺寸：44 × 23 × 15 cm",
+      "材料：聚丙烯塑料",
+      "结构：底部有沥水小孔"
+    ],
+    "purchase": {
+      "value": "带孔提篮能集中携带清洁用具并沥水，适合已有工具、只需收纳的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-qing-ji-shou-na-ti-lan-20483097/"
+      ]
+    }
+  },
+  {
+    "id": 2048,
+    "brand": "IKEA 宜家",
+    "product": "RENSARE 雷恩萨瑞 衣类收纳袋3件套",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "衣物收纳",
+    "model": "404.325.06",
+    "variant": "方格图案/灰色 黑色；3件套",
+    "specs": {
+      "数量": "3件套",
+      "用途": "分类存放衣物、袜子、耳机",
+      "面料": "聚酯纤维、聚氨酯"
+    },
+    "fit": [
+      "旅行"
+    ],
+    "tags": [
+      "旅行",
+      "百元内"
+    ],
+    "limits": [
+      "可机洗最高30°C；不要熨烫。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-yi-lei-shou-na-dai-3-jian-tao-fang-ge-tu-an-hui-se-hei-se-40432506/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-yi-lei-shou-na-dai-3-jian-tao-fang-ge-tu-an-hui-se-hei-se-40432506/",
+      "label": "宜家中国公开参考价",
+      "variant": "方格图案/灰色 黑色；3件套",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "3个衣物分装袋让衣服与小物件分开，适合短途旅行和抽屉分类。",
+    "highlights": [
+      "数量：3件套",
+      "用途：分类存放衣物、袜子、耳机",
+      "面料：聚酯纤维、聚氨酯"
+    ],
+    "purchase": {
+      "value": "3个衣物分装袋让衣服与小物件分开，适合短途旅行和抽屉分类。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-yi-lei-shou-na-dai-3-jian-tao-fang-ge-tu-an-hui-se-hei-se-40432506/"
+      ]
+    }
+  },
+  {
+    "id": 2049,
+    "brand": "IKEA 宜家",
+    "product": "PÄRKLA 派克拉 鞋袋",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "鞋履收纳",
+    "model": "105.223.82",
+    "variant": "48×22 cm；侧拉链",
+    "specs": {
+      "尺寸": "宽48 × 高22 cm",
+      "结构": "侧拉链、可折叠",
+      "材料": "聚丙烯纤维、聚丙烯"
+    },
+    "fit": [
+      "旅行"
+    ],
+    "tags": [
+      "旅行",
+      "百元内"
+    ],
+    "limits": [
+      "不能水洗；用湿布擦拭；能否装入须核对鞋子体积。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/paerkla-pai-ke-la-xie-dai-10522382/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.99,
+      "max": 4.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/paerkla-pai-ke-la-xie-dai-10522382/",
+      "label": "宜家中国公开参考价",
+      "variant": "48×22 cm；侧拉链",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "单独装鞋能减少行李中衣物沾泥，低成本适合旅行备用。",
+    "highlights": [
+      "尺寸：宽48 × 高22 cm",
+      "结构：侧拉链、可折叠",
+      "材料：聚丙烯纤维、聚丙烯"
+    ],
+    "purchase": {
+      "value": "单独装鞋能减少行李中衣物沾泥，低成本适合旅行备用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/paerkla-pai-ke-la-xie-dai-10522382/"
+      ]
+    }
+  },
+  {
+    "id": 2050,
+    "brand": "IKEA 宜家",
+    "product": "RENSARE 雷恩萨瑞 8 L分装袋",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "旅行收纳",
+    "model": "704.325.00",
+    "variant": "方格图案/黑色；30×40 cm/8 L",
+    "specs": {
+      "尺寸": "30 × 40 cm",
+      "容量": "8 L",
+      "面料": "聚酯纤维、聚氨酯"
+    },
+    "fit": [
+      "旅行"
+    ],
+    "tags": [
+      "旅行",
+      "百元内"
+    ],
+    "limits": [
+      "可机洗最高30°C；页面未标明防水等级，按普通分装袋使用。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-dai-fang-ge-tu-an-hei-se-70432500/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-dai-fang-ge-tu-an-hei-se-70432500/",
+      "label": "宜家中国公开参考价",
+      "variant": "方格图案/黑色；30×40 cm/8 L",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "8 L容量适合单独存放鞋履或较大物品，便于整理行李和衣柜。",
+    "highlights": [
+      "尺寸：30 × 40 cm",
+      "容量：8 L",
+      "面料：聚酯纤维、聚氨酯"
+    ],
+    "purchase": {
+      "value": "8 L容量适合单独存放鞋履或较大物品，便于整理行李和衣柜。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-dai-fang-ge-tu-an-hei-se-70432500/"
+      ]
+    }
+  },
+  {
+    "id": 2051,
+    "brand": "IKEA 宜家",
+    "product": "RENSARE 雷恩萨瑞 2.5 L防水袋",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "旅行收纳",
+    "model": "404.820.30",
+    "variant": "16×12×24 cm/2.5 L",
+    "specs": {
+      "尺寸": "16 × 12 × 24 cm",
+      "容量": "2.5 L",
+      "材料": "聚酯纤维、EVA塑料"
+    },
+    "fit": [
+      "游泳"
+    ],
+    "tags": [
+      "游泳",
+      "百元内"
+    ],
+    "limits": [
+      "闭合口须向下折3折并扣牢；未核验浸水等级，勿当潜水防水包。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-fang-shui-dai-40482030/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-fang-shui-dai-40482030/",
+      "label": "宜家中国公开参考价",
+      "variant": "16×12×24 cm/2.5 L",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "2.5 L卷口袋适合泳衣等湿物分装，扣带还能作为提手。",
+    "highlights": [
+      "尺寸：16 × 12 × 24 cm",
+      "容量：2.5 L",
+      "材料：聚酯纤维、EVA塑料"
+    ],
+    "purchase": {
+      "value": "2.5 L卷口袋适合泳衣等湿物分装，扣带还能作为提手。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-fang-shui-dai-40482030/"
+      ]
+    }
+  },
+  {
+    "id": 2052,
+    "brand": "IKEA 宜家",
+    "product": "GULLDYNA 古迪纳 华夫格浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "606.144.78",
+    "variant": "米黄色；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "100%棉，至少50%再生棉",
+      "克重": "265 g/m²",
+      "纹理": "华夫格"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "最大缩水8%；柔软剂可能降低吸水能力；建议使用前清洗。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/gulldyna-gu-di-na-yu-jin-mi-huang-se-60614478/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/gulldyna-gu-di-na-yu-jin-mi-huang-se-60614478/",
+      "label": "宜家中国公开参考价",
+      "variant": "米黄色；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "轻量华夫格结构与大浴巾尺寸，适合重视晾干速度和折叠收纳的人。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：100%棉，至少50%再生棉",
+      "克重：265 g/m²"
+    ],
+    "purchase": {
+      "value": "轻量华夫格结构与大浴巾尺寸，适合重视晾干速度和折叠收纳的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/gulldyna-gu-di-na-yu-jin-mi-huang-se-60614478/"
+      ]
+    }
+  },
+  {
+    "id": 2053,
+    "brand": "IKEA 宜家",
+    "product": "LUDDVIAL 鲁德维亚 轻量浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "105.863.45",
+    "variant": "灰色；55×120 cm",
+    "specs": {
+      "尺寸": "55 × 120 cm",
+      "面料": "100%棉",
+      "克重": "295 g/m²"
+    },
+    "fit": [
+      "健身"
+    ],
+    "tags": [
+      "健身",
+      "百元内"
+    ],
+    "limits": [
+      "尺寸小于70×140 cm浴巾；最大缩水8%；首次清洗后再用。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/luddvial-lu-de-wei-ya-yu-jin-hui-se-10586345/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/luddvial-lu-de-wei-ya-yu-jin-hui-se-10586345/",
+      "label": "宜家中国公开参考价",
+      "variant": "灰色；55×120 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "轻量棉浴巾价格低、折叠后体积较小，适合健身包或旅行备用。",
+    "highlights": [
+      "尺寸：55 × 120 cm",
+      "面料：100%棉",
+      "克重：295 g/m²"
+    ],
+    "purchase": {
+      "value": "轻量棉浴巾价格低、折叠后体积较小，适合健身包或旅行备用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/luddvial-lu-de-wei-ya-yu-jin-hui-se-10586345/"
+      ]
+    }
+  },
+  {
+    "id": 2054,
+    "brand": "IKEA 宜家",
+    "product": "VÅGSJÖN 沃格逊 条纹浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "904.946.10",
+    "variant": "浅米色；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "100%棉",
+      "克重": "400 g/m²"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "最大缩水6%；柔软剂可能降低吸水能力。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/vagsjoen-wo-ge-xun-yu-jin-qian-mi-se-90494610/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/vagsjoen-wo-ge-xun-yu-jin-qian-mi-se-90494610/",
+      "label": "宜家中国公开参考价",
+      "variant": "浅米色；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "400 g/m²棉浴巾兼顾中等厚度与常规大尺寸，适合日常替换。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：100%棉",
+      "克重：400 g/m²"
+    ],
+    "purchase": {
+      "value": "400 g/m²棉浴巾兼顾中等厚度与常规大尺寸，适合日常替换。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/vagsjoen-wo-ge-xun-yu-jin-qian-mi-se-90494610/"
+      ]
+    }
+  },
+  {
+    "id": 2055,
+    "brand": "IKEA 宜家",
+    "product": "ÄNGHÖJDEN 安霍顿 无捻纱浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "406.582.13",
+    "variant": "浅粉色；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "100%棉",
+      "克重": "400 g/m²",
+      "结构": "无捻纱毛圈"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "最大缩水6%；松散毛圈应剪掉，不要拉扯。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/aenghoejden-an-huo-dun-yu-jin-qian-fen-se-40658213/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/aenghoejden-an-huo-dun-yu-jin-qian-fen-se-40658213/",
+      "label": "宜家中国公开参考价",
+      "variant": "浅粉色；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "无捻纱毛圈和400 g/m²厚度适合偏好蓬松触感的日常洗浴。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：100%棉",
+      "克重：400 g/m²"
+    ],
+    "purchase": {
+      "value": "无捻纱毛圈和400 g/m²厚度适合偏好蓬松触感的日常洗浴。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/aenghoejden-an-huo-dun-yu-jin-qian-fen-se-40658213/"
+      ]
+    }
+  },
+  {
+    "id": 2056,
+    "brand": "IKEA 宜家",
+    "product": "BROKGINST 布洛金斯 双面浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "706.144.06",
+    "variant": "黑色；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "100%棉",
+      "克重": "480 g/m²",
+      "结构": "华夫格纹理与毛圈双面"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "最大缩水8%；与相近颜色一起洗涤；柔软剂可能降低吸水能力。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/brokginst-bu-luo-jin-si-yu-jin-hei-se-70614406/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/brokginst-bu-luo-jin-si-yu-jin-hei-se-70614406/",
+      "label": "宜家中国公开参考价",
+      "variant": "黑色；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "同一浴巾提供华夫格和毛圈两种触感，适合喜欢双面纹理的人。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：100%棉",
+      "克重：480 g/m²"
+    ],
+    "purchase": {
+      "value": "同一浴巾提供华夫格和毛圈两种触感，适合喜欢双面纹理的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/brokginst-bu-luo-jin-si-yu-jin-hei-se-70614406/"
+      ]
+    }
+  },
+  {
+    "id": 2057,
+    "brand": "IKEA 宜家",
+    "product": "BROKGLIM 布洛克林 厚棉浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "006.289.11",
+    "variant": "白色；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "100%棉",
+      "克重": "650 g/m²"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "厚款占用更多收纳空间；最大缩水6%；柔软剂可能降低吸水能力。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/brokglim-bu-luo-ke-lin-yu-jin-bai-se-00628911/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/brokglim-bu-luo-ke-lin-yu-jin-bai-se-00628911/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "650 g/m²厚棉绒适合想要更厚实浴巾的人，百元内可比较厚度差异。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：100%棉",
+      "克重：650 g/m²"
+    ],
+    "purchase": {
+      "value": "650 g/m²厚棉绒适合想要更厚实浴巾的人，百元内可比较厚度差异。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/brokglim-bu-luo-ke-lin-yu-jin-bai-se-00628911/"
+      ]
+    }
+  },
+  {
+    "id": 2058,
+    "brand": "IKEA 宜家",
+    "product": "VALLASÅN 沃拉松 棉粘胶浴巾",
+    "type": "家居生活",
+    "group": "床品卫浴",
+    "category": "浴巾",
+    "model": "705.313.31",
+    "variant": "浅绿；70×140 cm",
+    "specs": {
+      "尺寸": "70 × 140 cm",
+      "面料": "80%棉、20%粘胶纤维/人造丝",
+      "克重": "285 g/m²"
+    },
+    "fit": [
+      "日常洗浴"
+    ],
+    "tags": [
+      "日常洗浴",
+      "百元内"
+    ],
+    "limits": [
+      "天然染料可能有细微色差；最大缩水6%；柔软剂可能降低吸水能力。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/vallasan-wo-la-song-yu-jin-qian-lu-70531331/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 69.99,
+      "max": 69.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/vallasan-wo-la-song-yu-jin-qian-lu-70531331/",
+      "label": "宜家中国公开参考价",
+      "variant": "浅绿；70×140 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "棉粘胶混纺与轻量结构适合偏好柔软、轻薄浴巾的人。",
+    "highlights": [
+      "尺寸：70 × 140 cm",
+      "面料：80%棉、20%粘胶纤维/人造丝",
+      "克重：285 g/m²"
+    ],
+    "purchase": {
+      "value": "棉粘胶混纺与轻量结构适合偏好柔软、轻薄浴巾的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/vallasan-wo-la-song-yu-jin-qian-lu-70531331/"
+      ]
+    }
+  },
+  {
+    "id": 2059,
+    "brand": "IKEA 宜家",
+    "product": "ENUDDEN 安努登 房门式挂衣钩",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "门后挂钩",
+    "model": "402.516.66",
+    "variant": "白色；宽35×高13 cm；门厚4 cm",
+    "specs": {
+      "尺寸": "宽35 × 高13 cm",
+      "门厚": "4 cm",
+      "材料": "粉末涂层钢、EVA塑料护垫"
+    },
+    "fit": [
+      "门后收纳"
+    ],
+    "tags": [
+      "门后收纳",
+      "百元内"
+    ],
+    "limits": [
+      "购买前测量门厚及门顶间隙；按组装说明固定。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/enudden-an-nu-deng-fang-men-shi-gua-yi-gou-bai-se-40251666/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/enudden-an-nu-deng-fang-men-shi-gua-yi-gou-bai-se-40251666/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；宽35×高13 cm；门厚4 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "利用门上方闲置空间挂包和浴衣，护垫帮助减少接触刮擦。",
+    "highlights": [
+      "尺寸：宽35 × 高13 cm",
+      "门厚：4 cm",
+      "材料：粉末涂层钢、EVA塑料护垫"
+    ],
+    "purchase": {
+      "value": "利用门上方闲置空间挂包和浴衣，护垫帮助减少接触刮擦。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/enudden-an-nu-deng-fang-men-shi-gua-yi-gou-bai-se-40251666/"
+      ]
+    }
+  },
+  {
+    "id": 2060,
+    "brand": "IKEA 宜家",
+    "product": "HÖVOLM 赫沃姆 橡木六钩衣帽架",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "衣帽挂钩",
+    "model": "905.000.60",
+    "variant": "橡木；57×5×5 cm",
+    "specs": {
+      "尺寸": "宽57 × 高5 × 深5 cm",
+      "数量": "6个挂钩",
+      "材料": "实心橡木、清漆"
+    },
+    "fit": [
+      "门厅"
+    ],
+    "tags": [
+      "门厅",
+      "百元内"
+    ],
+    "limits": [
+      "墙壁螺丝另购；必须按墙材选择固定件并牢固安装。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/hoevolm-he-wo-mu-liu-gou-yi-mao-jia-xiang-mu-90500060/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99.99,
+      "max": 99.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/hoevolm-he-wo-mu-liu-gou-yi-mao-jia-xiang-mu-90500060/",
+      "label": "宜家中国公开参考价",
+      "variant": "橡木；57×5×5 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "六个挂钩提供包袋和衣物分区，适合需要一排挂点并偏好实木外观的人。",
+    "highlights": [
+      "尺寸：宽57 × 高5 × 深5 cm",
+      "数量：6个挂钩",
+      "材料：实心橡木、清漆"
+    ],
+    "purchase": {
+      "value": "六个挂钩提供包袋和衣物分区，适合需要一排挂点并偏好实木外观的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/hoevolm-he-wo-mu-liu-gou-yi-mao-jia-xiang-mu-90500060/"
+      ]
+    }
+  },
+  {
+    "id": 2061,
+    "brand": "IKEA 宜家",
+    "product": "GRESLA 格雷斯拉 磁性挂钩4件套",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "磁性挂钩",
+    "model": "506.345.18",
+    "variant": "多色；1个双挂钩与3个单挂钩",
+    "specs": {
+      "数量": "4件；1个双钩、3个单钩",
+      "尺寸": "双钩7×5 cm；单钩4×4.5 cm",
+      "材料": "钢、磁铁"
+    },
+    "fit": [
+      "桌面"
+    ],
+    "tags": [
+      "桌面",
+      "百元内"
+    ],
+    "limits": [
+      "仅适合可吸附的金属表面；页面未给承重，避免挂重物。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/gresla-ge-lei-si-la-dai-ci-xing-gua-gou-duo-se-50634518/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/gresla-ge-lei-si-la-dai-ci-xing-gua-gou-duo-se-50634518/",
+      "label": "宜家中国公开参考价",
+      "variant": "多色；1个双挂钩与3个单挂钩",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "磁铁和小挂钩合二为一，适合在可吸附金属表面挂钥匙或固定便笺。",
+    "highlights": [
+      "数量：4件；1个双钩、3个单钩",
+      "尺寸：双钩7×5 cm；单钩4×4.5 cm",
+      "材料：钢、磁铁"
+    ],
+    "purchase": {
+      "value": "磁铁和小挂钩合二为一，适合在可吸附金属表面挂钥匙或固定便笺。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/gresla-ge-lei-si-la-dai-ci-xing-gua-gou-duo-se-50634518/"
+      ]
+    }
+  },
+  {
+    "id": 2062,
+    "brand": "IKEA 宜家",
+    "product": "ÅKERBRUK 阿克布鲁 壁式储物挂钩架",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "墙壁置物",
+    "model": "605.540.78",
+    "variant": "42×12×26 cm；附4件挂钩",
+    "specs": {
+      "尺寸": "42 × 12 × 26 cm",
+      "配置": "储物搁架、挂杆和4件挂钩",
+      "材料": "粉末涂层钢、实心山毛榉木"
+    },
+    "fit": [
+      "门厅"
+    ],
+    "tags": [
+      "门厅",
+      "百元内"
+    ],
+    "limits": [
+      "墙壁安装螺丝和与墙材相符的固定装置需另购。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/akerbruk-a-ke-bu-lu-bi-shi-chu-wu-jian-dai-gua-gou-60554078/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/akerbruk-a-ke-bu-lu-bi-shi-chu-wu-jian-dai-gua-gou-60554078/",
+      "label": "宜家中国公开参考价",
+      "variant": "42×12×26 cm；附4件挂钩",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "一套组合同时放小物和挂钥匙，适合狭小门厅集中收纳。",
+    "highlights": [
+      "尺寸：42 × 12 × 26 cm",
+      "配置：储物搁架、挂杆和4件挂钩",
+      "材料：粉末涂层钢、实心山毛榉木"
+    ],
+    "purchase": {
+      "value": "一套组合同时放小物和挂钥匙，适合狭小门厅集中收纳。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/akerbruk-a-ke-bu-lu-bi-shi-chu-wu-jian-dai-gua-gou-60554078/"
+      ]
+    }
+  },
+  {
+    "id": 2063,
+    "brand": "IKEA 宜家",
+    "product": "ALFTA 艾尔福塔 自粘画框挂钩",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "画框挂钩",
+    "model": "903.828.44",
+    "variant": "白色；2个挂钩及4条胶带",
+    "specs": {
+      "数量": "2个挂钩、4条胶带",
+      "尺寸": "4.5 × 8 cm",
+      "最大承重": "每个挂钩2 kg"
+    },
+    "fit": [
+      "墙面装饰"
+    ],
+    "tags": [
+      "墙面装饰",
+      "百元内"
+    ],
+    "limits": [
+      "每钩使用2条胶带；不适合乙烯/布料墙纸、硅胶及防污涂层；拆除方式不当可能损坏墙面。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/alfta-ai-er-fu-ta-kuang-jia-yong-zi-nian-gua-gou-bai-se-90382844/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/alfta-ai-er-fu-ta-kuang-jia-yong-zi-nian-gua-gou-bai-se-90382844/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；2个挂钩及4条胶带",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "免钻孔悬挂轻量画框，适合满足指定墙面条件且不想打孔的人。",
+    "highlights": [
+      "数量：2个挂钩、4条胶带",
+      "尺寸：4.5 × 8 cm",
+      "最大承重：每个挂钩2 kg"
+    ],
+    "purchase": {
+      "value": "免钻孔悬挂轻量画框，适合满足指定墙面条件且不想打孔的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/alfta-ai-er-fu-ta-kuang-jia-yong-zi-nian-gua-gou-bai-se-90382844/"
+      ]
+    }
+  },
+  {
+    "id": 2064,
+    "brand": "IKEA 宜家",
+    "product": "KLYKET 克吕凯 折叠挂钩3件套",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "折叠挂钩",
+    "model": "905.035.96",
+    "variant": "铝/米黄色；3件套",
+    "specs": {
+      "数量": "3件",
+      "尺寸": "深8.5 × 高9 cm",
+      "材料": "铝、不锈钢"
+    },
+    "fit": [
+      "卧室"
+    ],
+    "tags": [
+      "卧室",
+      "百元内"
+    ],
+    "limits": [
+      "墙壁螺丝和固定装置另购；须按墙材牢固安装。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/klyket-ke-lu-kai-zhe-die-gua-gou-lu-mi-huang-se-90503596/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/klyket-ke-lu-kai-zhe-die-gua-gou-lu-mi-huang-se-90503596/",
+      "label": "宜家中国公开参考价",
+      "variant": "铝/米黄色；3件套",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "不用时可折起，波浪形钩面可挂多个衣架，适合走道或小卧室。",
+    "highlights": [
+      "数量：3件",
+      "尺寸：深8.5 × 高9 cm",
+      "材料：铝、不锈钢"
+    ],
+    "purchase": {
+      "value": "不用时可折起，波浪形钩面可挂多个衣架，适合走道或小卧室。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/klyket-ke-lu-kai-zhe-die-gua-gou-lu-mi-huang-se-90503596/"
+      ]
+    }
+  },
+  {
+    "id": 2065,
+    "brand": "IKEA 宜家",
+    "product": "VALASJÖN 瓦拉雪恩 房门式挂衣钩",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "门后挂钩",
+    "model": "506.199.47",
+    "variant": "宽34×高13 cm",
+    "specs": {
+      "尺寸": "宽34 × 高13 cm",
+      "适用门厚": "最大4 cm",
+      "材料": "粉末涂层钢"
+    },
+    "fit": [
+      "浴室"
+    ],
+    "tags": [
+      "浴室",
+      "百元内"
+    ],
+    "limits": [
+      "只适用于最大4 cm厚的门；安装前还需核对门顶间隙。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/valasjoen-wa-la-xue-en-fang-men-shi-gua-yi-gou-50619947/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/valasjoen-wa-la-xue-en-fang-men-shi-gua-yi-gou-50619947/",
+      "label": "宜家中国公开参考价",
+      "variant": "宽34×高13 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "门后挂放毛巾和浴袍，带保护垫，适合需要浴室门后收纳的人。",
+    "highlights": [
+      "尺寸：宽34 × 高13 cm",
+      "适用门厚：最大4 cm",
+      "材料：粉末涂层钢"
+    ],
+    "purchase": {
+      "value": "门后挂放毛巾和浴袍，带保护垫，适合需要浴室门后收纳的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/valasjoen-wa-la-xue-en-fang-men-shi-gua-yi-gou-50619947/"
+      ]
+    }
+  },
+  {
+    "id": 2066,
+    "brand": "IKEA 宜家",
+    "product": "SKOGHALL 斯哥奥 自粘挂钩3件套",
+    "type": "家居生活",
+    "group": "墙面收纳",
+    "category": "自粘挂钩",
+    "model": "305.678.31",
+    "variant": "镀铬；3件",
+    "specs": {
+      "数量": "3件",
+      "直径": "4.6 cm",
+      "最大承重": "2 kg",
+      "材料": "镀铬铝"
+    },
+    "fit": [
+      "浴室"
+    ],
+    "tags": [
+      "浴室",
+      "百元内"
+    ],
+    "limits": [
+      "勿粘浴室墙纸或塑料表面；移除胶带可能留痕；不超过2 kg。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/skoghall-si-ge-ao-zi-nian-gua-gou-du-ge-30567831/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 24.99,
+      "max": 24.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/skoghall-si-ge-ao-zi-nian-gua-gou-du-ge-30567831/",
+      "label": "宜家中国公开参考价",
+      "variant": "镀铬；3件",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "背面自粘胶带省去钻孔，适合符合表面条件的小物悬挂。",
+    "highlights": [
+      "数量：3件",
+      "直径：4.6 cm",
+      "最大承重：2 kg"
+    ],
+    "purchase": {
+      "value": "背面自粘胶带省去钻孔，适合符合表面条件的小物悬挂。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/skoghall-si-ge-ao-zi-nian-gua-gou-du-ge-30567831/"
+      ]
+    }
+  },
+  {
+    "id": 2067,
+    "brand": "IKEA 宜家",
+    "product": "FORSÅ 芙萨 可调工作灯",
+    "type": "家居生活",
+    "group": "照明灯具",
+    "category": "工作灯",
+    "model": "901.467.91",
+    "variant": "镀镍；高35 cm；不含灯泡",
+    "specs": {
+      "高度": "35 cm",
+      "灯头": "E14，灯泡另购",
+      "线长": "1.8 m",
+      "结构": "灯臂和灯头可调"
+    },
+    "fit": [
+      "阅读"
+    ],
+    "tags": [
+      "阅读",
+      "百元内"
+    ],
+    "limits": [
+      "灯泡需另购并计入总预算；灯具规格最大40 W，按灯泡及灯具说明使用。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/forsa-fu-sa-gong-zuo-deng-du-nie-90146791/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99.99,
+      "max": 99.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/forsa-fu-sa-gong-zuo-deng-du-nie-90146791/",
+      "label": "宜家中国公开参考价",
+      "variant": "镀镍；高35 cm；不含灯泡",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "可调灯臂和灯头能把光线投到阅读位置，适合需要定向照明的人。",
+    "highlights": [
+      "高度：35 cm",
+      "灯头：E14，灯泡另购",
+      "线长：1.8 m"
+    ],
+    "purchase": {
+      "value": "可调灯臂和灯头能把光线投到阅读位置，适合需要定向照明的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/forsa-fu-sa-gong-zuo-deng-du-nie-90146791/"
+      ]
+    }
+  },
+  {
+    "id": 2068,
+    "brand": "IKEA 宜家",
+    "product": "BLÅSVERK 布洛威 台灯",
+    "type": "家居生活",
+    "group": "照明灯具",
+    "category": "氛围台灯",
+    "model": "105.209.29",
+    "variant": "米黄色；高36 cm；不含灯泡",
+    "specs": {
+      "高度": "36 cm",
+      "直径": "19 cm",
+      "灯头": "E14，灯泡另购",
+      "最大瓦数": "4.5 W"
+    },
+    "fit": [
+      "卧室"
+    ],
+    "tags": [
+      "卧室",
+      "百元内"
+    ],
+    "limits": [
+      "灯泡另购；建议乳白LED E14；不作为未经核验的护眼灯宣传。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/blasverk-bu-luo-wei-tai-deng-mi-huang-se-10520929/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/blasverk-bu-luo-wei-tai-deng-mi-huang-se-10520929/",
+      "label": "宜家中国公开参考价",
+      "variant": "米黄色；高36 cm；不含灯泡",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "柔和造型与漫射氛围适合床头或房间角落，灯具本体低于百元。",
+    "highlights": [
+      "高度：36 cm",
+      "直径：19 cm",
+      "灯头：E14，灯泡另购"
+    ],
+    "purchase": {
+      "value": "柔和造型与漫射氛围适合床头或房间角落，灯具本体低于百元。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/blasverk-bu-luo-wei-tai-deng-mi-huang-se-10520929/"
+      ]
+    }
+  },
+  {
+    "id": 2069,
+    "brand": "IKEA 宜家",
+    "product": "NÖDMAST 诺德茂思 便携LED灯",
+    "type": "家居生活",
+    "group": "照明灯具",
+    "category": "便携灯",
+    "model": "705.759.14",
+    "variant": "淡粉红色/深灰绿色；高26 cm；电池供电",
+    "specs": {
+      "高度": "26 cm",
+      "光通量": "50 lm",
+      "色温": "2700 K",
+      "供电": "4节AA 1.2 V充电电池，另购"
+    },
+    "fit": [
+      "卧室"
+    ],
+    "tags": [
+      "卧室",
+      "百元内"
+    ],
+    "limits": [
+      "电池、USB-C线和充电器均另购；50 lm偏向装饰照明；按说明使用规定充电电池。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/noedmast-nuo-de-mao-si-bian-xi-l-ed-deng-dian-chi-gong-dian-dan-fen-hong-se-shen-hui-lu-se-70575914/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/noedmast-nuo-de-mao-si-bian-xi-l-ed-deng-dian-chi-gong-dian-dan-fen-hong-se-shen-hui-lu-se-70575914/",
+      "label": "宜家中国公开参考价",
+      "variant": "淡粉红色/深灰绿色；高26 cm；电池供电",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "50 lm暖白装饰灯可以便携移动，适合无需强照度的夜间氛围。",
+    "highlights": [
+      "高度：26 cm",
+      "光通量：50 lm",
+      "色温：2700 K"
+    ],
+    "purchase": {
+      "value": "50 lm暖白装饰灯可以便携移动，适合无需强照度的夜间氛围。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/noedmast-nuo-de-mao-si-bian-xi-l-ed-deng-dian-chi-gong-dian-dan-fen-hong-se-shen-hui-lu-se-70575914/"
+      ]
+    }
+  },
+  {
+    "id": 2070,
+    "brand": "IKEA 宜家",
+    "product": "SVALLET 斯瓦雷特 工作灯",
+    "type": "家居生活",
+    "group": "照明灯具",
+    "category": "工作灯",
+    "model": "903.584.91",
+    "variant": "深灰色/白色；高35 cm；不含灯泡",
+    "specs": {
+      "高度": "35 cm",
+      "灯头": "E14，灯泡另购",
+      "线长": "200 cm",
+      "最大瓦数": "8.6 W"
+    },
+    "fit": [
+      "阅读"
+    ],
+    "tags": [
+      "阅读",
+      "百元内"
+    ],
+    "limits": [
+      "灯泡另购，建议乳白LED E14；总成本需包含灯泡。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/svallet-si-wa-lei-te-gong-zuo-deng-shen-hui-se-bai-se-90358491/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/svallet-si-wa-lei-te-gong-zuo-deng-shen-hui-se-bai-se-90358491/",
+      "label": "宜家中国公开参考价",
+      "variant": "深灰色/白色；高35 cm；不含灯泡",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "低价灯具提供定向阅读照明，适合已备兼容灯泡的桌面使用。",
+    "highlights": [
+      "高度：35 cm",
+      "灯头：E14，灯泡另购",
+      "线长：200 cm"
+    ],
+    "purchase": {
+      "value": "低价灯具提供定向阅读照明，适合已备兼容灯泡的桌面使用。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/svallet-si-wa-lei-te-gong-zuo-deng-shen-hui-se-bai-se-90358491/"
+      ]
+    }
+  },
+  {
+    "id": 2071,
+    "brand": "IKEA 宜家",
+    "product": "FADO 法多 球形玻璃台灯",
+    "type": "家居生活",
+    "group": "照明灯具",
+    "category": "氛围台灯",
+    "model": "400.963.74",
+    "variant": "白色；直径25 cm；不含灯泡",
+    "specs": {
+      "直径": "25 cm",
+      "高度": "24 cm",
+      "灯头": "E27，灯泡另购",
+      "灯罩": "玻璃"
+    },
+    "fit": [
+      "卧室"
+    ],
+    "tags": [
+      "卧室",
+      "百元内"
+    ],
+    "limits": [
+      "灯泡另购并计入总预算；玻璃灯罩应防碰撞；建议乳白LED E27。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/fado-fa-duo-tai-deng-bai-se-40096374/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99.99,
+      "max": 99.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/fado-fa-duo-tai-deng-bai-se-40096374/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；直径25 cm；不含灯泡",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "球形玻璃罩散射柔和氛围光，适合喜欢月球感床头装饰的人。",
+    "highlights": [
+      "直径：25 cm",
+      "高度：24 cm",
+      "灯头：E27，灯泡另购"
+    ],
+    "purchase": {
+      "value": "球形玻璃罩散射柔和氛围光，适合喜欢月球感床头装饰的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/fado-fa-duo-tai-deng-bai-se-40096374/"
+      ]
+    }
+  },
+  {
+    "id": 2072,
+    "brand": "IKEA 宜家",
+    "product": "UPPSNOFSAD 乌普诺萨 3.5 L储物盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物盒",
+    "model": "206.442.84",
+    "variant": "透明白色；25×17 cm；仅盒身",
+    "specs": {
+      "尺寸": "长25 × 宽17 × 高11.5 cm",
+      "容量": "3.5 L",
+      "材料": "聚丙烯塑料"
+    },
+    "fit": [
+      "工具收纳"
+    ],
+    "tags": [
+      "工具收纳",
+      "百元内"
+    ],
+    "limits": [
+      "盒盖另购；页面名称高度约12 cm，尺寸栏为11.5 cm；不按包装体积作为使用容量。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/uppsnofsad-wu-pu-nuo-sa-chu-wu-he-tou-ming-bai-se-20644284/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.99,
+      "max": 4.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppsnofsad-wu-pu-nuo-sa-chu-wu-he-tou-ming-bai-se-20644284/",
+      "label": "宜家中国公开参考价",
+      "variant": "透明白色；25×17 cm；仅盒身",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "小容量低价盒适合分装螺丝、灯泡和杂物，透明外观便于查看。",
+    "highlights": [
+      "尺寸：长25 × 宽17 × 高11.5 cm",
+      "容量：3.5 L",
+      "材料：聚丙烯塑料"
+    ],
+    "purchase": {
+      "value": "小容量低价盒适合分装螺丝、灯泡和杂物，透明外观便于查看。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppsnofsad-wu-pu-nuo-sa-chu-wu-he-tou-ming-bai-se-20644284/"
+      ]
+    }
+  },
+  {
+    "id": 2073,
+    "brand": "IKEA 宜家",
+    "product": "KUGGIS 库吉斯 附盖储物盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物盒",
+    "model": "795.611.87",
+    "variant": "白色；18×26×8 cm；盒与盖组合",
+    "specs": {
+      "尺寸": "18 × 26 × 8 cm",
+      "材料": "PET塑料，至少50%回收材料",
+      "配置": "盒身105.685.63、盖205.685.29"
+    },
+    "fit": [
+      "桌面"
+    ],
+    "tags": [
+      "桌面",
+      "百元内"
+    ],
+    "limits": [
+      "不可直接接触食物；公开优惠价有效期为2026-09-01至2027-08-31；购买时核对活动。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/kuggis-ku-ji-si-fu-gai-chu-wu-he-bai-se-s79561187/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/kuggis-ku-ji-si-fu-gai-chu-wu-he-bai-se-s79561187/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；18×26×8 cm；盒与盖组合",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "含盖且能叠放，适合收纳线材、照片和桌面小物，避免分购漏买盖。",
+    "highlights": [
+      "尺寸：18 × 26 × 8 cm",
+      "材料：PET塑料，至少50%回收材料",
+      "配置：盒身105.685.63、盖205.685.29"
+    ],
+    "purchase": {
+      "value": "含盖且能叠放，适合收纳线材、照片和桌面小物，避免分购漏买盖。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/kuggis-ku-ji-si-fu-gai-chu-wu-he-bai-se-s79561187/"
+      ]
+    }
+  },
+  {
+    "id": 2074,
+    "brand": "IKEA 宜家",
+    "product": "NOJIG 诺伊格 小型收纳盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "抽屉收纳",
+    "model": "004.770.40",
+    "variant": "塑料/米黄色；10×10×5 cm",
+    "specs": {
+      "尺寸": "10 × 10 × 5 cm",
+      "材料": "聚丙烯塑料，至少20%回收材料"
+    },
+    "fit": [
+      "桌面"
+    ],
+    "tags": [
+      "桌面",
+      "百元内"
+    ],
+    "limits": [
+      "仅核验此尺寸盒；购买多个时先核对抽屉内净尺寸。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/nojig-nuo-yi-ge-shou-na-he-su-liao-mi-huang-se-00477040/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 1.99,
+      "max": 1.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/nojig-nuo-yi-ge-shou-na-he-su-liao-mi-huang-se-00477040/",
+      "label": "宜家中国公开参考价",
+      "variant": "塑料/米黄色；10×10×5 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "小格盒适合把抽屉里的小物分开，低单价方便按实际抽屉空间搭配。",
+    "highlights": [
+      "尺寸：10 × 10 × 5 cm",
+      "材料：聚丙烯塑料，至少20%回收材料"
+    ],
+    "purchase": {
+      "value": "小格盒适合把抽屉里的小物分开，低单价方便按实际抽屉空间搭配。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/nojig-nuo-yi-ge-shou-na-he-su-liao-mi-huang-se-00477040/"
+      ]
+    }
+  },
+  {
+    "id": 2075,
+    "brand": "IKEA 宜家",
+    "product": "GLIS 格利思 附盖收纳盒3件套",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "文具收纳",
+    "model": "606.041.15",
+    "variant": "红色 粉红色/黄色；17×10×8 cm；3件",
+    "specs": {
+      "尺寸": "17 × 10 × 8 cm",
+      "数量": "3件",
+      "材料": "聚丙烯塑料"
+    },
+    "fit": [
+      "文具"
+    ],
+    "tags": [
+      "文具",
+      "百元内"
+    ],
+    "limits": [
+      "仅此3件套规格；需清洁时用中性皂液擦拭。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/glis-ge-li-si-fu-gai-chu-wu-he-hong-se-fen-hong-se-huang-se-60604115/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/glis-ge-li-si-fu-gai-chu-wu-he-hong-se-fen-hong-se-huang-se-60604115/",
+      "label": "宜家中国公开参考价",
+      "variant": "红色 粉红色/黄色；17×10×8 cm；3件",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "3个附盖小盒可叠放，适合将笔、零件和小物分组存放。",
+    "highlights": [
+      "尺寸：17 × 10 × 8 cm",
+      "数量：3件",
+      "材料：聚丙烯塑料"
+    ],
+    "purchase": {
+      "value": "3个附盖小盒可叠放，适合将笔、零件和小物分组存放。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/glis-ge-li-si-fu-gai-chu-wu-he-hong-se-fen-hong-se-huang-se-60604115/"
+      ]
+    }
+  },
+  {
+    "id": 2076,
+    "brand": "IKEA 宜家",
+    "product": "PANSARTAX 潘萨塔 2.5 L附盖储物盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物盒",
+    "model": "005.150.23",
+    "variant": "透明 蓝灰色；16.5×16.5×16.5 cm",
+    "specs": {
+      "尺寸": "16.5 × 16.5 × 16.5 cm",
+      "容量": "2.5 L",
+      "材料": "聚丙烯塑料，至少50%回收材料"
+    },
+    "fit": [
+      "浴室"
+    ],
+    "tags": [
+      "浴室",
+      "百元内"
+    ],
+    "limits": [
+      "不可直接接触食物；不适合户外使用；再生塑料可能存在色差。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pansartax-pan-sa-ta-fu-gai-chu-wu-he-tou-ming-lan-hui-se-00515023/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pansartax-pan-sa-ta-fu-gai-chu-wu-he-tou-ming-lan-hui-se-00515023/",
+      "label": "宜家中国公开参考价",
+      "variant": "透明 蓝灰色；16.5×16.5×16.5 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "半透明带盖盒便于查找发饰和线材，适合室内潮湿空间的杂物收纳。",
+    "highlights": [
+      "尺寸：16.5 × 16.5 × 16.5 cm",
+      "容量：2.5 L",
+      "材料：聚丙烯塑料，至少50%回收材料"
+    ],
+    "purchase": {
+      "value": "半透明带盖盒便于查找发饰和线材，适合室内潮湿空间的杂物收纳。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pansartax-pan-sa-ta-fu-gai-chu-wu-he-tou-ming-lan-hui-se-00515023/"
+      ]
+    }
+  },
+  {
+    "id": 2077,
+    "brand": "IKEA 宜家",
+    "product": "FJÄDERHARV 弗耶德哈 两斗储物盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "文件收纳",
+    "model": "305.969.18",
+    "variant": "白色；32×25×16 cm",
+    "specs": {
+      "尺寸": "宽32 × 深25 × 高16 cm",
+      "结构": "两个抽屉",
+      "材料": "再生纸板、纸"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "避免在顶部放重物，以免纸板变形；用干布清洁，勿用于潮湿环境。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/fjaederharv-fu-ye-de-ha-liang-dou-chu-wu-he-bai-se-30596918/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/fjaederharv-fu-ye-de-ha-liang-dou-chu-wu-he-bai-se-30596918/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；32×25×16 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "两层抽屉把笔记本、纸张和照片分开，适合深度至少25 cm的搁架。",
+    "highlights": [
+      "尺寸：宽32 × 深25 × 高16 cm",
+      "结构：两个抽屉",
+      "材料：再生纸板、纸"
+    ],
+    "purchase": {
+      "value": "两层抽屉把笔记本、纸张和照片分开，适合深度至少25 cm的搁架。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/fjaederharv-fu-ye-de-ha-liang-dou-chu-wu-he-bai-se-30596918/"
+      ]
+    }
+  },
+  {
+    "id": 2078,
+    "brand": "IKEA 宜家",
+    "product": "FLÅDIS 弗拉迪 海草编织篮",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物篮",
+    "model": "403.221.74",
+    "variant": "海草；直径25 cm；可折提手",
+    "specs": {
+      "直径": "25 cm",
+      "高度": "32 cm；折叠最小18 cm",
+      "材料": "水草、清漆"
+    },
+    "fit": [
+      "客厅"
+    ],
+    "tags": [
+      "客厅",
+      "百元内"
+    ],
+    "limits": [
+      "仅室内干燥环境；不适合浴室；不可直接接触食物；手工外形和颜色有差异。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/fladis-fu-la-di-lan-hai-cao-40322174/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/fladis-fu-la-di-lan-hai-cao-40322174/",
+      "label": "宜家中国公开参考价",
+      "variant": "海草；直径25 cm；可折提手",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "带提手并能折叠上部，适合摆放小毯子或衣物配饰。",
+    "highlights": [
+      "直径：25 cm",
+      "高度：32 cm；折叠最小18 cm",
+      "材料：水草、清漆"
+    ],
+    "purchase": {
+      "value": "带提手并能折叠上部，适合摆放小毯子或衣物配饰。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/fladis-fu-la-di-lan-hai-cao-40322174/"
+      ]
+    }
+  },
+  {
+    "id": 2079,
+    "brand": "IKEA 宜家",
+    "product": "SOCKERBIT 索克比 杂物盒",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "工具收纳",
+    "model": "703.161.81",
+    "variant": "白色；19×26×15 cm",
+    "specs": {
+      "尺寸": "19 × 26 × 15 cm",
+      "材料": "聚丙烯塑料，至少20%回收材料",
+      "标记": "两个可书写或贴标签区域"
+    },
+    "fit": [
+      "工具收纳"
+    ],
+    "tags": [
+      "工具收纳",
+      "百元内"
+    ],
+    "limits": [
+      "需放在深度超过19 cm的柜子或搁架；此条为盒身。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/sockerbit-suo-ke-bi-he-bai-se-70316181/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/sockerbit-suo-ke-bi-he-bai-se-70316181/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；19×26×15 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "可贴标签的小盒适合分开存放螺丝与兴趣用品，找东西更直接。",
+    "highlights": [
+      "尺寸：19 × 26 × 15 cm",
+      "材料：聚丙烯塑料，至少20%回收材料",
+      "标记：两个可书写或贴标签区域"
+    ],
+    "purchase": {
+      "value": "可贴标签的小盒适合分开存放螺丝与兴趣用品，找东西更直接。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/sockerbit-suo-ke-bi-he-bai-se-70316181/"
+      ]
+    }
+  },
+  {
+    "id": 2080,
+    "brand": "IKEA 宜家",
+    "product": "TJABBIG 夏比格 棉绳篮筐",
+    "type": "家居生活",
+    "group": "整理收纳",
+    "category": "储物篮",
+    "model": "605.326.04",
+    "variant": "自然色；直径15×高13 cm",
+    "specs": {
+      "尺寸": "直径15 × 高13 cm",
+      "材料": "100%棉，未漂白编织棉绳"
+    },
+    "fit": [
+      "卧室"
+    ],
+    "tags": [
+      "卧室",
+      "百元内"
+    ],
+    "limits": [
+      "不适合浴室或潮湿位置；不能水洗，使用吸尘器或粘刷清洁。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/tjabbig-xia-bi-ge-lan-kuang-zi-ran-se-60532604/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 24.99,
+      "max": 24.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/tjabbig-xia-bi-ge-lan-kuang-zi-ran-se-60532604/",
+      "label": "宜家中国公开参考价",
+      "variant": "自然色；直径15×高13 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "柔软棉绳篮适合床头常用小物，尺寸小巧且无需额外组装。",
+    "highlights": [
+      "尺寸：直径15 × 高13 cm",
+      "材料：100%棉，未漂白编织棉绳"
+    ],
+    "purchase": {
+      "value": "柔软棉绳篮适合床头常用小物，尺寸小巧且无需额外组装。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/tjabbig-xia-bi-ge-lan-kuang-zi-ran-se-60532604/"
+      ]
+    }
+  },
+  {
+    "id": 2081,
+    "brand": "IKEA 宜家",
+    "product": "DRÖNJÖNS 德瑞约恩 信盘2件套",
+    "type": "家居生活",
+    "group": "办公收纳",
+    "category": "文件收纳",
+    "model": "404.288.25",
+    "variant": "白色；34×24×7 cm；2件",
+    "specs": {
+      "尺寸": "34 × 24 × 7 cm",
+      "数量": "2件",
+      "材料": "粉末涂层钢",
+      "结构": "可叠放或单独用"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "按组装说明安装软塑料支腿；仅核验信盘，不含文件。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/droenjoens-de-rui-yue-en-xin-pan-bai-se-40428825/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/droenjoens-de-rui-yue-en-xin-pan-bai-se-40428825/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；34×24×7 cm；2件",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "两件网状信盘将文件分类，能叠放，适合桌面纸张较多的人。",
+    "highlights": [
+      "尺寸：34 × 24 × 7 cm",
+      "数量：2件",
+      "材料：粉末涂层钢"
+    ],
+    "purchase": {
+      "value": "两件网状信盘将文件分类，能叠放，适合桌面纸张较多的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/droenjoens-de-rui-yue-en-xin-pan-bai-se-40428825/"
+      ]
+    }
+  },
+  {
+    "id": 2082,
+    "brand": "IKEA 宜家",
+    "product": "VATTENKAR 瓦滕卡 桌面搁架",
+    "type": "家居生活",
+    "group": "办公收纳",
+    "category": "桌面搁架",
+    "model": "005.415.69",
+    "variant": "白色；49×15×36 cm",
+    "specs": {
+      "尺寸": "宽49 × 深15 × 高36 cm",
+      "材料": "粉末涂层钢",
+      "安装": "可拆卸螺丝固定座",
+      "调节": "搁板3个位置"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "安装前核对桌边形状、夹持空间和组装说明；页面未核验适用所有桌面。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/vattenkar-wa-teng-qia-zhuo-mian-ge-jia-bai-se-00541569/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 99.99,
+      "max": 99.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/vattenkar-wa-teng-qia-zhuo-mian-ge-jia-bai-se-00541569/",
+      "label": "宜家中国公开参考价",
+      "variant": "白色；49×15×36 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "可拆卸夹持固定方式能扩展桌面收纳，适合需要提高小物摆放位置的人。",
+    "highlights": [
+      "尺寸：宽49 × 深15 × 高36 cm",
+      "材料：粉末涂层钢",
+      "安装：可拆卸螺丝固定座"
+    ],
+    "purchase": {
+      "value": "可拆卸夹持固定方式能扩展桌面收纳，适合需要提高小物摆放位置的人。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/vattenkar-wa-teng-qia-zhuo-mian-ge-jia-bai-se-00541569/"
+      ]
+    }
+  },
+  {
+    "id": 2083,
+    "brand": "IKEA 宜家",
+    "product": "FODERTRÅG 福德特劳 书桌/壁装收纳件",
+    "type": "家居生活",
+    "group": "办公收纳",
+    "category": "桌面收纳",
+    "model": "405.907.65",
+    "variant": "淡灰色；25×18×15 cm",
+    "specs": {
+      "尺寸": "25 × 18 × 15 cm",
+      "材料": "聚丙烯塑料，至少50%回收材料",
+      "方式": "桌面摆放、叠放或壁装"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "独立垂直摆放建议最多3个以免倾倒；墙壁安装螺丝另购。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/fodertrag-fu-de-te-lao-shu-zhuo-bi-zhuang-shou-na-jian-dan-hui-se-40590765/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 17.99,
+      "max": 17.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/fodertrag-fu-de-te-lao-shu-zhuo-bi-zhuang-shou-na-jian-dan-hui-se-40590765/",
+      "label": "宜家中国公开参考价",
+      "variant": "淡灰色；25×18×15 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "单独摆放或壁装均可，适合将钥匙、信件和桌面小物集中归位。",
+    "highlights": [
+      "尺寸：25 × 18 × 15 cm",
+      "材料：聚丙烯塑料，至少50%回收材料",
+      "方式：桌面摆放、叠放或壁装"
+    ],
+    "purchase": {
+      "value": "单独摆放或壁装均可，适合将钥匙、信件和桌面小物集中归位。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/fodertrag-fu-de-te-lao-shu-zhuo-bi-zhuang-shou-na-jian-dan-hui-se-40590765/"
+      ]
+    }
+  },
+  {
+    "id": 2084,
+    "brand": "IKEA 宜家",
+    "product": "HAVREHOJ 哈勒霍 平板电脑支架",
+    "type": "家居生活",
+    "group": "办公收纳",
+    "category": "平板支架",
+    "model": "005.345.78",
+    "variant": "金属支架；宽12×深16 cm",
+    "specs": {
+      "尺寸": "宽12 × 深16 × 高32 cm",
+      "调节高度": "20–32 cm",
+      "表面": "软木前挡板与保护底层",
+      "功能": "角度可调、耳机挂钩"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "购买前核对设备尺寸、重量与说明书；此支架无电子功能。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/havrehoj-ha-le-huo-ping-ban-dian-nao-zhi-jia-00534578/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/havrehoj-ha-le-huo-ping-ban-dian-nao-zhi-jia-00534578/",
+      "label": "宜家中国公开参考价",
+      "variant": "金属支架；宽12×深16 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "高度与角度均可调整，并提供耳机挂钩，适合桌面视频和阅读。",
+    "highlights": [
+      "尺寸：宽12 × 深16 × 高32 cm",
+      "调节高度：20–32 cm",
+      "表面：软木前挡板与保护底层"
+    ],
+    "purchase": {
+      "value": "高度与角度均可调整，并提供耳机挂钩，适合桌面视频和阅读。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/havrehoj-ha-le-huo-ping-ban-dian-nao-zhi-jia-00534578/"
+      ]
+    }
+  },
+  {
+    "id": 2085,
+    "brand": "IKEA 宜家",
+    "product": "LILLNAGGEN 利纳根 玻璃清洁刮板",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "玻璃刮板",
+    "model": "202.435.97",
+    "variant": "长20×宽25.5 cm",
+    "specs": {
+      "尺寸": "20 × 25.5 cm",
+      "材料": "聚丙烯把手、热塑性弹性体和铝刮面"
+    },
+    "fit": [
+      "家居清洁"
+    ],
+    "tags": [
+      "家居清洁",
+      "百元内"
+    ],
+    "limits": [
+      "按玻璃表面要求使用；不能据此宣称适合所有涂层或具备杀菌作用。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/lillnaggen-li-na-gen-bo-li-qing-ji-gua-ban-20243597/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.99,
+      "max": 7.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/lillnaggen-li-na-gen-bo-li-qing-ji-gua-ban-20243597/",
+      "label": "宜家中国公开参考价",
+      "variant": "长20×宽25.5 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "简单橡胶刮面适合清除窗户或淋浴玻璃水渍，价格低且不需替换耗材组合。",
+    "highlights": [
+      "尺寸：20 × 25.5 cm",
+      "材料：聚丙烯把手、热塑性弹性体和铝刮面"
+    ],
+    "purchase": {
+      "value": "简单橡胶刮面适合清除窗户或淋浴玻璃水渍，价格低且不需替换耗材组合。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/lillnaggen-li-na-gen-bo-li-qing-ji-gua-ban-20243597/"
+      ]
+    }
+  },
+  {
+    "id": 2086,
+    "brand": "IKEA 宜家",
+    "product": "STACKSTOD 斯塔斯多 办公桌收纳件",
+    "type": "家居生活",
+    "group": "办公收纳",
+    "category": "桌面收纳",
+    "model": "306.201.45",
+    "variant": "红色；32×18×16 cm；带把手",
+    "specs": {
+      "尺寸": "32 × 18 × 16 cm",
+      "材料": "聚丙烯塑料，至少50%回收材料",
+      "结构": "开放隔层、提手"
+    },
+    "fit": [
+      "办公"
+    ],
+    "tags": [
+      "办公",
+      "百元内"
+    ],
+    "limits": [
+      "开放式设计不防尘；此条仅核验红色款，其他颜色不另计新品。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/stackstod-si-ta-si-duo-ban-gong-zhuo-shou-na-jian-hong-se-30620145/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/stackstod-si-ta-si-duo-ban-gong-zhuo-shou-na-jian-hong-se-30620145/",
+      "label": "宜家中国公开参考价",
+      "variant": "红色；32×18×16 cm；带把手",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "带提手的分区盒方便在学习桌和其他位置间移动，也可用于浴室杂物。",
+    "highlights": [
+      "尺寸：32 × 18 × 16 cm",
+      "材料：聚丙烯塑料，至少50%回收材料",
+      "结构：开放隔层、提手"
+    ],
+    "purchase": {
+      "value": "带提手的分区盒方便在学习桌和其他位置间移动，也可用于浴室杂物。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/stackstod-si-ta-si-duo-ban-gong-zhuo-shou-na-jian-hong-se-30620145/"
+      ]
+    }
+  },
+  {
+    "id": 2087,
+    "brand": "IKEA 宜家",
+    "product": "PEPPRIG 佩普里格 挤压清洁平板拖把",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "平板拖把",
+    "model": "305.698.54",
+    "variant": "灰色；拖板12×37 cm",
+    "specs": {
+      "拖板尺寸": "12 × 37 cm",
+      "杆材": "不锈钢、钢",
+      "结构": "挤压清洁、可折叠收纳",
+      "拖布": "微纤维"
+    },
+    "fit": [
+      "家居清洁"
+    ],
+    "tags": [
+      "家居清洁",
+      "百元内"
+    ],
+    "limits": [
+      "替换布另购；官方建议每6个月更换；拖布机洗最高40°C，不用漂清剂。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-ji-ya-qing-ji-ping-ban-tuo-ba-hui-se-30569854/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-ji-ya-qing-ji-ping-ban-tuo-ba-hui-se-30569854/",
+      "label": "宜家中国公开参考价",
+      "variant": "灰色；拖板12×37 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "挤压方式可减少直接用手拧拖布，且能折起收纳，适合室内地板清洁。",
+    "highlights": [
+      "拖板尺寸：12 × 37 cm",
+      "杆材：不锈钢、钢",
+      "结构：挤压清洁、可折叠收纳"
+    ],
+    "purchase": {
+      "value": "挤压方式可减少直接用手拧拖布，且能折起收纳，适合室内地板清洁。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-ji-ya-qing-ji-ping-ban-tuo-ba-hui-se-30569854/"
+      ]
+    }
+  },
+  {
+    "id": 2088,
+    "brand": "IKEA 宜家",
+    "product": "PEPPRIG 佩普里格 可折叠脸盆",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "脸盆",
+    "model": "405.677.22",
+    "variant": "黄色；直径27×高11 cm",
+    "specs": {
+      "尺寸": "直径27 × 高11 cm",
+      "材料": "聚丙烯塑料、合成橡胶",
+      "结构": "可折叠、底部波浪纹、挂孔"
+    },
+    "fit": [
+      "旅行"
+    ],
+    "tags": [
+      "旅行",
+      "百元内"
+    ],
+    "limits": [
+      "页面未标注使用容量；包装体积9 L不作为盆的盛水容量；避免自定高温使用条件。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-lian-pen-ke-zhe-die-huang-se-40567722/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-lian-pen-ke-zhe-die-huang-se-40567722/",
+      "label": "宜家中国公开参考价",
+      "variant": "黄色；直径27×高11 cm",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "用后可压平并挂放，适合小空间手洗衣物或旅行携带。",
+    "highlights": [
+      "尺寸：直径27 × 高11 cm",
+      "材料：聚丙烯塑料、合成橡胶",
+      "结构：可折叠、底部波浪纹、挂孔"
+    ],
+    "purchase": {
+      "value": "用后可压平并挂放，适合小空间手洗衣物或旅行携带。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-lian-pen-ke-zhe-die-huang-se-40567722/"
+      ]
+    }
+  },
+  {
+    "id": 2089,
+    "brand": "IKEA 宜家",
+    "product": "PEPPRIG 佩普里格 簸箕扫帚套装",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "扫帚簸箕",
+    "model": "705.676.31",
+    "variant": "灰色/绿色；折叠簸箕",
+    "specs": {
+      "配置": "扫帚与可折叠簸箕",
+      "功能": "橡胶边、上缘齿刷",
+      "材料": "钢杆、聚丙烯与PET刷毛"
+    },
+    "fit": [
+      "家居清洁"
+    ],
+    "tags": [
+      "家居清洁",
+      "百元内"
+    ],
+    "limits": [
+      "用温水清洁后擦干；未核验特殊地面兼容性。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-bo-ji-sao-zhou-hui-se-lu-se-70567631/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-bo-ji-sao-zhou-hui-se-lu-se-70567631/",
+      "label": "宜家中国公开参考价",
+      "variant": "灰色/绿色；折叠簸箕",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "可折叠簸箕节省放置空间，齿刷帮助清理扫帚毛发，适合日常扫地。",
+    "highlights": [
+      "配置：扫帚与可折叠簸箕",
+      "功能：橡胶边、上缘齿刷",
+      "材料：钢杆、聚丙烯与PET刷毛"
+    ],
+    "purchase": {
+      "value": "可折叠簸箕节省放置空间，齿刷帮助清理扫帚毛发，适合日常扫地。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-bo-ji-sao-zhou-hui-se-lu-se-70567631/"
+      ]
+    }
+  },
+  {
+    "id": 2090,
+    "brand": "IKEA 宜家",
+    "product": "PEPPRIG 佩普里格 550 mL洒水瓶",
+    "type": "家居生活",
+    "group": "清洁工具",
+    "category": "喷壶",
+    "model": "905.014.32",
+    "variant": "55 cL/550 mL；可调喷嘴",
+    "specs": {
+      "容量": "550 mL",
+      "材料": "聚乙烯塑料",
+      "功能": "可调喷嘴、锁定装置、水平指示"
+    },
+    "fit": [
+      "家居清洁"
+    ],
+    "tags": [
+      "家居清洁",
+      "百元内"
+    ],
+    "limits": [
+      "勿盛装饮用液体；清洁剂兼容性和混配须按其标签执行，不把锁定装置视为绝对防误触。",
+      "本条核验中国官网对应货号的公开资料与标价，未进行实物测试；页面提示地区库存需选择地址另查，库存与结算价不作保证。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国对应货号产品页及公开标价",
+          "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-sa-shui-ping-90501432/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "实际打开宜家中国产品页面，逐项核对货号、选定规格、材料/功能、使用限制和人民币公开标价；不代表实物品质认证",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-sa-shui-ping-90501432/",
+      "label": "宜家中国公开参考价",
+      "variant": "55 cL/550 mL；可调喷嘴",
+      "note": "2026-10-14读取官方公开页面；非实际成交价，库存、配送费和结算价格需购买时核对。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "overview": "小型喷瓶可调喷水形态，适合植物喷水或按清洁剂说明进行清洁。",
+    "highlights": [
+      "容量：550 mL",
+      "材料：聚乙烯塑料",
+      "功能：可调喷嘴、锁定装置、水平指示"
+    ],
+    "purchase": {
+      "value": "小型喷瓶可调喷水形态，适合植物喷水或按清洁剂说明进行清洁。",
+      "checked_at": "2026-10-14",
+      "basis": "依据公开功能与对应场景给出的编辑购买建议，不是实物质量评级或跨品牌排名",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-sa-shui-ping-90501432/"
+      ]
+    }
+  }
+]

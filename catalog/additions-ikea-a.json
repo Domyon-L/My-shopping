@@ -1,0 +1,3187 @@
+[
+  {
+    "id": 2001,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 削皮刀",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "005.219.53",
+    "variant": "绿色，单把",
+    "specs": {
+      "长度": "17.5 cm",
+      "材料": "ABS塑料、不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "处理蔬菜表皮，刀刃锋利，操作时手指远离刀刃。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-xue-pi-dao-lu-se-00521953/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.99,
+      "max": 4.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-xue-pi-dao-lu-se-00521953/",
+      "label": "宜家中国公开标价",
+      "variant": "绿色，单把",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "低预算补齐削皮工具，挂孔方便收纳。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-xue-pi-dao-lu-se-00521953/"
+      ]
+    },
+    "overview": "低预算补齐削皮工具，挂孔方便收纳。",
+    "highlights": [
+      "长度：17.5 cm",
+      "材料：ABS塑料、不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2002,
+    "brand": "IKEA 宜家",
+    "product": "STENSNULTRA 斯坦纳加 手动切菜器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "006.186.91",
+    "variant": "黑色灰蓝色/透明",
+    "specs": {
+      "高度": "19 cm",
+      "宽度": "13 cm",
+      "方式": "转动手柄；防滑底部",
+      "材料": "不锈钢刀片、SAN塑料主体"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "仅可手洗；刀片可拆卸，拆洗时避免接触刃口。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/stensnultra-si-tan-na-jia-qie-cai-qi-hei-se-hui-lan-se-tou-ming-00618691/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/stensnultra-si-tan-na-jia-qie-cai-qi-hei-se-hui-lan-se-tou-ming-00618691/",
+      "label": "宜家中国公开标价",
+      "variant": "黑色灰蓝色/透明",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "手动切碎洋葱等配料，不需电源，部件可拆洗。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/stensnultra-si-tan-na-jia-qie-cai-qi-hei-se-hui-lan-se-tou-ming-00618691/"
+      ]
+    },
+    "overview": "手动切碎洋葱等配料，不需电源，部件可拆洗。",
+    "highlights": [
+      "高度：19 cm",
+      "宽度：13 cm",
+      "方式：转动手柄；防滑底部"
+    ]
+  },
+  {
+    "id": 2003,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 配料碗3件套",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "905.151.65",
+    "variant": "多色，18 cm，3只装",
+    "specs": {
+      "直径": "18 cm",
+      "高度": "5 cm",
+      "包装": "3件",
+      "材料": "聚苯乙烯塑料"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "仅可手洗；耐温上限70°C；不是烹煮锅具。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-pei-liao-wan-duo-se-90515165/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-pei-liao-wan-duo-se-90515165/",
+      "label": "宜家中国公开标价",
+      "variant": "多色，18 cm，3只装",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "侧开口便于从砧板移入食材，三碗可分别备料并叠放。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-pei-liao-wan-duo-se-90515165/"
+      ]
+    },
+    "overview": "侧开口便于从砧板移入食材，三碗可分别备料并叠放。",
+    "highlights": [
+      "直径：18 cm",
+      "高度：5 cm",
+      "包装：3件"
+    ]
+  },
+  {
+    "id": 2004,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 手持擦菜器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "505.219.36",
+    "variant": "灰白，单把",
+    "specs": {
+      "尺寸": "23×4×1 cm",
+      "材料": "不锈钢擦丝面、强化聚丙烯把手",
+      "配件": "可拆塑料保护套"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "刨皮和擦奶酪时避免指尖接触擦丝面。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shou-chi-ca-cai-qi-hui-bai-50521936/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shou-chi-ca-cai-qi-hui-bai-50521936/",
+      "label": "宜家中国公开标价",
+      "variant": "灰白，单把",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "大小两种孔配保护套，适合少量奶酪和柑橘皮处理。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shou-chi-ca-cai-qi-hui-bai-50521936/"
+      ]
+    },
+    "overview": "大小两种孔配保护套，适合少量奶酪和柑橘皮处理。",
+    "highlights": [
+      "尺寸：23×4×1 cm",
+      "材料：不锈钢擦丝面、强化聚丙烯把手",
+      "配件：可拆塑料保护套"
+    ]
+  },
+  {
+    "id": 2005,
+    "brand": "IKEA 宜家",
+    "product": "IKEA 365+ 防滑擦菜器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "404.223.19",
+    "variant": "黑色，长26 cm",
+    "specs": {
+      "长度": "26 cm",
+      "材料": "聚酰胺塑料、合成橡胶、不锈钢",
+      "配合": "IKEA 365+长方形食品盒"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "仅可手洗；配合食品盒须核对长方形型号与尺寸。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/ikea-365-ca-cai-qi-hei-se-40422319/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-ca-cai-qi-hei-se-40422319/",
+      "label": "宜家中国公开标价",
+      "variant": "黑色，长26 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "软侧边防滑，可架在匹配食品盒上接住蔬菜碎。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-ca-cai-qi-hei-se-40422319/"
+      ]
+    },
+    "overview": "软侧边防滑，可架在匹配食品盒上接住蔬菜碎。",
+    "highlights": [
+      "长度：26 cm",
+      "材料：聚酰胺塑料、合成橡胶、不锈钢",
+      "配合：IKEA 365+长方形食品盒"
+    ]
+  },
+  {
+    "id": 2006,
+    "brand": "IKEA 宜家",
+    "product": "IKEA 365+ VÄRDEFULL 瓦福 肉凿",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "801.634.08",
+    "variant": "黑色，长24 cm",
+    "specs": {
+      "长度": "24 cm",
+      "主体": "强化聚酰胺塑料",
+      "手柄": "合成橡胶"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "保养说明耐温上限40°C；生肉接触后需清洁。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/ikea-365-vaerdefull-ikea-365-wa-fu-rou-zao-hei-se-80163408/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-vaerdefull-ikea-365-wa-fu-rou-zao-hei-se-80163408/",
+      "label": "宜家中国公开标价",
+      "variant": "黑色，长24 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "专用松肉工具，带橡胶手柄便于抓握。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-vaerdefull-ikea-365-wa-fu-rou-zao-hei-se-80163408/"
+      ]
+    },
+    "overview": "专用松肉工具，带橡胶手柄便于抓握。",
+    "highlights": [
+      "长度：24 cm",
+      "主体：强化聚酰胺塑料",
+      "手柄：合成橡胶"
+    ]
+  },
+  {
+    "id": 2007,
+    "brand": "IKEA 宜家",
+    "product": "VARDAGEN 瓦达恩 刨刀",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "603.243.65",
+    "variant": "不锈钢，13 cm",
+    "specs": {
+      "长度": "13 cm",
+      "材料": "不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "首次使用前清洗；刃口接触部位需谨慎操作。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-bao-dao-60324365/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-bao-dao-60324365/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢，13 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "小尺寸不锈钢刨刀便于日常备餐及清洁。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-bao-dao-60324365/"
+      ]
+    },
+    "overview": "小尺寸不锈钢刨刀便于日常备餐及清洁。",
+    "highlights": [
+      "长度：13 cm",
+      "材料：不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2008,
+    "brand": "IKEA 宜家",
+    "product": "IDEALISK 艾迪利斯 立式擦菜器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "501.919.07",
+    "variant": "不锈钢",
+    "specs": {
+      "尺寸": "12×10×20 cm",
+      "材料": "不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "擦菜时保持稳定，避免手指碰到切口。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ca-cai-qi-bu-xiu-gang-50191907/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ca-cai-qi-bu-xiu-gang-50191907/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "立式不锈钢擦菜器价格低，适合厨房基础备料。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ca-cai-qi-bu-xiu-gang-50191907/"
+      ]
+    },
+    "overview": "立式不锈钢擦菜器价格低，适合厨房基础备料。",
+    "highlights": [
+      "尺寸：12×10×20 cm",
+      "材料：不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2009,
+    "brand": "IKEA 宜家",
+    "product": "IDEALISK 艾迪利斯 马铃薯压榨器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "801.919.15",
+    "variant": "不锈钢",
+    "specs": {
+      "长度": "24.5 cm",
+      "高度": "10 cm",
+      "直径": "8 cm",
+      "材料": "不锈钢"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "这是手动压榨工具，适用于制作熟土豆泥，不是电动榨汁机。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ma-ling-shu-ya-zha-qi-bu-xiu-gang-80191915/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 69.99,
+      "max": 69.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ma-ling-shu-ya-zha-qi-bu-xiu-gang-80191915/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "常做土豆泥时可减少手工捣碎步骤，洗碗机可清洗。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-ma-ling-shu-ya-zha-qi-bu-xiu-gang-80191915/"
+      ]
+    },
+    "overview": "常做土豆泥时可减少手工捣碎步骤，洗碗机可清洗。",
+    "highlights": [
+      "长度：24.5 cm",
+      "高度：10 cm",
+      "直径：8 cm"
+    ]
+  },
+  {
+    "id": 2010,
+    "brand": "IKEA 宜家",
+    "product": "VARDAGEN 瓦达恩 木柄擦皮器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "705.814.82",
+    "variant": "不锈钢/山毛榉，33 cm",
+    "specs": {
+      "长度": "33 cm",
+      "手柄": "上油实心山毛榉",
+      "擦丝面": "不锈钢"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗；木柄需定期用可接触食物的防护油保养。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-dai-bing-xue-pi-qi-bu-xiu-gang-shan-mao-ju-70581482/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 24.99,
+      "max": 24.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-dai-bing-xue-pi-qi-bu-xiu-gang-shan-mao-ju-70581482/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢/山毛榉，33 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "长柄适合刨柑橘皮、奶酪和姜蒜，附保护套。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/vardagen-wa-da-en-dai-bing-xue-pi-qi-bu-xiu-gang-shan-mao-ju-70581482/"
+      ]
+    },
+    "overview": "长柄适合刨柑橘皮、奶酪和姜蒜，附保护套。",
+    "highlights": [
+      "长度：33 cm",
+      "手柄：上油实心山毛榉",
+      "擦丝面：不锈钢"
+    ]
+  },
+  {
+    "id": 2011,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 黄油刀",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "605.293.81",
+    "variant": "灰白",
+    "specs": {
+      "高度（官网标示）": "20.2 cm",
+      "材料": "聚丙烯塑料、不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不是主厨刀，按涂抹和小刮刀用途使用。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-huang-you-dao-hui-bai-60529381/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.99,
+      "max": 7.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-huang-you-dao-hui-bai-60529381/",
+      "label": "宜家中国公开标价",
+      "variant": "灰白",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "可抹黄油、奶油奶酪或糖霜，小工具兼顾几种涂抹需求。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-huang-you-dao-hui-bai-60529381/"
+      ]
+    },
+    "overview": "可抹黄油、奶油奶酪或糖霜，小工具兼顾几种涂抹需求。",
+    "highlights": [
+      "高度（官网标示）：20.2 cm",
+      "材料：聚丙烯塑料、不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2012,
+    "brand": "IKEA 宜家",
+    "product": "KONCIS 康吉思 压蒜器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "601.735.64",
+    "variant": "不锈钢色",
+    "specs": {
+      "长度": "16 cm",
+      "构造": "可拆内置件",
+      "材料": "不锈钢、铝、表面镍层"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗；材料并非整件纯不锈钢。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/koncis-kang-ji-si-ya-suan-qi-bu-xiu-gang-60173564/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 24.99,
+      "max": 24.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/koncis-kang-ji-si-ya-suan-qi-bu-xiu-gang-60173564/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢色",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "可压未去皮蒜瓣，内置件能取出清理。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/koncis-kang-ji-si-ya-suan-qi-bu-xiu-gang-60173564/"
+      ]
+    },
+    "overview": "可压未去皮蒜瓣，内置件能取出清理。",
+    "highlights": [
+      "长度：16 cm",
+      "构造：可拆内置件",
+      "材料：不锈钢、铝、表面镍层"
+    ]
+  },
+  {
+    "id": 2013,
+    "brand": "IKEA 宜家",
+    "product": "SVARTFISK 斯瓦菲斯 厨用剪刀",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "805.627.65",
+    "variant": "不锈钢/黑色",
+    "specs": {
+      "长度": "22 cm",
+      "材料": "不锈钢、聚酰胺塑料",
+      "使用": "左右手皆可"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "处理生禽鱼肉后清洗；与包装等用途分开使用更易保持清洁。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/svartfisk-si-wa-fei-si-chu-yong-jian-dao-bu-xiu-gang-hei-se-80562765/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/svartfisk-si-wa-fei-si-chu-yong-jian-dao-bu-xiu-gang-hei-se-80562765/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢/黑色",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "厨房剪切和开包装可用，左右手均能操作。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/svartfisk-si-wa-fei-si-chu-yong-jian-dao-bu-xiu-gang-hei-se-80562765/"
+      ]
+    },
+    "overview": "厨房剪切和开包装可用，左右手均能操作。",
+    "highlights": [
+      "长度：22 cm",
+      "材料：不锈钢、聚酰胺塑料",
+      "使用：左右手皆可"
+    ]
+  },
+  {
+    "id": 2014,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 水果切片刀4件套",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "405.293.96",
+    "variant": "多色，含底座",
+    "specs": {
+      "直径": "12.5 cm",
+      "高度": "7.4 cm",
+      "材料": "强化聚丙烯塑料、不锈钢",
+      "功能": "三种切刀与底座"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "浅绿色切刀限直径不超过11 cm的水果；刀刃锋利。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shui-guo-qie-pian-dao-4-jian-tao-duo-se-40529396/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shui-guo-qie-pian-dao-4-jian-tao-duo-se-40529396/",
+      "label": "宜家中国公开标价",
+      "variant": "多色，含底座",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "苹果去芯、柑橘切分和其他水果切片各有对应切刀。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-shui-guo-qie-pian-dao-4-jian-tao-duo-se-40529396/"
+      ]
+    },
+    "overview": "苹果去芯、柑橘切分和其他水果切片各有对应切刀。",
+    "highlights": [
+      "直径：12.5 cm",
+      "高度：7.4 cm",
+      "材料：强化聚丙烯塑料、不锈钢"
+    ]
+  },
+  {
+    "id": 2015,
+    "brand": "IKEA 宜家",
+    "product": "STRÅLFENA 斯加芬纳 意大利面餐具",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "605.874.94",
+    "variant": "上油实心桦木，30 cm",
+    "specs": {
+      "长度": "30 cm",
+      "材料": "实心桦木，上油",
+      "功能": "中孔量2人份意面；齿状捞面"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗；每月以食用油擦拭保养。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/stralfena-si-jia-fen-na-yi-da-li-mian-can-ju-shi-xin-hua-mu-60587494/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/stralfena-si-jia-fen-na-yi-da-li-mian-can-ju-shi-xin-hua-mu-60587494/",
+      "label": "宜家中国公开标价",
+      "variant": "上油实心桦木，30 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "一件兼顾意面分量估测、搅拌与盛取，适合不粘锅。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/stralfena-si-jia-fen-na-yi-da-li-mian-can-ju-shi-xin-hua-mu-60587494/"
+      ]
+    },
+    "overview": "一件兼顾意面分量估测、搅拌与盛取，适合不粘锅。",
+    "highlights": [
+      "长度：30 cm",
+      "材料：实心桦木，上油",
+      "功能：中孔量2人份意面；齿状捞面"
+    ]
+  },
+  {
+    "id": 2016,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 瓶盖开罐器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "405.294.00",
+    "variant": "灰白/亮橙色，21 cm",
+    "specs": {
+      "长度": "21 cm",
+      "宽度": "10 cm",
+      "适配": "直径3–7 cm瓶罐盖",
+      "材料": "聚丙烯塑料、热塑性弹性体"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "仅适配直径3–7 cm的盖子；参考价格为非会员价，会员优惠有期限。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-kai-guan-qi-hui-bai-liang-cheng-se-40529400/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-kai-guan-qi-hui-bai-liang-cheng-se-40529400/",
+      "label": "宜家中国公开标价",
+      "variant": "灰白/亮橙色，21 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "防滑内壁辅助拧瓶盖，适合经常遇到紧盖的家庭。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-kai-guan-qi-hui-bai-liang-cheng-se-40529400/"
+      ]
+    },
+    "overview": "防滑内壁辅助拧瓶盖，适合经常遇到紧盖的家庭。",
+    "highlights": [
+      "长度：21 cm",
+      "宽度：10 cm",
+      "适配：直径3–7 cm瓶罐盖"
+    ]
+  },
+  {
+    "id": 2017,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 鸡蛋切片机",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "406.051.25",
+    "variant": "灰白",
+    "specs": {
+      "尺寸": "13×10 cm",
+      "材料": "抗冲击聚苯乙烯、不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "限鸡蛋和蘑菇、草莓等软质食物，不应用于硬质食材。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ji-dan-qie-pian-ji-hui-bai-40605125/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ji-dan-qie-pian-ji-hui-bai-40605125/",
+      "label": "宜家中国公开标价",
+      "variant": "灰白",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "鸡蛋三明治与沙拉备料省去逐片切割。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ji-dan-qie-pian-ji-hui-bai-40605125/"
+      ]
+    },
+    "overview": "鸡蛋三明治与沙拉备料省去逐片切割。",
+    "highlights": [
+      "尺寸：13×10 cm",
+      "材料：抗冲击聚苯乙烯、不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2018,
+    "brand": "IKEA 宜家",
+    "product": "IKEA 365+ 长柄带盖锅",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "806.253.29",
+    "variant": "不锈钢，1 L",
+    "specs": {
+      "直径": "14 cm",
+      "容量": "1 L",
+      "长度含把手": "31 cm",
+      "锅底": "不锈钢/铝/不锈钢三层"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "容量仅1 L，适合少量煮制；使用隔热垫，避免空烧，冷却后再清洗。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/ikea-365-chang-bing-dai-gai-guo-bu-xiu-gang-80625329/"
+        },
+        {
+          "label": "IKEA 365+不锈钢锅具保养与使用手册",
+          "url": "https://www.ikea.cn/cn/zh/manuals/ikea-365-chang-bing-dai-gai-guo-bu-xiu-gang__AA-2420883-1-2.pdf"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 69.99,
+      "max": 69.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-chang-bing-dai-gai-guo-bu-xiu-gang-80625329/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢，1 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "七十元内的小锅，适用包括电磁炉的各类炉灶及烤箱，适合熬酱汁、热少量食物。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-chang-bing-dai-gai-guo-bu-xiu-gang-80625329/"
+      ]
+    },
+    "overview": "七十元内的小锅，适用包括电磁炉的各类炉灶及烤箱，适合熬酱汁、热少量食物。",
+    "highlights": [
+      "直径：14 cm",
+      "容量：1 L",
+      "长度含把手：31 cm"
+    ]
+  },
+  {
+    "id": 2019,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 冰淇淋勺",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "206.203.39",
+    "variant": "浅青绿色",
+    "specs": {
+      "长度": "18 cm",
+      "材料": "ABS塑料",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "冰淇淋过硬时先用热水冲洗勺子再试，避免强行撬取。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bing-qi-lin-shao-qian-qing-lu-se-20620339/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bing-qi-lin-shao-qian-qing-lu-se-20620339/",
+      "label": "宜家中国公开标价",
+      "variant": "浅青绿色",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "家中分装冰淇淋球的基础工具，容易清洗。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bing-qi-lin-shao-qian-qing-lu-se-20620339/"
+      ]
+    },
+    "overview": "家中分装冰淇淋球的基础工具，容易清洗。",
+    "highlights": [
+      "长度：18 cm",
+      "材料：ABS塑料",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2020,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 柠檬榨汁器",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "705.286.92",
+    "variant": "纯黄色/亮绿色，15 cm",
+    "specs": {
+      "直径": "15 cm",
+      "高度": "7 cm",
+      "材料": "聚丙烯塑料"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "手动处理切开的柑橘类水果，不是电动果汁机。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ning-meng-zha-zhi-qi-chun-huang-se-liang-lu-se-70528692/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.99,
+      "max": 7.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ning-meng-zha-zhi-qi-chun-huang-se-liang-lu-se-70528692/",
+      "label": "宜家中国公开标价",
+      "variant": "纯黄色/亮绿色，15 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "低价补齐烘焙及饮料用柠檬汁的手动处理工具。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-ning-meng-zha-zhi-qi-chun-huang-se-liang-lu-se-70528692/"
+      ]
+    },
+    "overview": "低价补齐烘焙及饮料用柠檬汁的手动处理工具。",
+    "highlights": [
+      "直径：15 cm",
+      "高度：7 cm",
+      "材料：聚丙烯塑料"
+    ]
+  },
+  {
+    "id": 2021,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 比萨饼切刀",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "105.219.38",
+    "variant": "灰白",
+    "specs": {
+      "长度": "18 cm",
+      "手柄": "聚丙烯塑料",
+      "刀片": "不锈钢"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "切割时选择合适垫板，避免指尖接触旋转刀刃。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bi-sa-bing-qie-dao-hui-bai-10521938/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 4.99,
+      "max": 4.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bi-sa-bing-qie-dao-hui-bai-10521938/",
+      "label": "宜家中国公开标价",
+      "variant": "灰白",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "可分切披萨或擀好的面团，也能辅助饼干制作。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-bi-sa-bing-qie-dao-hui-bai-10521938/"
+      ]
+    },
+    "overview": "可分切披萨或擀好的面团，也能辅助饼干制作。",
+    "highlights": [
+      "长度：18 cm",
+      "手柄：聚丙烯塑料",
+      "刀片：不锈钢"
+    ]
+  },
+  {
+    "id": 2022,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 制棒冰盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "906.169.18",
+    "variant": "浅青绿色，6件",
+    "specs": {
+      "尺寸": "13×13×12 cm",
+      "包装": "6件",
+      "材料": "聚丙烯塑料",
+      "适用": "冷冻室、洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "需要冷冻数小时；用温水冲模具帮助脱模，不是制冷电器。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-zhi-bang-bing-he-qian-qing-lu-se-90616918/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-zhi-bang-bing-he-qian-qing-lu-se-90616918/",
+      "label": "宜家中国公开标价",
+      "variant": "浅青绿色，6件",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "果汁或酸奶可自制棒冰，模具重复使用。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-zhi-bang-bing-he-qian-qing-lu-se-90616918/"
+      ]
+    },
+    "overview": "果汁或酸奶可自制棒冰，模具重复使用。",
+    "highlights": [
+      "尺寸：13×13×12 cm",
+      "包装：6件",
+      "材料：聚丙烯塑料"
+    ]
+  },
+  {
+    "id": 2023,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 量杯4件套",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "605.219.74",
+    "variant": "多色",
+    "specs": {
+      "量杯": "1/4、1/3、1/2、1杯",
+      "材料": "聚丙烯塑料",
+      "收纳": "可叠放、带挂孔"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "杯为食谱容量单位；不是克重称量工具，也不应据此推算任意食材重量。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-liang-bei-4-jian-tao-duo-se-60521974/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-liang-bei-4-jian-tao-duo-se-60521974/",
+      "label": "宜家中国公开标价",
+      "variant": "多色",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "覆盖常见食谱杯量，套叠设计适合小厨房。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-liang-bei-4-jian-tao-duo-se-60521974/"
+      ]
+    },
+    "overview": "覆盖常见食谱杯量，套叠设计适合小厨房。",
+    "highlights": [
+      "量杯：1/4、1/3、1/2、1杯",
+      "材料：聚丙烯塑料",
+      "收纳：可叠放、带挂孔"
+    ]
+  },
+  {
+    "id": 2024,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 沙拉甩干机",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "405.219.51",
+    "variant": "白色",
+    "specs": {
+      "直径": "23 cm",
+      "高度": "16.5 cm",
+      "材料": "聚丙烯塑料、合成橡胶",
+      "构造": "内篮与外碗、手摇"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗；脱水不替代食品清洗和卫生处理。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-sha-la-shuai-gan-ji-bai-se-40521951/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 19.99,
+      "max": 19.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-sha-la-shuai-gan-ji-bai-se-40521951/",
+      "label": "宜家中国公开标价",
+      "variant": "白色",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "把冲洗后的生菜甩去多余水分，外碗还能盛沙拉。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-sha-la-shuai-gan-ji-bai-se-40521951/"
+      ]
+    },
+    "overview": "把冲洗后的生菜甩去多余水分，外碗还能盛沙拉。",
+    "highlights": [
+      "直径：23 cm",
+      "高度：16.5 cm",
+      "材料：聚丙烯塑料、合成橡胶"
+    ]
+  },
+  {
+    "id": 2025,
+    "brand": "IKEA 宜家",
+    "product": "UPPFYLLD 乌普菲尔德 滤碗",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "205.219.47",
+    "variant": "亮绿色，24 cm",
+    "specs": {
+      "直径": "24 cm",
+      "高度": "12 cm",
+      "宽度": "30 cm",
+      "材料": "聚丙烯塑料"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "初次使用先清洗；沥水时防止热水烫伤，滤碗不是直接加热容器。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-lu-wan-liang-lu-se-20521947/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.99,
+      "max": 7.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-lu-wan-liang-lu-se-20521947/",
+      "label": "宜家中国公开标价",
+      "variant": "亮绿色，24 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "双侧把手和平稳底边，适合清洗果蔬、沥干意面。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/uppfylld-wu-pu-fei-er-de-lu-wan-liang-lu-se-20521947/"
+      ]
+    },
+    "overview": "双侧把手和平稳底边，适合清洗果蔬、沥干意面。",
+    "highlights": [
+      "直径：24 cm",
+      "高度：12 cm",
+      "宽度：30 cm"
+    ]
+  },
+  {
+    "id": 2026,
+    "brand": "IKEA 宜家",
+    "product": "IKEA 365+ 附盖干燥食品储存罐",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "101.340.23",
+    "variant": "透明/白色，1.3 L",
+    "specs": {
+      "尺寸": "17×8×18 cm",
+      "容量": "1.3 L",
+      "罐体": "聚苯乙烯-丙烯酸塑料",
+      "盖": "聚丙烯塑料、合成橡胶"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "用于干货；最高耐温70°C；放在洗碗机上层清洗，不是烤箱或微波炉容器。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-gan-zao-shi-pin-chu-cun-guan-tou-ming-bai-se-10134023/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-gan-zao-shi-pin-chu-cun-guan-tou-ming-bai-se-10134023/",
+      "label": "宜家中国公开标价",
+      "variant": "透明/白色，1.3 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "开盖倾倒方便，透明罐体易查看谷物等干货余量。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-gan-zao-shi-pin-chu-cun-guan-tou-ming-bai-se-10134023/"
+      ]
+    },
+    "overview": "开盖倾倒方便，透明罐体易查看谷物等干货余量。",
+    "highlights": [
+      "尺寸：17×8×18 cm",
+      "容量：1.3 L",
+      "罐体：聚苯乙烯-丙烯酸塑料"
+    ]
+  },
+  {
+    "id": 2027,
+    "brand": "IKEA 宜家",
+    "product": "HAVSTOBIS 海思托比思 附盖食品盒5件套",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "705.610.16",
+    "variant": "透明/多色，5盒附盖",
+    "specs": {
+      "盒体": "钢化玻璃",
+      "盖": "聚丙烯塑料",
+      "容量范围": "1.3、0.7、0.3、0.15 L（页面列出的容量）",
+      "适用": "微波炉、冷冻室、洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不防漏，勿用来在包里携带汤汁；玻璃避骤冷骤热；微波加热留缝排汽。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/havstobis-hai-si-tuo-bi-si-fu-gai-shi-pin-he-5-jian-tao-tou-ming-duo-se-70561016/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 69.99,
+      "max": 69.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/havstobis-hai-si-tuo-bi-si-fu-gai-shi-pin-he-5-jian-tao-tou-ming-duo-se-70561016/",
+      "label": "宜家中国公开标价",
+      "variant": "透明/多色，5盒附盖",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "不同尺寸套装一次补齐分装需求，玻璃盒易查看且不易被酱汁染色。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/havstobis-hai-si-tuo-bi-si-fu-gai-shi-pin-he-5-jian-tao-tou-ming-duo-se-70561016/"
+      ]
+    },
+    "overview": "不同尺寸套装一次补齐分装需求，玻璃盒易查看且不易被酱汁染色。",
+    "highlights": [
+      "盒体：钢化玻璃",
+      "盖：聚丙烯塑料",
+      "容量范围：1.3、0.7、0.3、0.15 L（页面列出的容量）"
+    ]
+  },
+  {
+    "id": 2028,
+    "brand": "IKEA 宜家",
+    "product": "BESTÄMMA 贝丹玛 附盖玻璃食品盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "304.957.64",
+    "variant": "玻璃，0.5 L",
+    "specs": {
+      "尺寸": "12×12×6 cm",
+      "容量": "0.5 L",
+      "盒体": "钢化玻璃",
+      "盖": "聚丙烯塑料"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不防漏；钢化玻璃避免骤变温差，破损停用；盖子微波使用最高加热食物至100°C。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/bestaemma-bei-dan-ma-fu-gai-shi-pin-he-bo-li-30495764/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/bestaemma-bei-dan-ma-fu-gai-shi-pin-he-bo-li-30495764/",
+      "label": "宜家中国公开标价",
+      "variant": "玻璃，0.5 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "十元内的单份玻璃储存盒，可堆叠，适合家中冷藏剩菜。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/bestaemma-bei-dan-ma-fu-gai-shi-pin-he-bo-li-30495764/"
+      ]
+    },
+    "overview": "十元内的单份玻璃储存盒，可堆叠，适合家中冷藏剩菜。",
+    "highlights": [
+      "尺寸：12×12×6 cm",
+      "容量：0.5 L",
+      "盒体：钢化玻璃"
+    ]
+  },
+  {
+    "id": 2029,
+    "brand": "IKEA 宜家",
+    "product": "PRUTA 普塔 附盖食品盒3件套",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "605.971.05",
+    "variant": "蓝色，0.6 L/只，3只装",
+    "specs": {
+      "单盒": "14×14×6 cm",
+      "容量": "0.6 L/只",
+      "包装": "3盒附盖",
+      "材料": "聚丙烯塑料"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "未采用防漏设计；微波加热须将盖子留缝排汽。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/pruta-pu-ta-fu-gai-shi-pin-he-lan-se-60597105/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 7.99,
+      "max": 7.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/pruta-pu-ta-fu-gai-shi-pin-he-lan-se-60597105/",
+      "label": "宜家中国公开标价",
+      "variant": "蓝色，0.6 L/只，3只装",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "低预算分装水果、蔬菜或冷肉，空盒套叠省空间。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/pruta-pu-ta-fu-gai-shi-pin-he-lan-se-60597105/"
+      ]
+    },
+    "overview": "低预算分装水果、蔬菜或冷肉，空盒套叠省空间。",
+    "highlights": [
+      "单盒：14×14×6 cm",
+      "容量：0.6 L/只",
+      "包装：3盒附盖"
+    ]
+  },
+  {
+    "id": 2030,
+    "brand": "IKEA 宜家",
+    "product": "IKEA 365+ 附竹盖耐热玻璃食品盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "495.805.35",
+    "variant": "L长方形，3.1 L，盒+竹盖",
+    "specs": {
+      "尺寸": "32×21×9 cm",
+      "容量": "3.1 L",
+      "盒体": "耐热玻璃",
+      "盖": "竹、丙烯酸清漆、硅橡胶密封件"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "竹盖只可手洗、不能放冰柜，也不可入烤箱和微波炉；仅玻璃盒可入烤箱/微波炉。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-l-chang-fang-xing-bo-li-zhu-s49580535/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 89.99,
+      "max": 89.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-l-chang-fang-xing-bo-li-zhu-s49580535/",
+      "label": "宜家中国公开标价",
+      "variant": "L长方形，3.1 L，盒+竹盖",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "较大玻璃盒可储存也可烤箱烹饪，竹盖附密封圈。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-l-chang-fang-xing-bo-li-zhu-s49580535/"
+      ]
+    },
+    "overview": "较大玻璃盒可储存也可烤箱烹饪，竹盖附密封圈。",
+    "highlights": [
+      "尺寸：32×21×9 cm",
+      "容量：3.1 L",
+      "盒体：耐热玻璃"
+    ]
+  },
+  {
+    "id": 2031,
+    "brand": "IKEA 宜家",
+    "product": "KAPTENSFISK 卡普菲斯 分隔午餐盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "506.169.15",
+    "variant": "黄色，23×13×6 cm",
+    "specs": {
+      "容量": "0.7 L",
+      "尺寸": "23×13×6 cm",
+      "材料": "聚丙烯塑料",
+      "构造": "分隔、提手与餐具收纳开口"
+    },
+    "fit": [
+      "通勤",
+      "家庭"
+    ],
+    "tags": [
+      "通勤",
+      "家庭"
+    ],
+    "limits": [
+      "官方推荐8岁及以上；页面未确认防漏和微波性能，携带时避免汤汁。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/kaptensfisk-qia-pu-fei-si-wu-can-he-huang-se-50616915/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 12.99,
+      "max": 12.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/kaptensfisk-qia-pu-fei-si-wu-can-he-huang-se-50616915/",
+      "label": "宜家中国公开标价",
+      "variant": "黄色，23×13×6 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "低价分隔餐盒，便于分放三明治与水果并放餐具。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/kaptensfisk-qia-pu-fei-si-wu-can-he-huang-se-50616915/"
+      ]
+    },
+    "overview": "低价分隔餐盒，便于分放三明治与水果并放餐具。",
+    "highlights": [
+      "容量：0.7 L",
+      "尺寸：23×13×6 cm",
+      "材料：聚丙烯塑料"
+    ]
+  },
+  {
+    "id": 2032,
+    "brand": "IKEA 宜家",
+    "product": "UTBJUDA 于特布达 可叠放午餐盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "306.071.15",
+    "variant": "浅绿，干性食物用",
+    "specs": {
+      "尺寸": "17×12×9 cm",
+      "分层": "0.2 L+0.6 L",
+      "材料": "聚丙烯塑料",
+      "适用": "微波炉、冷冻室、洗碗机"
+    },
+    "fit": [
+      "通勤",
+      "家庭"
+    ],
+    "tags": [
+      "通勤",
+      "家庭"
+    ],
+    "limits": [
+      "仅适合干性食物，不防漏，不适合汤水。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/utbjuda-yu-te-bu-da-ke-die-fang-wu-can-he-gan-xing-shi-wu-yong-qian-lu-30607115/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 24.99,
+      "max": 24.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/utbjuda-yu-te-bu-da-ke-die-fang-wu-can-he-gan-xing-shi-wu-yong-qian-lu-30607115/",
+      "label": "宜家中国公开标价",
+      "variant": "浅绿，干性食物用",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "双层可分开放意面与沙拉，适合学校或办公室带餐。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/utbjuda-yu-te-bu-da-ke-die-fang-wu-can-he-gan-xing-shi-wu-yong-qian-lu-30607115/"
+      ]
+    },
+    "overview": "双层可分开放意面与沙拉，适合学校或办公室带餐。",
+    "highlights": [
+      "尺寸：17×12×9 cm",
+      "分层：0.2 L+0.6 L",
+      "材料：聚丙烯塑料"
+    ]
+  },
+  {
+    "id": 2033,
+    "brand": "IKEA 宜家",
+    "product": "SPLITTERNY 斯贝特尼 零食盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "105.862.94",
+    "variant": "透明/淡灰褐色，300 ml",
+    "specs": {
+      "高度": "14 cm",
+      "容量": "300 ml",
+      "材料": "聚丙烯塑料",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "通勤",
+      "家庭"
+    ],
+    "tags": [
+      "通勤",
+      "家庭"
+    ],
+    "limits": [
+      "官方用途为水果、坚果和干货；未确认防漏或微波能力，不按液体杯使用。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/splitterny-si-bei-te-ni-ling-shi-he-tou-ming-dan-hui-he-se-10586294/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/splitterny-si-bei-te-ni-ling-shi-he-tou-ming-dan-hui-he-se-10586294/",
+      "label": "宜家中国公开标价",
+      "variant": "透明/淡灰褐色，300 ml",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "小体积用于通勤分装水果坚果，透明外观方便看内容物。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/splitterny-si-bei-te-ni-ling-shi-he-tou-ming-dan-hui-he-se-10586294/"
+      ]
+    },
+    "overview": "小体积用于通勤分装水果坚果，透明外观方便看内容物。",
+    "highlights": [
+      "高度：14 cm",
+      "容量：300 ml",
+      "材料：聚丙烯塑料"
+    ]
+  },
+  {
+    "id": 2034,
+    "brand": "IKEA 宜家",
+    "product": "SMASKA 斯玛卡 儿童午餐盒",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "301.619.30",
+    "variant": "硬塑料卡通盒",
+    "specs": {
+      "尺寸": "17×18×10 cm",
+      "材料": "聚丙烯塑料",
+      "开合": "掰动盖上的耳朵开合"
+    },
+    "fit": [
+      "通勤",
+      "家庭"
+    ],
+    "tags": [
+      "通勤",
+      "家庭"
+    ],
+    "limits": [
+      "3岁及以上适用；洗碗机清洗最高70°C；不据页面推断可微波或防漏。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/smaska-si-ma-qia-wu-can-he-30161930/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/smaska-si-ma-qia-wu-can-he-30161930/",
+      "label": "宜家中国公开标价",
+      "variant": "硬塑料卡通盒",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "硬壳保护书包里的三明治和水果，卡通耳朵方便开启。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/smaska-si-ma-qia-wu-can-he-30161930/"
+      ]
+    },
+    "overview": "硬壳保护书包里的三明治和水果，卡通耳朵方便开启。",
+    "highlights": [
+      "尺寸：17×18×10 cm",
+      "材料：聚丙烯塑料",
+      "开合：掰动盖上的耳朵开合"
+    ]
+  },
+  {
+    "id": 2035,
+    "brand": "IKEA 宜家",
+    "product": "ISTAD 艾斯塔 可重复密封袋",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "705.256.55",
+    "variant": "图案/蓝色，1 L/0.4 L，60只装",
+    "specs": {
+      "包装": "30只1 L+30只0.4 L",
+      "袋内尺寸": "18×19 cm、15×15 cm",
+      "材料": "聚乙烯塑料",
+      "结构": "双重密封"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗；可冷冻但耐热上限50°C；不能按微波加热袋使用。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/istad-ai-si-ta-mi-feng-dai-tu-an-lan-se-70525655/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 14.99,
+      "max": 14.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/istad-ai-si-ta-mi-feng-dai-tu-an-lan-se-70525655/",
+      "label": "宜家中国公开标价",
+      "variant": "图案/蓝色，1 L/0.4 L，60只装",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "多只装方便分装零食、剩余食材或小物件，清洗后可重复封口。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/istad-ai-si-ta-mi-feng-dai-tu-an-lan-se-70525655/"
+      ]
+    },
+    "overview": "多只装方便分装零食、剩余食材或小物件，清洗后可重复封口。",
+    "highlights": [
+      "包装：30只1 L+30只0.4 L",
+      "袋内尺寸：18×19 cm、15×15 cm",
+      "材料：聚乙烯塑料"
+    ]
+  },
+  {
+    "id": 2036,
+    "brand": "IKEA 宜家",
+    "product": "GULLRISMOTT 古瑞斯默多 土豆食品储物袋",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "805.817.97",
+    "variant": "9 L，2件",
+    "specs": {
+      "尺寸": "30×15×20 cm",
+      "容量": "9 L",
+      "袋体": "100%黄麻",
+      "提手": "100%棉"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不能水洗、漂白、烘干、熨烫或干洗；适用避光存放土豆等根茎类，不是密封保鲜盒。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/gullrismott-gu-rui-si-mo-duo-shi-pin-chu-wu-dai-gua-he-yong-yu-cun-fang-tu-dou-80581797/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 29.99,
+      "max": 29.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/gullrismott-gu-rui-si-mo-duo-shi-pin-chu-wu-dai-gua-he-yong-yu-cun-fang-tu-dou-80581797/",
+      "label": "宜家中国公开标价",
+      "variant": "9 L，2件",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "根茎类避光储存，带提手且可折叠，用完省收纳空间。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/gullrismott-gu-rui-si-mo-duo-shi-pin-chu-wu-dai-gua-he-yong-yu-cun-fang-tu-dou-80581797/"
+      ]
+    },
+    "overview": "根茎类避光储存，带提手且可折叠，用完省收纳空间。",
+    "highlights": [
+      "尺寸：30×15×20 cm",
+      "容量：9 L",
+      "袋体：100%黄麻"
+    ]
+  },
+  {
+    "id": 2037,
+    "brand": "IKEA 宜家",
+    "product": "SKUGGSTUBB 斯库斯托 耐热玻璃杯",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "水杯",
+    "model": "406.355.04",
+    "variant": "浅蓝色，410 ml",
+    "specs": {
+      "高度": "10 cm",
+      "容量": "410 ml",
+      "材料": "耐热玻璃",
+      "适用": "冷热饮、微波炉、洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "玻璃易碎，破损停用；盛热饮时避免烫伤，不能以页面资料推断任意温差下安全。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/skuggstubb-si-ku-si-tuo-bei-qian-lan-se-bo-li-40635504/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/skuggstubb-si-ku-si-tuo-bei-qian-lan-se-bo-li-40635504/",
+      "label": "宜家中国公开标价",
+      "variant": "浅蓝色，410 ml",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "带把手的耐热玻璃杯，冷热饮兼用且可洗碗机清洗。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/skuggstubb-si-ku-si-tuo-bei-qian-lan-se-bo-li-40635504/"
+      ]
+    },
+    "overview": "带把手的耐热玻璃杯，冷热饮兼用且可洗碗机清洗。",
+    "highlights": [
+      "高度：10 cm",
+      "容量：410 ml",
+      "材料：耐热玻璃"
+    ]
+  },
+  {
+    "id": 2038,
+    "brand": "IKEA 宜家",
+    "product": "ENVÄLDIG 恩维蒂 随行杯",
+    "type": "生活精选",
+    "group": "饮水餐具",
+    "category": "随行杯",
+    "model": "405.115.27",
+    "variant": "不锈钢/黑色，350 ml",
+    "specs": {
+      "高度": "16 cm",
+      "容量": "350 ml",
+      "主体": "不锈钢",
+      "盖": "聚丙烯塑料、硅橡胶密封"
+    },
+    "fit": [
+      "通勤",
+      "家庭"
+    ],
+    "tags": [
+      "通勤",
+      "家庭"
+    ],
+    "limits": [
+      "未取得本款明确保温时长；携带前检查盖子闭合与密封，杯架适配须测尺寸。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/envaeldig-en-wei-di-sui-xing-bei-bu-xiu-gang-hei-se-40511527/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 49.99,
+      "max": 49.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/envaeldig-en-wei-di-sui-xing-bei-bu-xiu-gang-hei-se-40511527/",
+      "label": "宜家中国公开标价",
+      "variant": "不锈钢/黑色，350 ml",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "通勤防漏杯盖可单手开合，350 ml适合带一份冷热饮。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/envaeldig-en-wei-di-sui-xing-bei-bu-xiu-gang-hei-se-40511527/"
+      ]
+    },
+    "overview": "通勤防漏杯盖可单手开合，350 ml适合带一份冷热饮。",
+    "highlights": [
+      "高度：16 cm",
+      "容量：350 ml",
+      "主体：不锈钢"
+    ]
+  },
+  {
+    "id": 2039,
+    "brand": "IKEA 宜家",
+    "product": "BEHÖVD 比胡德 玻璃胆保温瓶",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "503.538.91",
+    "variant": "浅绿/米黄色，1 L",
+    "specs": {
+      "高度": "30 cm",
+      "容量": "1 L",
+      "内胆": "玻璃",
+      "官方保温保冷描述": "最长6小时，具体受使用条件影响"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "只可手洗并竖直放平面；玻璃胆易碎，跌落或疑似渗漏停饮；禁碳酸饮料、婴儿食品、热牛奶，不入微波炉/烤箱/冰箱。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/behoevd-bi-hu-de-bao-wen-ping-qian-lu-mi-huang-se-50353891/"
+        },
+        {
+          "label": "BEHÖVD比胡德玻璃胆保温瓶使用手册",
+          "url": "https://www.ikea.cn/cn/zh/manuals/behoevd-bi-hu-de-bao-wen-ping-qian-lu-mi-huang-se__AA-2519497-2-2.pdf"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/behoevd-bi-hu-de-bao-wen-ping-qian-lu-mi-huang-se-50353891/",
+      "label": "宜家中国公开标价",
+      "variant": "浅绿/米黄色，1 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "家中或野餐共享饮水的低价1 L保温瓶，倾倒时无需完全开盖。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/behoevd-bi-hu-de-bao-wen-ping-qian-lu-mi-huang-se-50353891/"
+      ]
+    },
+    "overview": "家中或野餐共享饮水的低价1 L保温瓶，倾倒时无需完全开盖。",
+    "highlights": [
+      "高度：30 cm",
+      "容量：1 L",
+      "内胆：玻璃"
+    ]
+  },
+  {
+    "id": 2040,
+    "brand": "IKEA 宜家",
+    "product": "RIKLIG 利克里希 玻璃茶壶",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "301.632.17",
+    "variant": "玻璃，1.5 L，含茶滤",
+    "specs": {
+      "高度": "13 cm",
+      "容量": "1.5 L",
+      "主体": "耐热玻璃",
+      "附件": "内置茶滤"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不得放炉灶或加热板；玻璃部可机洗，盖子手洗；不要把耐热玻璃等同于可直接烧水。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/riklig-li-ke-li-xi-cha-hu-bo-li-30163217/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 79.99,
+      "max": 79.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/riklig-li-ke-li-xi-cha-hu-bo-li-30163217/",
+      "label": "宜家中国公开标价",
+      "variant": "玻璃，1.5 L，含茶滤",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "多人泡茶容量，随附滤茶件，无须另配茶包。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/riklig-li-ke-li-xi-cha-hu-bo-li-30163217/"
+      ]
+    },
+    "overview": "多人泡茶容量，随附滤茶件，无须另配茶包。",
+    "highlights": [
+      "高度：13 cm",
+      "容量：1.5 L",
+      "主体：耐热玻璃"
+    ]
+  },
+  {
+    "id": 2041,
+    "brand": "IKEA 宜家",
+    "product": "UPPHETTA 乌普塔 法压咖啡壶/茶壶",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "802.413.88",
+    "variant": "玻璃/不锈钢，1 L",
+    "specs": {
+      "高度": "22 cm",
+      "直径": "10 cm",
+      "容量": "1 L",
+      "材料": "耐热玻璃、聚丙烯塑料、不锈钢"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "压杆难下时取出后慢慢垂直下压，不能强压或侧推，避免玻璃破裂；非电动烧水器。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/upphetta-wu-pu-ta-ka-pei-hu-cha-hu-bo-li-bu-xiu-gang-80241388/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 59.99,
+      "max": 59.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/upphetta-wu-pu-ta-ka-pei-hu-cha-hu-bo-li-bu-xiu-gang-80241388/",
+      "label": "宜家中国公开标价",
+      "variant": "玻璃/不锈钢，1 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "用研磨咖啡或散茶加热水手动冲泡，部件可拆洗。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/upphetta-wu-pu-ta-ka-pei-hu-cha-hu-bo-li-bu-xiu-gang-80241388/"
+      ]
+    },
+    "overview": "用研磨咖啡或散茶加热水手动冲泡，部件可拆洗。",
+    "highlights": [
+      "高度：22 cm",
+      "直径：10 cm",
+      "容量：1 L"
+    ]
+  },
+  {
+    "id": 2042,
+    "brand": "IKEA 宜家",
+    "product": "KORKEN 考肯 附塞玻璃瓶",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "002.135.58",
+    "variant": "透明玻璃，1 L",
+    "specs": {
+      "高度": "29 cm",
+      "直径": "9 cm",
+      "容量": "1 L",
+      "材料": "玻璃、聚丙烯塞、合成橡胶、不锈钢丝"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "机洗最高70°C；热水消毒或装热饮前温水预热，温差不超过50°C；玻璃易碎。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/korken-kao-ken-fu-sai-ping-zi-tou-ming-bo-li-00213558/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 12.99,
+      "max": 12.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/korken-kao-ken-fu-sai-ping-zi-tou-ming-bo-li-00213558/",
+      "label": "宜家中国公开标价",
+      "variant": "透明玻璃，1 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "大容量餐桌饮料瓶，密封塞有助减少洒漏，可反复使用。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/korken-kao-ken-fu-sai-ping-zi-tou-ming-bo-li-00213558/"
+      ]
+    },
+    "overview": "大容量餐桌饮料瓶，密封塞有助减少洒漏，可反复使用。",
+    "highlights": [
+      "高度：29 cm",
+      "直径：9 cm",
+      "容量：1 L"
+    ]
+  },
+  {
+    "id": 2043,
+    "brand": "IKEA 宜家",
+    "product": "IDEALISK 艾迪利斯 不锈钢茶滤",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "401.798.35",
+    "variant": "单只，15 cm",
+    "specs": {
+      "长度": "15 cm",
+      "材料": "不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "使用热水泡茶时注意烫伤；按杯口和茶叶量核对适配，不是电加热器。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-cha-lu-bu-xiu-gang-40179835/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 9.99,
+      "max": 9.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-cha-lu-bu-xiu-gang-40179835/",
+      "label": "宜家中国公开标价",
+      "variant": "单只，15 cm",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "十元内直接冲泡散茶的重复使用滤具。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/idealisk-ai-di-li-si-cha-lu-bu-xiu-gang-40179835/"
+      ]
+    },
+    "overview": "十元内直接冲泡散茶的重复使用滤具。",
+    "highlights": [
+      "长度：15 cm",
+      "材料：不锈钢",
+      "清洗：可用于洗碗机"
+    ]
+  },
+  {
+    "id": 2044,
+    "brand": "IKEA 宜家",
+    "product": "MÅTTLIG 莫里格 不锈钢奶泡壶",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "701.632.15",
+    "variant": "0.5 L",
+    "specs": {
+      "高度": "11 cm",
+      "容量": "0.5 L",
+      "材料": "不锈钢",
+      "清洗": "可用于洗碗机"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "不适用于燃气、电磁、玻璃陶瓷或铸铁灶；不自带电动打泡功能。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/mattlig-mo-li-ge-nai-pao-hu-bu-xiu-gang-70163215/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/mattlig-mo-li-ge-nai-pao-hu-bu-xiu-gang-70163215/",
+      "label": "宜家中国公开标价",
+      "variant": "0.5 L",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "手柄容器用于搅拌和倒奶，适合已有咖啡/奶泡设备的人。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/mattlig-mo-li-ge-nai-pao-hu-bu-xiu-gang-70163215/"
+      ]
+    },
+    "overview": "手柄容器用于搅拌和倒奶，适合已有咖啡/奶泡设备的人。",
+    "highlights": [
+      "高度：11 cm",
+      "容量：0.5 L",
+      "材料：不锈钢"
+    ]
+  },
+  {
+    "id": 2045,
+    "brand": "IKEA 宜家",
+    "product": "GLADELIG 格拉德里 陶瓷咖啡滤杯",
+    "type": "家居生活",
+    "group": "餐厨水具",
+    "category": "餐盒餐具",
+    "model": "405.948.05",
+    "variant": "陶瓷/米黄色，单杯冲煮",
+    "specs": {
+      "高度": "8 cm",
+      "直径": "11 cm",
+      "材料": "石瓷、彩釉",
+      "杯口适配": "内径7.5–9 cm"
+    },
+    "fit": [
+      "家庭",
+      "厨房"
+    ],
+    "tags": [
+      "家庭",
+      "厨房"
+    ],
+    "limits": [
+      "官网标注即将下架，库存需核对；需搭配V60 01过滤用品，购买时确认滤纸/配件；仅冲煮1杯。",
+      "公开标价不代表地区现货；页面未选择收货地址，库存与配送费用须按地址确认。"
+    ],
+    "source": {
+      "region": "中国大陆",
+      "urls": [
+        {
+          "label": "宜家中国该货号产品页（规格、限制及人民币标价）",
+          "url": "https://www.ikea.cn/cn/zh/p/gladelig-ge-la-de-li-ka-pei-guo-lu-qi-tao-ci-mi-huang-se-40594805/"
+        }
+      ],
+      "checked_at": "2026-10-14"
+    },
+    "review": {
+      "status": "documented",
+      "checked_at": "2026-10-14",
+      "method": "完整打开宜家中国具体SKU页面，人工核对货号、产品用途、核心规格、保养限制及人民币标价；记录资料边界，不做实物质量评级",
+      "physical_tested": false
+    },
+    "price": {
+      "kind": "documented",
+      "currency": "CNY",
+      "min": 39.99,
+      "max": 39.99,
+      "observed_at": "2026-10-14",
+      "url": "https://www.ikea.cn/cn/zh/p/gladelig-ge-la-de-li-ka-pei-guo-lu-qi-tao-ci-mi-huang-se-40594805/",
+      "label": "宜家中国公开标价",
+      "variant": "陶瓷/米黄色，单杯冲煮",
+      "note": "按页面普通标价记录，未计配送费；会员限时优惠另看结算页。"
+    },
+    "isNew": true,
+    "updated_at": "2026-10-14",
+    "purchase": {
+      "value": "有把手与内壁棱纹的单杯手冲滤杯，适合已有对应过滤用品的使用者。",
+      "checked_at": "2026-10-14",
+      "basis": "根据公开功能与使用场景提出的购买建议，未经实物比较测试",
+      "source_urls": [
+        "https://www.ikea.cn/cn/zh/p/gladelig-ge-la-de-li-ka-pei-guo-lu-qi-tao-ci-mi-huang-se-40594805/"
+      ]
+    },
+    "overview": "有把手与内壁棱纹的单杯手冲滤杯，适合已有对应过滤用品的使用者。",
+    "highlights": [
+      "高度：8 cm",
+      "直径：11 cm",
+      "材料：石瓷、彩釉"
+    ]
+  }
+]
