@@ -31,14 +31,14 @@ test('classification counts follow scope and search; zero-result categories are 
  }finally{b.dom.window.close();}
 });
 
-test('empty favorites have no misleading classifications; home channels open a populated category',()=>{
+test('empty favorites have no misleading classifications; sidebar reset opens populated categories',()=>{
  const b=boot();try{
   const {$,w,click,advance}=b;
   click('[data-scope="favorites"]');
   assert.equal(w.document.querySelectorAll('#categories [data-type]:not([disabled])').length,0);
   assert($('#groupSelect').disabled);assert($('#categorySelect').disabled);
   $('#search').value='不存在的旧查询';$('#search').dispatchEvent(new w.Event('input',{bubbles:true}));
-  click('.shop-scenes [data-type="家居生活"]');
+  click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="家居生活"]');
   advance(100);
   assert.equal($('#resultCount').textContent,w.CATALOG.items.filter(x=>x.type==='家居生活').length+' 件');
   assert.equal($('#search').value,'');

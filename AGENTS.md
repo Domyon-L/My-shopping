@@ -44,3 +44,17 @@
 - Canonical brand aliases in `dist/brand-keys.mjs` join historical and current brand names. Keep brand browse, chips and category counts aligned.
 - Preserve segmented wormhole energy arcs, orbital dust and an unobstructed black-hole core. The shopping galaxy is softly drifting; occasional meteors are separated by roughly12–20 seconds. Keep reduced-motion and disabled-effects behavior intact.
 - Figma remains blocked by the Starter MCP quota; `design/figma-state-v19.json` accurately records no changes. Do not claim the external file was updated unless an actual subsequent tool run succeeds.
+
+## Navigation update requested 2026-10-14 (version 20)
+- The screenshot's category icons and budget shortcuts belong in the left sidebar, with one set of controls. Keep category counts tied to the current scope, query, budget and scenario. The all-goods budget shortcut resets stale restrictions.
+- Keep the shopping search header fixed at the viewport top, with space reserved so it cannot cover content. Preserve the separate entrance search gate.
+- After three seconds without clicking or keyboard interaction, close the open sidebar. Keep a visible desktop edge control and the mobile header/menu controls for reopening. Desktop navigation does not block the search or main content; mobile navigation retains modal focus containment.
+- Clear the sidebar timeout when returning to the entrance or explicitly closing navigation; maintain only one timeout. Restore focus on idle closure only when focus was inside navigation.
+- Every completed update must be deployed to the existing public URL. This was explicitly reiterated by the user.
+- BrowserAct was explicitly selected and CLI1.4.2 installed; both core and main skill requests fail with error230305 (command daemon startup timed out). No real browser QA was completed and no substitute browser was started. Do not claim visual browser verification.
+
+## GitHub synchronization requested 2026-10-15
+- The authenticated GitHub owner is Domyon-L; the selected public source repository is Domyon-L/My-shopping, default branch main. The user explicitly requests syncing each completed update there as well as publishing the existing public Site.
+- Read the current GitHub branch head/tree before syncing; preserve the repository's independent history and existing archives. Apply an ordinary child commit with an expected-head lease; never force-push or use a Site credential on GitHub.
+- Update archives/shopping_latest_source.zip and its SHA256 manifest from the same validated source files when syncing a complete release. Exclude Git metadata, dependency caches and archives/ itself from the source ZIP.
+- Rebuild content-addressed assets before packaging and check their hashes. A truncated generated app asset was found on resume and repaired by the normal build; stable dist/app.mjs was intact.

@@ -18,13 +18,13 @@ test('mobile loads successive products without duplicates and keeps filters coll
  }finally{b.dom.window.close();}
 });
 
-test('phone channel shortcuts and all-categories control reset stale filters and expose real inventory',()=>{
+test('phone sidebar categories and complete-catalog shortcut expose real inventory',()=>{
  const b=boot({}, {width:320,height:568});try{
-  const {$,w,click}=b;assert.equal(w.document.querySelectorAll('#shopChannels [data-type]').length,11);
-  assert.equal(w.document.querySelectorAll('#shopChannels [data-type] .channel-icon svg').length,11);
-  click('[data-scope="favorites"]');click('.shop-scenes [data-type="数码科技"]');assert.equal($('#resultCount').textContent,'72 件');
+  const {$,w,click}=b;assert.equal(w.document.querySelectorAll('#shopChannels [data-type]').length,12);
+  assert.equal(w.document.querySelectorAll('#shopChannels [data-type] .channel-icon svg').length,12);
+  click('[data-scope="favorites"]');click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="数码科技"]');assert.equal($('#resultCount').textContent,'72 件');
   assert(!$('#loadMore').hidden);assert.equal($('#products').children.length,24);
-  click('[data-open-categories]');assert.equal($('#resultCount').textContent,'1000 件');assert(w.document.body.classList.contains('rail-open'));assert(!$('#categoryRail').inert);
+  click('#menuToggle');click('.quick-browse [data-value=""]');assert.equal($('#resultCount').textContent,'1000 件');assert(!w.document.body.classList.contains('rail-open'));click('#menuToggle');assert(!$('#categoryRail').inert);
   assert.deepEqual(b.errors,[]);
  }finally{b.dom.window.close();}
 });

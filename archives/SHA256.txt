@@ -1,1 +1,3 @@
-d42fe27357dda8efd703101c577e362fe3d56c9ee5fa57a19b13863c7c1132e7  shopping_latest_source.zip
+c84072e891ee881d8812f8b7ce40bdca5b9843c25af7cacbdae82422b4406cfe  shopping_latest_source.zip
+Source files: 106
+Verified: 2026-10-15T14:31:36.561990+00:00
