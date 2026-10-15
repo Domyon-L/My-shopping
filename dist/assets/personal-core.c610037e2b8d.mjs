@@ -1,9 +1,13 @@
-export const PERSONAL_TYPES=['数码科技','家居生活','服饰穿搭','运动户外','学习办公','玩具潮玩'];
+import {DAILY_TYPES,LEGACY_INTEREST_TYPES} from './taxonomy-core.e0b955ae256f.mjs';
+export const PERSONAL_TYPES=DAILY_TYPES;
 export const PERSONAL_SCENES=['','办公','学生','宿舍','通勤','桌面','运动','户外'];
 export function normalizePreferences(raw={}){
   const x=raw&&typeof raw==='object'&&!Array.isArray(raw)?raw:{};
-  return {nickname:typeof x.nickname==='string'?x.nickname.trim().slice(0,18):'',budget:[50,100,120,200,300].includes(x.budget)?x.budget:100,
-    interests:Array.isArray(x.interests)?[...new Set(x.interests.filter(v=>PERSONAL_TYPES.includes(v)))].slice(0,6):[],
+  const selected=Array.isArray(x.interests)?x.interests.filter(v=>typeof v==='string'):[];
+  const old=Array.isArray(x.legacy_interests)?x.legacy_interests.filter(v=>Object.hasOwn(LEGACY_INTEREST_TYPES,v)):x.schema_version===21?[]:selected.filter(v=>Object.hasOwn(LEGACY_INTEREST_TYPES,v));
+  const migrated=x.schema_version===21?selected:selected.flatMap(v=>LEGACY_INTEREST_TYPES[v]||[v]);
+  return {schema_version:21,legacy_interests:[...new Set(old)],nickname:typeof x.nickname==='string'?x.nickname.trim().slice(0,18):'',budget:[50,100,120,200,300].includes(x.budget)?x.budget:100,
+    interests:[...new Set(migrated.filter(v=>PERSONAL_TYPES.includes(v)))].slice(0,12),
     scene:PERSONAL_SCENES.includes(x.scene)?x.scene:'',accent:['blue','violet','coral'].includes(x.accent)?x.accent:'blue',
     cosmicTone:['galaxy','crimson'].includes(x.cosmicTone)?x.cosmicTone:'galaxy',
     intensity:['quiet','balanced','rich'].includes(x.intensity)?x.intensity:'rich'};

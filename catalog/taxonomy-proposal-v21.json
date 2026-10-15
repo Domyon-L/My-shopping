@@ -1,0 +1,2636 @@
+{
+  "meta": {
+    "version": 21,
+    "researched_at": "2026-10-15",
+    "method": "公开分类研究与本站目录逐项分流的编辑判断；未开展用户访谈、问卷、购买频次或点击数据调查。",
+    "source_file": "catalog/reviewed-catalog.json",
+    "source_sha256": "0daa0860a0e0b889e245c89fb6c22ef82f3ff7ce2bd1b25f82f1c2865abef82b",
+    "source_total_records": 1016,
+    "source_unique_triples": 244,
+    "source_visible_count_metadata": 1000,
+    "source_pending_count_metadata": 840,
+    "scope": "仅建议type变化；保留legacy_type、原group/category、价格/来源/日期/审核状态。所有原记录包括隐藏、合并和健康历史条目均有分流。"
+  },
+  "principles": [
+    "按主要生活用途与商品种类组织，品牌不决定大类。",
+    "明确餐具与食品、身体护理与家庭清洁、文具与数码、收纳与专门办公的边界。",
+    "一个记录只有一个主大类，场景可以多选；不复制商品记录以增加计数。",
+    "新大类名字不授予质量、医疗安全或推荐资格。"
+  ],
+  "primary_types": [
+    {
+      "key": "cleaning",
+      "label": "清洁纸品",
+      "scope": "打扫、洗衣、厨卫清洁、纸巾与垃圾袋；不含洗手液等身体护理用品",
+      "all_record_count": 46
+    },
+    {
+      "key": "home-storage",
+      "label": "家居日用",
+      "scope": "收纳盒、挂钩、床品毛巾、家居照明；办公专用收纳归学习办公",
+      "all_record_count": 68
+    },
+    {
+      "key": "kitchen",
+      "label": "餐厨水具",
+      "scope": "做饭、用餐、食品保鲜、饮水杯壶；食品饮料本身另归食品饮品",
+      "all_record_count": 67
+    },
+    {
+      "key": "personal-care",
+      "label": "个护美妆",
+      "scope": "洗护、护肤、口腔、剃须、香氛与梳子；药品与医疗记录另归健康用品",
+      "all_record_count": 213
+    },
+    {
+      "key": "clothing",
+      "label": "服饰鞋包",
+      "scope": "衣服、鞋袜、帽子、日常卡包与钱包；专门球拍/护具等归运动户外",
+      "all_record_count": 190
+    },
+    {
+      "key": "study-office",
+      "label": "学习办公",
+      "scope": "文具纸品、计算器、文件及办公桌收纳；电脑和设备支架归数码家电",
+      "all_record_count": 89
+    },
+    {
+      "key": "electronics",
+      "label": "数码家电",
+      "scope": "手机电脑配件、影音、网络存储、家用风扇除湿及暖杯电器；照明归家居日用",
+      "all_record_count": 92
+    },
+    {
+      "key": "sports",
+      "label": "运动户外",
+      "scope": "球类、训练、骑行徒步装备、游泳用具及运动护具；常规衣鞋袜按商品种类归服饰鞋包",
+      "all_record_count": 65
+    },
+    {
+      "key": "food",
+      "label": "食品饮品",
+      "scope": "可食用零食、速食、早餐冲调、咖啡茶饮、乳品和饮料",
+      "all_record_count": 50
+    },
+    {
+      "key": "travel-tools",
+      "label": "出行工具",
+      "scope": "雨具、旅行整理、颈枕、钥匙扣、便携维修测量和手电工具",
+      "all_record_count": 34
+    },
+    {
+      "key": "play",
+      "label": "玩具文娱",
+      "scope": "积木模型、益智、潮玩、毛绒、车模与桌游",
+      "all_record_count": 51
+    },
+    {
+      "key": "health",
+      "label": "健康用品",
+      "scope": "保留健康监测、卫生医疗及药品历史记录；不将分类调整等同于选品推荐或用药建议",
+      "all_record_count": 51
+    }
+  ],
+  "mapping": [
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "剃须护理",
+        "category": "剃须刀"
+      },
+      "to": "个护美妆",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "剃须护理",
+        "category": "剃须泡沫"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "剃须护理",
+        "category": "须后护理"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "口腔护理",
+        "category": "口喷"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "口腔护理",
+        "category": "漱口水"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "口腔护理",
+        "category": "牙刷"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "口腔护理",
+        "category": "牙线·牙间刷"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "口腔护理",
+        "category": "牙膏"
+      },
+      "to": "个护美妆",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "头发护理",
+        "category": "发膜·护发精油"
+      },
+      "to": "个护美妆",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "头发护理",
+        "category": "头发造型"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "头发护理",
+        "category": "护发素"
+      },
+      "to": "个护美妆",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "头发护理",
+        "category": "洗发水"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "足部护理",
+        "category": "足部除味"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "足部护理",
+        "category": "足霜"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "身体护理",
+        "category": "护手霜"
+      },
+      "to": "个护美妆",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "身体护理",
+        "category": "沐浴露"
+      },
+      "to": "个护美妆",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "身体护理",
+        "category": "洗手液"
+      },
+      "to": "个护美妆",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "身体护理",
+        "category": "身体乳"
+      },
+      "to": "个护美妆",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "身体护理",
+        "category": "身体磨砂"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "问题肌护理",
+        "category": "祛痘护理"
+      },
+      "to": "个护美妆",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "问题肌护理",
+        "category": "黑头·角质护理"
+      },
+      "to": "个护美妆",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "乳液面霜"
+      },
+      "to": "个护美妆",
+      "record_count": 19
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "洁面"
+      },
+      "to": "个护美妆",
+      "record_count": 15
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "润唇"
+      },
+      "to": "个护美妆",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "爽肤水"
+      },
+      "to": "个护美妆",
+      "record_count": 12
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "眼部护理"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "精华"
+      },
+      "to": "个护美妆",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "面部护理",
+        "category": "防晒"
+      },
+      "to": "个护美妆",
+      "record_count": 15
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "香氛止汗",
+        "category": "止汗露"
+      },
+      "to": "个护美妆",
+      "record_count": 12
+    },
+    {
+      "from": {
+        "type": "个护美妆",
+        "group": "香氛止汗",
+        "category": "香水·香氛"
+      },
+      "to": "个护美妆",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "健康用品",
+        "category": "健康监测与卫生"
+      },
+      "to": "健康用品",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "健康用品",
+        "category": "基础健康用品"
+      },
+      "to": "健康用品",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "内服常备",
+        "category": "抗过敏"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "内服常备",
+        "category": "胃酸与胃胀"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "内服常备",
+        "category": "腹泻与补液"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "内服常备",
+        "category": "退热止痛"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "创面消毒",
+        "category": "创口护理"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "创面消毒",
+        "category": "消毒护理"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "皮肤外用",
+        "category": "痤疮外用"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "皮肤外用",
+        "category": "瘙痒与皮炎外用"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "皮肤外用",
+        "category": "真菌感染外用"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "眼鼻护理",
+        "category": "眼部护理"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "眼鼻护理",
+        "category": "鼻腔护理"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "运动防护",
+        "category": "外用镇痛"
+      },
+      "to": "健康用品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "健康常备",
+        "group": "运动防护",
+        "category": "运动护具"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "中性笔"
+      },
+      "to": "学习办公",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "书写文具"
+      },
+      "to": "学习办公",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "圆珠笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "机械铅笔"
+      },
+      "to": "学习办公",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "标记笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "橡皮"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "白板笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "自动铅笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "荧光笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "记号笔"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "书写工具",
+        "category": "钢笔"
+      },
+      "to": "学习办公",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "创意文具",
+        "category": "便签"
+      },
+      "to": "学习办公",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "创意文具",
+        "category": "印章"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "创意文具",
+        "category": "胶带"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "创意文具",
+        "category": "胶棒"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "文件夹"
+      },
+      "to": "学习办公",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "标签整理"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "桌面收纳"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "票夹"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "笔盒"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "办公收纳",
+        "category": "笔袋"
+      },
+      "to": "学习办公",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "三角尺"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "修正工具"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "卷笔刀"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "直尺"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "绘图工具"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "胶棒"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "计算器"
+      },
+      "to": "学习办公",
+      "record_count": 14
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "订书工具"
+      },
+      "to": "学习办公",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "学习工具",
+        "category": "量角器"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "本册纸品",
+        "category": "手工纸"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "本册纸品",
+        "category": "活页纸"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "本册纸品",
+        "category": "笔记本纸品"
+      },
+      "to": "学习办公",
+      "record_count": 13
+    },
+    {
+      "from": {
+        "type": "学习办公",
+        "group": "本册纸品",
+        "category": "计划本"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "出行用品",
+        "category": "雨伞"
+      },
+      "to": "出行工具",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "出行用品",
+        "category": "雨衣"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "办公收纳",
+        "category": "平板支架"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "办公收纳",
+        "category": "文件收纳"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "办公收纳",
+        "category": "桌面搁架"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "办公收纳",
+        "category": "桌面收纳"
+      },
+      "to": "学习办公",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "厨卫清洁",
+        "category": "卫生间清洁"
+      },
+      "to": "清洁纸品",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "厨卫清洁",
+        "category": "厨房清洁"
+      },
+      "to": "清洁纸品",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "墙壁置物"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "折叠挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "画框挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "磁性挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "自粘挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "衣帽挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "墙面收纳",
+        "category": "门后挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "床品卫浴",
+        "category": "三件套"
+      },
+      "to": "家居日用",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "床品卫浴",
+        "category": "毛巾"
+      },
+      "to": "家居日用",
+      "record_count": 9
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "床品卫浴",
+        "category": "浴巾"
+      },
+      "to": "家居日用",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "收纳整理",
+        "category": "压缩收纳"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "收纳整理",
+        "category": "收纳箱"
+      },
+      "to": "家居日用",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "储物盒"
+      },
+      "to": "家居日用",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "储物篮"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "储物袋"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "工具收纳"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "抽屉收纳"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "文件收纳"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "文具收纳"
+      },
+      "to": "学习办公",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "旅行收纳"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "衣物收纳"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "整理收纳",
+        "category": "鞋履收纳"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "桌面电器",
+        "category": "台灯·阅读灯"
+      },
+      "to": "家居日用",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "桌面电器",
+        "category": "桌面小电器"
+      },
+      "to": "数码家电",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "桌面电器",
+        "category": "桌面风扇"
+      },
+      "to": "数码家电",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "喷壶"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "平板拖把"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "扫帚簸箕"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "清洁收纳"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "玻璃刮板"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁工具",
+        "category": "脸盆"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "清洁耗材",
+        "category": "清洁耗材"
+      },
+      "to": "清洁纸品",
+      "record_count": 12
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "照明灯具",
+        "category": "便携灯"
+      },
+      "to": "家居日用",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "照明灯具",
+        "category": "工作灯"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "照明灯具",
+        "category": "氛围台灯"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "衣物清洁",
+        "category": "衣物清洁"
+      },
+      "to": "清洁纸品",
+      "record_count": 12
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "餐厨水具",
+        "category": "水杯"
+      },
+      "to": "餐厨水具",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "餐厨水具",
+        "category": "食品盒"
+      },
+      "to": "餐厨水具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "家居生活",
+        "group": "餐厨水具",
+        "category": "餐盒餐具"
+      },
+      "to": "餐厨水具",
+      "record_count": 47
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "充电供电",
+        "category": "充电设备"
+      },
+      "to": "数码家电",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "充电供电",
+        "category": "移动电源"
+      },
+      "to": "数码家电",
+      "record_count": 11
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "台式电脑",
+        "category": "迷你主机"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "存储网络",
+        "category": "U盘存储"
+      },
+      "to": "数码家电",
+      "record_count": 11
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "存储网络",
+        "category": "网络设备"
+      },
+      "to": "数码家电",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "平板电脑",
+        "category": "平板电脑"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "影音设备",
+        "category": "入耳式耳机"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "影音设备",
+        "category": "头戴式耳机"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "影音设备",
+        "category": "耳机音频"
+      },
+      "to": "数码家电",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "手机配件",
+        "category": "手机配件"
+      },
+      "to": "数码家电",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "手机配件",
+        "category": "蓝牙追踪器"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "智能穿戴",
+        "category": "智能穿戴"
+      },
+      "to": "数码家电",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "电脑外设",
+        "category": "电脑外设"
+      },
+      "to": "数码家电",
+      "record_count": 10
+    },
+    {
+      "from": {
+        "type": "数码科技",
+        "group": "电脑外设",
+        "category": "鼠标"
+      },
+      "to": "数码家电",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "Polo衫"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "T恤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 9
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "卫衣"
+      },
+      "to": "服饰鞋包",
+      "record_count": 9
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "背心"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "衬衫"
+      },
+      "to": "服饰鞋包",
+      "record_count": 9
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "上装",
+        "category": "针织衫"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "休闲裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "工装裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "牛仔裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "短裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "西裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "运动裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "下装",
+        "category": "长裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "外套",
+        "category": "夹克"
+      },
+      "to": "服饰鞋包",
+      "record_count": 12
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "外套",
+        "category": "抓绒外套"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "外套",
+        "category": "棉服"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "外套",
+        "category": "羽绒服"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "外套",
+        "category": "防晒衣"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "贴身衣物",
+        "category": "内裤"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "贴身衣物",
+        "category": "家居服·睡衣"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "贴身衣物",
+        "category": "袜子"
+      },
+      "to": "服饰鞋包",
+      "record_count": 8
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "配饰",
+        "category": "帽子"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "服饰穿搭",
+        "group": "配饰",
+        "category": "皮带"
+      },
+      "to": "服饰鞋包",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "桌游娱乐",
+        "category": "卡牌"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "桌游娱乐",
+        "category": "桌游"
+      },
+      "to": "玩具文娱",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "桌游娱乐",
+        "category": "派对游戏"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "毛绒玩具",
+        "category": "互动玩偶"
+      },
+      "to": "玩具文娱",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "毛绒玩具",
+        "category": "毛绒公仔"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "潮玩手办",
+        "category": "手办"
+      },
+      "to": "玩具文娱",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "潮玩手办",
+        "category": "收藏公仔"
+      },
+      "to": "玩具文娱",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "潮玩手办",
+        "category": "盲盒"
+      },
+      "to": "玩具文娱",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "益智玩具",
+        "category": "拼图"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "益智玩具",
+        "category": "逻辑玩具"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "益智玩具",
+        "category": "魔方"
+      },
+      "to": "玩具文娱",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "积木模型",
+        "category": "拼装模型"
+      },
+      "to": "玩具文娱",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "积木模型",
+        "category": "机械积木"
+      },
+      "to": "玩具文娱",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "积木模型",
+        "category": "植物积木"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "积木模型",
+        "category": "积木"
+      },
+      "to": "玩具文娱",
+      "record_count": 13
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "车模遥控",
+        "category": "合金车模"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "车模遥控",
+        "category": "轨道玩具"
+      },
+      "to": "玩具文娱",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "玩具潮玩",
+        "group": "车模遥控",
+        "category": "遥控车"
+      },
+      "to": "玩具文娱",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "便携工具",
+        "category": "多功能工具"
+      },
+      "to": "出行工具",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "便携工具",
+        "category": "手电"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "便携工具",
+        "category": "测量工具"
+      },
+      "to": "出行工具",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "便携工具",
+        "category": "螺丝刀"
+      },
+      "to": "出行工具",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "旅行收纳",
+        "category": "收纳袋"
+      },
+      "to": "出行工具",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "旅行收纳",
+        "category": "旅行分装"
+      },
+      "to": "出行工具",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "旅行收纳",
+        "category": "洗漱包"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "旅行收纳",
+        "category": "颈枕眼罩"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "桌面整理",
+        "category": "挂钩"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "桌面整理",
+        "category": "支架"
+      },
+      "to": "数码家电",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "桌面整理",
+        "category": "桌面收纳"
+      },
+      "to": "家居日用",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "桌面整理",
+        "category": "理线"
+      },
+      "to": "数码家电",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "清洁维护",
+        "category": "清洁刷"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "清洁维护",
+        "category": "眼镜清洁"
+      },
+      "to": "清洁纸品",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "清洁维护",
+        "category": "粘毛除尘"
+      },
+      "to": "清洁纸品",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "清洁维护",
+        "category": "鞋衣护理"
+      },
+      "to": "清洁纸品",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "随身配件",
+        "category": "便携镜梳"
+      },
+      "to": "个护美妆",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "随身配件",
+        "category": "卡包证件"
+      },
+      "to": "服饰鞋包",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "随身配件",
+        "category": "挂扣"
+      },
+      "to": "出行工具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "随身配件",
+        "category": "钥匙收纳"
+      },
+      "to": "出行工具",
+      "record_count": 4
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "饮水餐具",
+        "category": "便携餐具"
+      },
+      "to": "餐厨水具",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "饮水餐具",
+        "category": "保温杯"
+      },
+      "to": "餐厨水具",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "生活精选",
+        "group": "饮水餐具",
+        "category": "随行杯"
+      },
+      "to": "餐厨水具",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "出行配件"
+      },
+      "to": "出行工具",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "恢复防护"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "户外装备"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "运动帽"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "遮阳帽"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "健身训练"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "游泳"
+      },
+      "to": "运动户外",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "训练护套"
+      },
+      "to": "运动户外",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "训练袜"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "运动水壶"
+      },
+      "to": "餐厨水具",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "乒乓球"
+      },
+      "to": "运动户外",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "篮球"
+      },
+      "to": "运动户外",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "篮球装备"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "羽毛球"
+      },
+      "to": "运动户外",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "羽毛球拍"
+      },
+      "to": "运动户外",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "足球"
+      },
+      "to": "运动户外",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "足球袜"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "运动袜"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "运动配件"
+      },
+      "to": "运动户外",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "儿童运动袜"
+      },
+      "to": "服饰鞋包",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步手套"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步护臂"
+      },
+      "to": "运动户外",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "to": "运动户外",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "运动袜"
+      },
+      "to": "服饰鞋包",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "骑行"
+      },
+      "to": "运动户外",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "鞋履配件",
+        "group": "休闲鞋履",
+        "category": "休闲板鞋"
+      },
+      "to": "服饰鞋包",
+      "record_count": 23
+    },
+    {
+      "from": {
+        "type": "鞋履配件",
+        "group": "凉鞋拖鞋",
+        "category": "凉鞋·拖鞋"
+      },
+      "to": "服饰鞋包",
+      "record_count": 6
+    },
+    {
+      "from": {
+        "type": "鞋履配件",
+        "group": "跑步运动",
+        "category": "跑步鞋"
+      },
+      "to": "服饰鞋包",
+      "record_count": 19
+    },
+    {
+      "from": {
+        "type": "鞋履配件",
+        "group": "鞋履护理",
+        "category": "鞋刷"
+      },
+      "to": "清洁纸品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "鞋履配件",
+        "group": "鞋履护理",
+        "category": "鞋垫"
+      },
+      "to": "服饰鞋包",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "坚果零食",
+        "category": "坚果零食"
+      },
+      "to": "食品饮品",
+      "record_count": 9
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "坚果零食",
+        "category": "巧克力糖果"
+      },
+      "to": "食品饮品",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "坚果零食",
+        "category": "能量零食"
+      },
+      "to": "食品饮品",
+      "record_count": 1
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "方便速食",
+        "category": "方便速食"
+      },
+      "to": "食品饮品",
+      "record_count": 11
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "早餐冲调",
+        "category": "早餐冲饮"
+      },
+      "to": "食品饮品",
+      "record_count": 7
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "早餐冲调",
+        "category": "谷物麦片"
+      },
+      "to": "食品饮品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "饮品乳品",
+        "category": "乳品"
+      },
+      "to": "食品饮品",
+      "record_count": 5
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "饮品乳品",
+        "category": "咖啡"
+      },
+      "to": "食品饮品",
+      "record_count": 3
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "饮品乳品",
+        "category": "茶饮"
+      },
+      "to": "食品饮品",
+      "record_count": 2
+    },
+    {
+      "from": {
+        "type": "食品饮品",
+        "group": "饮品乳品",
+        "category": "饮用水·饮料"
+      },
+      "to": "食品饮品",
+      "record_count": 7
+    }
+  ],
+  "id_overrides": [
+    {
+      "id": 188,
+      "expected_from": {
+        "type": "健康常备",
+        "group": "健康用品",
+        "category": "健康监测与卫生"
+      },
+      "product": "3M 便携洗手液",
+      "to": "个护美妆",
+      "reason": "商品名称为便携洗手液，以身体清洁用途归个护；不提升审核状态，未核验消毒或医疗功效。"
+    },
+    {
+      "id": 189,
+      "expected_from": {
+        "type": "健康常备",
+        "group": "健康用品",
+        "category": "健康监测与卫生"
+      },
+      "product": "京东京造 便携洗手液",
+      "to": "个护美妆",
+      "reason": "商品名称为便携洗手液，以身体清洁用途归个护；不提升审核状态，未核验消毒或医疗功效。"
+    },
+    {
+      "id": 339,
+      "expected_from": {
+        "type": "健康常备",
+        "group": "运动防护",
+        "category": "运动护具"
+      },
+      "product": "京东京造 弹力绷带",
+      "to": "健康用品",
+      "reason": "名称含弹力绷带；用途存在医疗/运动歧义，保守保留健康历史范围，不自动作为运动用品推荐。"
+    },
+    {
+      "id": 347,
+      "expected_from": {
+        "type": "健康常备",
+        "group": "运动防护",
+        "category": "运动护具"
+      },
+      "product": "保而防 弹力绷带",
+      "to": "健康用品",
+      "reason": "名称含弹力绷带；用途存在医疗/运动歧义，保守保留健康历史范围，不自动作为运动用品推荐。"
+    },
+    {
+      "id": 492,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "product": "GEL-CUMULUS 系列跑鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 497,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "篮球装备"
+      },
+      "product": "韦德全城系列篮球鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 501,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "product": "C202 系列跑鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 505,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "篮球装备"
+      },
+      "product": "KT 系列篮球鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 506,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "product": "Ride 系列跑鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 515,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "product": "Pegasus 飞马系列跑鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 522,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "跑步骑行",
+        "category": "跑步装备"
+      },
+      "product": "KIPRUN 缓震跑鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 524,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "户外装备"
+      },
+      "product": "基础徒步鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 529,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "游泳健身",
+        "category": "游泳"
+      },
+      "product": "基础速干泳裤",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 531,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "篮球装备"
+      },
+      "product": "AG 系列篮球鞋",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 511,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "户外装备"
+      },
+      "product": "轻量防风防泼水外套",
+      "to": "服饰鞋包",
+      "reason": "具体商品为跑鞋、篮球鞋、徒步鞋、泳裤或外套；按商品种类归衣鞋，保留原运动场景子类。"
+    },
+    {
+      "id": 2091,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "球类运动",
+        "category": "运动配件"
+      },
+      "product": "Nike Elite 2.0 舒适速干中筒运动袜（1 双）",
+      "to": "服饰鞋包",
+      "reason": "虽旧类为运动配件，具体商品是训练袜，与其余袜类统一按商品种类归衣鞋。"
+    },
+    {
+      "id": 2113,
+      "expected_from": {
+        "type": "运动户外",
+        "group": "户外恢复",
+        "category": "出行配件"
+      },
+      "product": "Nike Club 收纳袋式钱包",
+      "to": "服饰鞋包",
+      "reason": "具体商品为钱包，不因运动品牌或旧出行配件标签而归训练器材。"
+    },
+    {
+      "id": 745,
+      "expected_from": {
+        "type": "生活精选",
+        "group": "旅行收纳",
+        "category": "洗漱包"
+      },
+      "product": "电子配件收纳包",
+      "to": "数码家电",
+      "reason": "商品名称为电子配件收纳包，旧洗漱包标签不准确；以电子配件整理用途归数码。"
+    }
+  ],
+  "health_policy": {
+    "legacy_type": "健康常备",
+    "policy": "保留原审核与价格状态；药品、眼鼻药用护理、医用消毒/创面记录保持历史资料边界，不加入品牌优选、质量精选或个性化购买推荐。分类从健康常备改成健康用品不能绕过旧医疗门禁。",
+    "mixed_group_exception_ids": [
+      188,
+      189,
+      339,
+      347,
+      483
+    ],
+    "ambiguous_record_ids": [
+      171,
+      180,
+      182,
+      186,
+      345,
+      354,
+      361,
+      475,
+      479,
+      483,
+      484,
+      485
+    ],
+    "note": "这些ID来自现有商品命名，不是重新核验的药品/器械身份。无法确认时保留记录和原限制，不自动宣称疗效或医疗资质。"
+  },
+  "legacy_interest_compatibility": {
+    "matching_order": [
+      "精确新名称优先",
+      "旧大类按legacy_type_to_new_types展开",
+      "去重并保留新类顺序",
+      "未知兴趣原样保存，显示前筛除不存在的导航项；不可清空用户其余偏好"
+    ],
+    "legacy_type_to_new_types": {
+      "家居生活": [
+        "清洁纸品",
+        "家居日用",
+        "餐厨水具",
+        "学习办公",
+        "数码家电",
+        "出行工具"
+      ],
+      "个护美妆": [
+        "个护美妆"
+      ],
+      "鞋履配件": [
+        "清洁纸品",
+        "服饰鞋包"
+      ],
+      "服饰穿搭": [
+        "服饰鞋包"
+      ],
+      "健康常备": [
+        "个护美妆",
+        "运动户外",
+        "健康用品"
+      ],
+      "食品饮品": [
+        "食品饮品"
+      ],
+      "学习办公": [
+        "学习办公"
+      ],
+      "数码科技": [
+        "数码家电"
+      ],
+      "运动户外": [
+        "餐厨水具",
+        "服饰鞋包",
+        "运动户外",
+        "出行工具"
+      ],
+      "生活精选": [
+        "清洁纸品",
+        "家居日用",
+        "餐厨水具",
+        "个护美妆",
+        "服饰鞋包",
+        "数码家电",
+        "出行工具"
+      ],
+      "玩具潮玩": [
+        "玩具文娱"
+      ]
+    },
+    "notes": [
+      "新版本保存schema_version=21，保留原始legacy_interests快照以便迁移可逆。",
+      "展开是包含关系，不等于用户同时主动选中新兴趣；若推荐需要精确兴趣，在设置中允许用户随时改选。",
+      "已保存的新名称如学习办公、运动户外、食品饮品优先按新精确名解释，防止重复迁移；仅对旧schema应用旧大类展开。"
+    ]
+  },
+  "validation": {
+    "mapped_record_ids": 1016,
+    "mapped_unique_old_triples": 244,
+    "exception_ids": 18,
+    "unmapped_record_ids": [],
+    "duplicate_exception_ids": [],
+    "category_count": 12,
+    "all_record_counts_by_type": {
+      "清洁纸品": 46,
+      "家居日用": 68,
+      "餐厨水具": 67,
+      "个护美妆": 213,
+      "服饰鞋包": 190,
+      "健康用品": 51,
+      "食品饮品": 50,
+      "学习办公": 89,
+      "出行工具": 34,
+      "运动户外": 65,
+      "数码家电": 92,
+      "玩具文娱": 51
+    },
+    "original_catalog_unchanged": true,
+    "do_not_interpret_as": "本文件不是新品来源、当前价格复核或质量审核报告。"
+  },
+  "sources": [
+    {
+      "id": "nbs-consumption",
+      "publisher": "国家统计局",
+      "title": "2024年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202501/t20250117_1958325.html",
+      "published_at": "2025-01-17",
+      "accessed_at": "2026-10-15",
+      "scope": "八大消费用途边界和居民日常消费定义；不以其金额或人口调查结果推导本站热度"
+    },
+    {
+      "id": "ikea-products",
+      "publisher": "IKEA 宜家（台湾地区官网）",
+      "title": "产品：全部商品分类",
+      "url": "https://www.ikea.com.tw/zh/all-products",
+      "published_at": null,
+      "accessed_at": "2026-10-15",
+      "scope": "家居零售分类实例：收纳、织品、厨具、餐具、照明等；仅参考分类结构，不转用区域价格或规格"
+    },
+    {
+      "id": "ikea-dishwashing",
+      "publisher": "IKEA 宜家中国",
+      "title": "洗碗用具",
+      "url": "https://www.ikea.cn/cn/zh/cat/xi-wan-yong-ju-15938/",
+      "published_at": null,
+      "accessed_at": "2026-10-15",
+      "scope": "抹布海绵刷、滤水架、水槽附件等日常任务组织方式；不采用其商品价格或宣称质量结论"
+    }
+  ]
+}

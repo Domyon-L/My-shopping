@@ -63,6 +63,6 @@ test('Chinese budget search combines limits with keywords and hierarchy filters'
  const expectedStorage=current.filter(x=>priceUsable(x.price,false,now)&&x.price.max<=100&&searchable(x).includes('收纳'));
  assert(expectedStorage.length>1);assert.deepEqual(byId(storage),byId(expectedStorage));assert(storage.some(x=>x.id===683));
  assert.equal(filterCatalog(items,{...freshState(),q:'300元以内 鼠标',history:false},[],now).length,0);
- const xs=filterCatalog(items,{...freshState(),type:'家居生活',group:'餐厨水具',category:'食品盒'},[],now);assert(xs.length);assert(xs.every(x=>x.type==='家居生活'&&x.group==='餐厨水具'&&x.category==='食品盒'));
+ const xs=filterCatalog(items,{...freshState(),type:'餐厨水具',group:'餐厨水具',category:'食品盒'},[],now);assert(xs.length);assert(xs.every(x=>x.type==='餐厨水具'&&x.group==='餐厨水具'&&x.category==='食品盒'));assert(xs.some(x=>x.id===1012));
  assert.equal(filterCatalog(items,{...freshState(),q:'不存在的商品xyz'},[],now).length,0);
 });

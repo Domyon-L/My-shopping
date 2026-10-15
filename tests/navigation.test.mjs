@@ -15,14 +15,14 @@ test('classification counts follow scope and search; zero-result categories are 
    assert(expected.types.filter(x=>x.value).every(x=>x.count>0));
   };
   checkNavigation({...freshState(),scope:'documented'});
-  assert.equal($('#categories [data-type="健康常备"]'),null);
+  assert.equal($('#categories [data-type="健康用品"]'),null);
   $('#search').value='AirPods';$('#searchForm').dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));
   checkNavigation({...freshState(),scope:'documented',q:'AirPods'});
   assert.equal($('#categories [data-type=""] small').textContent,'1');
-  assert.equal($('#categories [data-type="数码科技"] small').textContent,'1');
+  assert.equal($('#categories [data-type="数码家电"] small').textContent,'1');
   assert.equal(w.document.querySelectorAll('#categories [data-type]').length,2);
   assert.deepEqual([...$('#categorySelect').options].filter(o=>o.value&&!o.disabled).map(o=>o.value),['入耳式耳机']);
-  click('#categories [data-type="数码科技"]');assert.equal($('#resultCount').textContent,'1 件');
+  click('#categories [data-type="数码家电"]');assert.equal($('#resultCount').textContent,'1 件');
   click('[data-scope="documented"]');click('#clearSearch');change('#budgetSelect','100-300');change('#sceneSelect','学生');
   const budgetState={...freshState(),scope:'documented',budget:'100-300',scene:'学生'};
   const budgetMatches=filterCatalog(w.CATALOG.items,budgetState,[],now);assert(budgetMatches.length>1);assert(budgetMatches.every(x=>x.type==='学习办公'));
@@ -38,12 +38,13 @@ test('empty favorites have no misleading classifications; sidebar reset opens po
   assert.equal(w.document.querySelectorAll('#categories [data-type]:not([disabled])').length,0);
   assert($('#groupSelect').disabled);assert($('#categorySelect').disabled);
   $('#search').value='不存在的旧查询';$('#search').dispatchEvent(new w.Event('input',{bubbles:true}));
-  click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="家居生活"]');
+  click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="家居日用"]');
   advance(100);
-  assert.equal($('#resultCount').textContent,w.CATALOG.items.filter(x=>x.type==='家居生活').length+' 件');
+  const home=w.CATALOG.items.filter(x=>x.type==='家居日用');assert(home.length>24);assert(home.some(x=>x.id===683));assert(!home.some(x=>x.id===1012));
+  assert.equal($('#resultCount').textContent,home.length+' 件');
   assert.equal($('#search').value,'');
   assert.equal($('[data-scope="all"]').getAttribute('aria-pressed'),'true');
-  assert([...w.document.querySelectorAll('.product-row')].every(x=>x.querySelector('.product-sub').textContent.includes('家居生活')));
+  assert([...w.document.querySelectorAll('.product-row')].every(x=>x.querySelector('.product-sub').textContent.includes('家居日用')));
   assert.deepEqual(b.errors,[]);
  }finally{b.dom.window.close();}
 });

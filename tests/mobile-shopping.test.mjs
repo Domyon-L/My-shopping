@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {boot} from './helpers.mjs';
 import {projectTunnel} from '../dist/experience-core.mjs';
+import {TYPE_ORDER,freshState,filterCatalog} from '../dist/catalog-core.mjs';
 
 test('mobile loads successive products without duplicates and keeps filters collapsed until requested',()=>{
  const b=boot({}, {width:390,height:844});try{
@@ -20,9 +21,10 @@ test('mobile loads successive products without duplicates and keeps filters coll
 
 test('phone sidebar categories and complete-catalog shortcut expose real inventory',()=>{
  const b=boot({}, {width:320,height:568});try{
-  const {$,w,click}=b;assert.equal(w.document.querySelectorAll('#shopChannels [data-type]').length,12);
-  assert.equal(w.document.querySelectorAll('#shopChannels [data-type] .channel-icon svg').length,12);
-  click('[data-scope="favorites"]');click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="数码科技"]');assert.equal($('#resultCount').textContent,'72 件');
+  const {$,w,click}=b,types=TYPE_ORDER.filter(type=>w.CATALOG.items.some(x=>x.type===type));assert.equal(types.length,12);assert.equal(w.document.querySelectorAll('#shopChannels [data-type]').length,13);
+  assert.equal(w.document.querySelectorAll('#shopChannels [data-type] .channel-icon svg').length,types.length+1);
+  assert.deepEqual([...w.document.querySelectorAll('#shopChannels [data-type]')].map(n=>n.dataset.type),['',...types]);
+  click('[data-scope="favorites"]');click('.quick-browse [data-value=""]');click('#menuToggle');click('.shop-scenes [data-type="数码家电"]');const digital=filterCatalog(w.CATALOG.items,{...freshState(),type:'数码家电'});assert(digital.length>24);assert.equal($('#resultCount').textContent,digital.length+' 件');assert(digital.some(x=>x.id===1002));
   assert(!$('#loadMore').hidden);assert.equal($('#products').children.length,24);
   click('#menuToggle');click('.quick-browse [data-value=""]');assert.equal($('#resultCount').textContent,'1000 件');assert(!w.document.body.classList.contains('rail-open'));click('#menuToggle');assert(!$('#categoryRail').inert);
   assert.deepEqual(b.errors,[]);

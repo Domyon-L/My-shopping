@@ -24,7 +24,7 @@ test('old, incomplete and future-dated source evidence cannot be presented as fr
  assert.equal(filterCatalog([dated,base,bad],freshState(),[],now)[0].source.checked_at,'2026-10-11');
 });
 test('recommendation respects search, scenario, price dates and budget boundaries',()=>{
- const s={...freshState(),scene:'办公',type:'数码科技'};assert(filterCatalog(items,s,[],now).every(x=>x.tags.includes('办公')&&x.type==='数码科技'));
+ const s={...freshState(),scene:'办公',type:'数码家电'},office=filterCatalog(items,s,[],now);assert(office.length);assert(office.every(x=>x.tags.includes('办公')&&x.type==='数码家电'));
  const storage=filterCatalog(items,{...freshState(),q:'100元以内 收纳',history:false},[548],now);
  const searchable=x=>[x.brand,x.product,x.model,x.type,x.group,x.category,x.variant,...x.tags,...Object.values(x.specs)].join(' ').toLowerCase();
  const expected=items.filter(x=>isListed(x,now)&&priceUsable(x.price,false,now)&&x.price.max<=100&&searchable(x).includes('收纳'));

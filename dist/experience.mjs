@@ -73,22 +73,34 @@ function drawTunnel(){
  };portalPainter=draw;portalFrame=requestAnimationFrame(draw);
 }
 
-// Desktop navigation stays beside the catalogue; phones use a focus-contained drawer.
+// Pointer presence and active presses suspend idle hiding; the left edge remains invisible.
 const rail=$('categoryRail'),menu=$('menuToggle'),reveal=$('railReveal'),backdrop=$('railBackdrop');const mobile=()=>innerWidth<=900;
 const railBackground=[document.querySelector('header'),$('main'),$('petWrap'),document.querySelector('.mobile-dock'),$('compareTray'),document.querySelector('.skip'),reveal].filter(Boolean);
-let railReturn=null,railTimer=0;
-function armRailIdle(){clearTimeout(railTimer);railTimer=0;if(!shopping||document.hidden||!document.body.classList.contains('rail-open'))return;railTimer=setTimeout(()=>closeRail(rail.contains(document.activeElement)),3000);}
+let railReturn=null,railTimer=0,railHover=false,pointerHeld=false,railKeyboard=false,lastInput='pointer',lastPointer=null;
+const railIsOpen=()=>document.body.classList.contains('rail-open');
+const railHeaderBottom=()=>document.querySelector('.header').getBoundingClientRect().bottom||(innerWidth<=600?116:78);
+function pointerInRail(point){if(!point||mobile())return false;const r=rail.getBoundingClientRect(),width=r.width||248;return point.x>=0&&point.x<=width&&point.y>=railHeaderBottom()&&point.y<=innerHeight;}
+function armRailIdle(){clearTimeout(railTimer);railTimer=0;if(!shopping||document.hidden||!railIsOpen()||railHover||pointerHeld||railKeyboard)return;railTimer=setTimeout(()=>{railTimer=0;if(!railHover&&!pointerHeld&&!railKeyboard)closeRail(rail.contains(document.activeElement));},3000);}
 function railMode(){const modal=mobile();railBackground.forEach(el=>el.inert=modal);backdrop.hidden=!modal;if(modal){rail.setAttribute('role','dialog');rail.setAttribute('aria-modal','true');}else{rail.removeAttribute('role');rail.removeAttribute('aria-modal');}}
-function closeRail(restore=true){clearTimeout(railTimer);railTimer=0;document.body.classList.remove('rail-open');for(const b of [menu,reveal])b.setAttribute('aria-expanded','false');backdrop.hidden=true;rail.removeAttribute('role');rail.removeAttribute('aria-modal');rail.inert=true;railBackground.forEach(el=>el.inert=false);if(restore)(railReturn?.isConnected?railReturn:menu).focus?.();}
-function openRail(focus=true){if(!shopping)return;railReturn=focus?document.activeElement:menu;rail.inert=false;document.body.classList.add('rail-open');for(const b of [menu,reveal])b.setAttribute('aria-expanded','true');railMode();armRailIdle();if(focus)$('menuClose').focus();}
-menu.addEventListener('click',()=>document.body.classList.contains('rail-open')?closeRail():openRail());reveal.addEventListener('click',()=>openRail());$('menuClose').addEventListener('click',()=>closeRail());backdrop.addEventListener('click',()=>closeRail());
+function closeRail(restore=true){clearTimeout(railTimer);railTimer=0;railHover=false;railKeyboard=false;document.body.classList.remove('rail-open');for(const b of [menu,reveal])b.setAttribute('aria-expanded','false');backdrop.hidden=true;rail.removeAttribute('role');rail.removeAttribute('aria-modal');rail.inert=true;railBackground.forEach(el=>el.inert=false);if(restore){const fallback=mobile()?menu:$('search'),target=railReturn?.isConnected&&railReturn!==reveal&&(!(!mobile()&&railReturn===menu))?railReturn:fallback;target.focus?.({preventScroll:true});}}
+function openRail(focus=true,via='control'){if(!shopping)return;if(!railIsOpen())railReturn=document.activeElement===reveal?$('search'):document.activeElement;rail.inert=false;document.body.classList.add('rail-open');for(const b of [menu,reveal])b.setAttribute('aria-expanded','true');railMode();railHover=!mobile()&&(via==='pointer'||pointerInRail(lastPointer));railKeyboard=focus&&lastInput==='keyboard';armRailIdle();if(focus)$('menuClose').focus();}
+menu.addEventListener('click',()=>railIsOpen()?closeRail():openRail());reveal.addEventListener('click',()=>openRail());reveal.addEventListener('focus',()=>{if(lastInput==='keyboard')openRail(true);});$('menuClose').addEventListener('click',()=>closeRail());backdrop.addEventListener('click',()=>closeRail());
+function hoverEdge(e){if(e.pointerType==='touch'||mobile()||!shopping||document.querySelector('dialog[open]'))return;lastPointer={x:e.clientX,y:e.clientY};if(!railIsOpen()&&e.clientX>=0&&e.clientX<=14&&e.clientY>=railHeaderBottom())openRail(false,'pointer');}
+reveal.addEventListener('pointerenter',e=>{if(e.pointerType!=='touch'&&!mobile()){railHover=true;openRail(false,'pointer');}});
+rail.addEventListener('pointerenter',e=>{if(e.pointerType==='touch'||mobile())return;railHover=true;armRailIdle();});
+rail.addEventListener('pointerleave',e=>{if(e.pointerType==='touch')return;railHover=false;armRailIdle();});
+document.addEventListener('pointermove',e=>{if(e.pointerType==='touch')return;hoverEdge(e);if(!shopping||mobile()||!railIsOpen())return;const wasKeyboard=railKeyboard;if(wasKeyboard){railKeyboard=false;lastInput='pointer';}const inside=pointerInRail({x:e.clientX,y:e.clientY});if(inside!==railHover||wasKeyboard){railHover=inside;armRailIdle();}},true);
+document.addEventListener('pointerdown',e=>{lastInput='pointer';pointerHeld=true;railKeyboard=false;if(e.pointerType!=='touch')lastPointer={x:e.clientX,y:e.clientY};armRailIdle();},true);
+function releaseRailPointer(){pointerHeld=false;armRailIdle();}
+window.addEventListener('pointerup',releaseRailPointer,true);window.addEventListener('pointercancel',releaseRailPointer,true);window.addEventListener('blur',()=>{pointerHeld=false;railHover=false;armRailIdle();});
 document.addEventListener('city:categories',()=>openRail());
-rail.addEventListener('click',e=>{if(e.target.closest('[data-type],[data-value]')){closeRail();scrollToCatalog();}else if(e.target.closest('[data-personal-open],[data-brand-open]'))closeRail(false);});
+rail.addEventListener('click',e=>{if(e.target.closest('[data-type],[data-value]')){if(mobile()){closeRail();scrollToCatalog();}else armRailIdle();}else if(e.target.closest('[data-personal-open],[data-brand-open]'))closeRail(false);});
 $('standardsButton').addEventListener('click',()=>closeRail(false));
 document.addEventListener('click',armRailIdle,true);
-document.addEventListener('keydown',e=>{armRailIdle();if(!document.body.classList.contains('rail-open'))return;if(e.key==='Escape'){e.preventDefault();closeRail();}else if(e.key==='Tab'&&mobile()){const buttons=[...rail.querySelectorAll('button:not([disabled])')];const first=buttons[0],last=buttons.at(-1);if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
-document.addEventListener('visibilitychange',armRailIdle);
-window.addEventListener('resize',()=>{if(document.body.classList.contains('rail-open')){railMode();armRailIdle();}else rail.inert=true;});closeRail(false);
+document.addEventListener('keydown',e=>{lastInput='keyboard';railKeyboard=railIsOpen()&&rail.contains(document.activeElement);armRailIdle();if(!railIsOpen()||e.defaultPrevented)return;if(e.key==='Escape'){e.preventDefault();closeRail();}else if(e.key==='Tab'&&mobile()){const buttons=[...rail.querySelectorAll('button:not([disabled])')];const first=buttons[0],last=buttons.at(-1);if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
+rail.addEventListener('focusin',()=>{railKeyboard=lastInput==='keyboard';armRailIdle();});rail.addEventListener('focusout',e=>{if(!rail.contains(e.relatedTarget)){railKeyboard=false;armRailIdle();}});
+document.addEventListener('visibilitychange',()=>{if(document.hidden){pointerHeld=false;railHover=false;}else railHover=railIsOpen()&&pointerInRail(lastPointer);armRailIdle();});
+window.addEventListener('resize',()=>{if(railIsOpen()){railMode();railHover=pointerInRail(lastPointer);armRailIdle();}else rail.inert=true;});closeRail(false);
 document.querySelectorAll('[data-mobile]').forEach(b=>b.addEventListener('click',()=>{const action=b.dataset.mobile;if(action==='categories')openRail();if(action==='discover'){emit('city:discover');}if(action==='favorites'){emit('city:favorites');scrollToCatalog();}if(action==='entrance')returnToEntry();}));
 
 // One viewport-sized coordinate system for mouse, pen and touch dragging.

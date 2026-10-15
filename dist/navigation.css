@@ -6,7 +6,7 @@ html{scroll-padding-top:calc(var(--shop-header-height) + 22px)}
 #storefront .header .search{flex:1 1 460px;max-width:720px;min-width:0;width:auto}
 #storefront .workspace{max-width:1600px;padding-left:0;transition:padding-left .23s ease}
 #storefront .workspace main{padding:24px 36px 0}
-#categoryRail{gap:12px;padding:20px 14px 22px;overscroll-behavior:contain}
+#categoryRail{opacity:0;pointer-events:none;transition:transform .23s ease,opacity .18s ease,visibility .23s;gap:12px;padding:20px 14px 22px;overscroll-behavior:contain}
 #categoryRail .mobile-rail-head{margin-bottom:5px;flex:none;font-weight:650}
 #categoryRail .rail-label{padding:0 10px;flex:none;letter-spacing:.08em}
 #categoryRail #shopChannels{display:block;overflow:visible;margin:0;flex:none}
@@ -23,16 +23,19 @@ html{scroll-padding-top:calc(var(--shop-header-height) + 22px)}
 #categoryRail .quick-browse button{display:block;font-size:12px;padding:8px 5px;border-radius:10px;white-space:normal;min-height:44px}
 #categoryRail .rail-brand-link{min-height:44px;padding:10px;background:transparent;text-align:left;font-size:13px;color:var(--accent);flex:none}
 #categoryRail .rail-bottom{padding:14px 10px 0;margin-top:12px;flex:none}
-.rail-reveal{position:fixed;left:0;top:calc(var(--shop-header-height) + 24px);z-index:50;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:10px 8px;min-width:38px;min-height:62px;border-radius:0 12px 12px 0;box-shadow:0 6px 24px var(--shadow);color:var(--accent);background:var(--surface)}
-.rail-reveal span{font-size:18px}.rail-reveal b{font-size:10px;font-weight:500}.rail-open .rail-reveal{display:none}
+/* An invisible 14px edge target replaces the old visible category handle. */
+.rail-edge{position:fixed;left:0;top:var(--shop-header-height);bottom:0;width:14px;z-index:50;border:0!important;border-radius:0;background:transparent!important;box-shadow:none!important;opacity:0;padding:0}
+.rail-edge span{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.rail-open .rail-edge{pointer-events:none}
 #storefront .control-deck{top:calc(var(--shop-header-height) + 8px)}
 @media(min-width:901px){
+ #storefront .header #menuToggle{display:none}
  .rail-open #storefront .workspace{padding-left:var(--shop-rail-width)}
  #storefront #categoryRail{inset:var(--shop-header-height) auto 0 0!important;top:var(--shop-header-height)!important;width:var(--shop-rail-width);height:calc(100dvh - var(--shop-header-height))!important;z-index:45;box-shadow:8px 0 32px #00000012}
  #storefront .rail-backdrop{display:none!important}
 }
 @media(max-width:1100px){#storefront .workspace main{padding:22px 26px 0}}
-@media(max-width:900px){.rail-reveal{display:none}#categoryRail .quick-browse [data-personal-open]{display:block}}
+@media(max-width:900px){.rail-edge{display:none}#categoryRail .quick-browse [data-personal-open]{display:block}}
 @media(max-width:600px){
  :root{--shop-header-height:116px}
  #storefront .header{padding:8px 12px 10px;flex-wrap:wrap;min-height:116px}
@@ -42,4 +45,8 @@ html{scroll-padding-top:calc(var(--shop-header-height) + 22px)}
  #categoryRail .category-nav .channel b{font-size:14px}
 }
 @media(prefers-reduced-motion:reduce){#storefront .workspace{transition:none}}
-@media print{#storefront{padding-top:0}.rail-reveal,#categoryRail{display:none}#storefront .header{position:static}.rail-open #storefront .workspace{padding-left:0}}
+@media print{#storefront{padding-top:0}.rail-edge,#categoryRail{display:none}#storefront .header{position:static}.rail-open #storefront .workspace{padding-left:0}}
+
+@media(hover:none),(pointer:coarse){#storefront .header #menuToggle{display:flex}.rail-edge{display:none}}
+
+.rail-open #categoryRail{opacity:1;pointer-events:auto}

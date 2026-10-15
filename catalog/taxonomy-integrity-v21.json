@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-10-15",
+  "baseline_source_commit": "dee989323e99d4a144a743bcc9d248393269f121",
+  "records": 1016,
+  "changed_fields_only": [
+    "type",
+    "legacy_type"
+  ],
+  "all_other_fields_identical": true,
+  "unchanged_fields_sha256": "6b87783f167b0deb67182ba794caf8b216f4432c3260cb82a520e4823c0a42b3"
+}

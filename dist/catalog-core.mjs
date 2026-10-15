@@ -1,5 +1,6 @@
 import {brandKey} from './brand-keys.mjs';
-export const TYPE_ORDER=['数码科技','服饰穿搭','鞋履配件','个护美妆','家居生活','生活精选','玩具潮玩','健康常备','食品饮品','运动户外','学习办公'];
+import {DAILY_TYPES} from './taxonomy-core.mjs';
+export const TYPE_ORDER=DAILY_TYPES;
 export const BANDS=[['0-50','50 元以下',0,50],['50-100','50–100 元',50,100],['100-300','100–300 元',100,300],['300-600','300–600 元',300,600],['600-1000','600–1000 元',600,1000],['1000-2000','1000–2000 元',1000,2000],['2000+','2000 元及以上',2000,Infinity]];
 export const freshState=()=>({q:'',brand:'',type:'',group:'',category:'',scope:'all',budget:'',max:null,sort:'recommended',personalized:true,scene:'',history:true,priceKind:'',page:1,valueMode:'',valueFirst:false,preferredTypes:[]});
 export function catalogNavigation(items,state,favorites=[],now=new Date()){
@@ -83,7 +84,7 @@ export function filterCatalog(items,s,favorites=[],now=new Date()){
   if(s.personalOnly&&s.preferredTypes?.length)xs=xs.filter(x=>s.preferredTypes.includes(x.type));
   if(s.valueMode==='hundred')xs=xs.filter(x=>priceUsable(x.price,s.history,now)&&x.price.max<=100);
   if(s.valueMode==='upgrade')xs=xs.filter(x=>evidenceTier(x,now)>0&&priceUsable(x.price,false,now)&&x.price.max>100&&x.price.max<=300&&x.purchase?.upgrade);
-  if(q){const tokens=q.toLowerCase().split(/\s+/);xs=xs.filter(x=>{const h=[x.brand,x.product,x.model,x.type,x.group,x.category,x.variant,...x.tags,...Object.values(x.specs)].join(' ').toLowerCase();return tokens.every(t=>h.includes(t));});}
+  if(q){const tokens=q.toLowerCase().split(/\s+/);xs=xs.filter(x=>{const h=[x.brand,x.product,x.model,x.type,x.legacy_type,x.group,x.category,x.variant,...x.tags,...Object.values(x.specs)].join(' ').toLowerCase();return tokens.every(t=>h.includes(t));});}
   if(s.priceKind)xs=xs.filter(x=>s.priceKind==='unknown'?x.price.kind==='unknown':s.priceKind==='documented'?x.price.kind==='documented'&&!dated(x.price,now):x.price.kind==='historical');
   if(band||cap!==null)xs=xs.filter(x=>{if(!priceUsable(x.price,s.history,now))return false;const n=priceMid(x.price);return (!band||(n>=band[2]&&n<band[3]))&&(cap===null||x.price.max<=cap);});
   const n=x=>priceUsable(x.price,s.history,now)?priceMid(x.price):null;

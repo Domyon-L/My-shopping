@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {boot} from './helpers.mjs';
 import {clampPetPosition,portalURL,PORTAL_MS,PET_SIZE} from '../dist/experience-core.mjs';
+import {TYPE_ORDER,freshState,filterCatalog} from '../dist/catalog-core.mjs';
 function point(w,element,type,x,y,extra={}){element.dispatchEvent(new w.MouseEvent(type,{bubbles:true,cancelable:true,clientX:x,clientY:y,button:0,...extra}));}
 test('first load is an independent entrance; store is inert and companion is outside it',()=>{
  const b=boot({}, {entry:true});try{const {$,w}=b;assert(!$('#entryScreen').hidden);assert($('#storefront').hidden);assert($('#storefront').inert);assert(!$('#petWrap').hidden);assert(!$('#storefront').contains($('#petWrap')));assert(!$('#main').contains($('#enterCity')));assert(!w.document.body.classList.contains('shop-active'));assert(!$('#entryScreen').inert);assert.deepEqual(b.errors,[]);}finally{b.dom.window.close();}
@@ -14,7 +15,7 @@ test('entrance passage lasts 1500ms, cancellation stays outside, skip enters onl
 });
 test('gateway search and categories apply to the shopping catalog after entry',()=>{
  const b=boot({}, {entry:true});try{const {w,$,click,advance}=b;$('#entrySearch').value='100元以内 收纳';$('#entrySearchForm').dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));advance(1500);assert.equal($('#resultCount').textContent,'39 件');assert([...w.document.querySelectorAll('#products .product-card')].every(n=>w.CATALOG.items.find(x=>x.id===Number(n.dataset.product)).price.max<=100));assert.equal($('#search').value,'100元以内 收纳');
- click('#backToEntry');click('[data-entry-type="服饰穿搭"]');advance(1500);assert($('#breadcrumb').textContent.includes('服饰穿搭'));assert(!$('#storefront').hidden);assert.deepEqual(b.errors,[]);
+ click('#backToEntry');const entryTypes=[...w.document.querySelectorAll('[data-entry-type]')].map(n=>n.dataset.entryType);assert.deepEqual(entryTypes,TYPE_ORDER.filter(type=>w.CATALOG.items.some(x=>x.type===type)).slice(0,4));assert.deepEqual(entryTypes,['清洁纸品','家居日用','餐厨水具','个护美妆']);click('[data-entry-type="餐厨水具"]');advance(1500);assert($('#breadcrumb').textContent.includes('餐厨水具'));assert.equal($('#resultCount').textContent,filterCatalog(w.CATALOG.items,{...freshState(),type:'餐厨水具'}).length+' 件');assert(!$('#storefront').hidden);assert.deepEqual(b.errors,[]);
  }finally{b.dom.window.close();}
 });
 test('cards open local details and evidence links never reopen the star passage',()=>{

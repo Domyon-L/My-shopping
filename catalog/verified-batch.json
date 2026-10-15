@@ -3,7 +3,7 @@
     "id": 548,
     "brand": "罗技 Logitech",
     "product": "MX Master 3S 无线鼠标",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "电脑外设",
     "category": "鼠标",
     "model": "MX Master 3S",
@@ -50,13 +50,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "数码科技"
   },
   {
     "id": 663,
     "brand": "索尼 Sony",
     "product": "WH-1000XM6 头戴式降噪耳机",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "影音设备",
     "category": "头戴式耳机",
     "model": "WH-1000XM6",
@@ -108,13 +109,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "数码科技"
   },
   {
     "id": 676,
     "brand": "LEGO 乐高",
     "product": "花植系列 典雅兰 10343",
-    "type": "玩具潮玩",
+    "type": "玩具文娱",
     "group": "积木模型",
     "category": "植物积木",
     "model": "10343",
@@ -161,13 +163,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "玩具潮玩"
   },
   {
     "id": 682,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 玻璃食品盒 / 硅树脂盖 1 L",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "食品盒",
     "model": "092.767.73",
@@ -242,13 +245,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/ikea-365-fu-gai-shi-pin-he-chang-fang-xing-bo-li-huo-shu-zhi-s09276773/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 683,
     "brand": "IKEA 宜家",
     "product": "SAMLA 萨姆拉 附盖透明储物盒 5 L",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "收纳整理",
     "category": "收纳箱",
     "model": "194.408.48",
@@ -322,13 +326,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/samla-box-with-lid-transparent-s19440848/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 704,
     "brand": "ASICS 亚瑟士",
     "product": "NOVABLAST 5 男款公路跑鞋",
-    "type": "鞋履配件",
+    "type": "服饰鞋包",
     "group": "跑步运动",
     "category": "跑步鞋",
     "model": "1011B974-402",
@@ -374,7 +379,8 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "鞋履配件"
   },
   {
     "id": 808,
@@ -424,7 +430,8 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "食品饮品"
   },
   {
     "id": 847,
@@ -477,13 +484,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "学习办公"
   },
   {
     "id": 736,
     "brand": "Leatherman",
     "product": "Micra 迷你多功能工具",
-    "type": "生活精选",
+    "type": "出行工具",
     "group": "便携工具",
     "category": "多功能工具",
     "model": "Micra",
@@ -534,13 +542,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "生活精选"
   },
   {
     "id": 1001,
     "brand": "罗技 Logitech",
     "product": "MX Master 4 触觉反馈无线鼠标",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "电脑外设",
     "category": "鼠标",
     "model": "MX Master 4",
@@ -587,13 +596,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "数码科技"
   },
   {
     "id": 1002,
     "brand": "Apple 苹果",
     "product": "AirPods Pro 3 无线降噪耳机",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "影音设备",
     "category": "入耳式耳机",
     "model": "AirPods Pro 3",
@@ -675,13 +685,14 @@
       "source_urls": [
         "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3"
       ]
-    }
+    },
+    "legacy_type": "数码科技"
   },
   {
     "id": 1003,
     "brand": "Apple 苹果",
     "product": "iPad（A16）128 GB 无线局域网版",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "平板电脑",
     "category": "平板电脑",
     "model": "iPad A16",
@@ -761,13 +772,14 @@
       "source_urls": [
         "https://www.apple.com.cn/shop/buy-ipad/ipad"
       ]
-    }
+    },
+    "legacy_type": "数码科技"
   },
   {
     "id": 1004,
     "brand": "Apple 苹果",
     "product": "Mac mini（M4）16 GB / 256 GB",
-    "type": "数码科技",
+    "type": "数码家电",
     "group": "台式电脑",
     "category": "迷你主机",
     "model": "Mac mini 2024 M4",
@@ -815,7 +827,8 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "数码科技"
   },
   {
     "id": 1005,
@@ -895,13 +908,14 @@
       "source_urls": [
         "https://www.casio.com.cn/scientific-calculators/product.FX-991CN-CW-PLUS/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 1006,
     "brand": "LEGO 乐高",
     "product": "花植系列 快乐盆栽 10349",
-    "type": "玩具潮玩",
+    "type": "玩具文娱",
     "group": "积木模型",
     "category": "植物积木",
     "model": "10349",
@@ -948,13 +962,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "玩具潮玩"
   },
   {
     "id": 1007,
     "brand": "Patagonia 巴塔哥尼亚",
     "product": "Better Sweater 男款全拉链抓绒外套",
-    "type": "服饰穿搭",
+    "type": "服饰鞋包",
     "group": "外套",
     "category": "抓绒外套",
     "model": "25528",
@@ -1002,7 +1017,8 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "服饰穿搭"
   },
   {
     "id": 1008,
@@ -1053,13 +1069,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "个护美妆"
   },
   {
     "id": 1009,
     "brand": "Leatherman",
     "product": "Skeletool 7 合 1 多功能工具",
-    "type": "生活精选",
+    "type": "出行工具",
     "group": "便携工具",
     "category": "多功能工具",
     "model": "Skeletool",
@@ -1110,7 +1127,8 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "生活精选"
   },
   {
     "id": 1010,
@@ -1161,13 +1179,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "运动户外"
   },
   {
     "id": 1011,
     "brand": "ZOJIRUSHI 象印",
     "product": "SM-SF48 不锈钢保温杯 480 mL",
-    "type": "生活精选",
+    "type": "餐厨水具",
     "group": "饮水餐具",
     "category": "保温杯",
     "model": "SM-SF48",
@@ -1211,13 +1230,14 @@
       "url": null
     },
     "isNew": false,
-    "updated_at": "2026-10-11"
+    "updated_at": "2026-10-11",
+    "legacy_type": "生活精选"
   },
   {
     "id": 1012,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 正方形玻璃食品盒 1.2 L",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "食品盒",
     "model": "003.592.11",
@@ -1290,13 +1310,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/ikea-365-shi-pin-he-zheng-fang-xing-bo-li-00359211/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2001,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 削皮刀",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "005.219.53",
@@ -1360,13 +1381,14 @@
       "长度：17.5 cm",
       "材料：ABS塑料、不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2002,
     "brand": "IKEA 宜家",
     "product": "STENSNULTRA 斯坦纳加 手动切菜器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "006.186.91",
@@ -1431,13 +1453,14 @@
       "高度：19 cm",
       "宽度：13 cm",
       "方式：转动手柄；防滑底部"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2003,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 配料碗3件套",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "905.151.65",
@@ -1502,13 +1525,14 @@
       "直径：18 cm",
       "高度：5 cm",
       "包装：3件"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2004,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 手持擦菜器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "505.219.36",
@@ -1572,13 +1596,14 @@
       "尺寸：23×4×1 cm",
       "材料：不锈钢擦丝面、强化聚丙烯把手",
       "配件：可拆塑料保护套"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2005,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 防滑擦菜器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "404.223.19",
@@ -1642,13 +1667,14 @@
       "长度：26 cm",
       "材料：聚酰胺塑料、合成橡胶、不锈钢",
       "配合：IKEA 365+长方形食品盒"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2006,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ VÄRDEFULL 瓦福 肉凿",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "801.634.08",
@@ -1712,13 +1738,14 @@
       "长度：24 cm",
       "主体：强化聚酰胺塑料",
       "手柄：合成橡胶"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2007,
     "brand": "IKEA 宜家",
     "product": "VARDAGEN 瓦达恩 刨刀",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "603.243.65",
@@ -1782,13 +1809,14 @@
       "长度：13 cm",
       "材料：不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2008,
     "brand": "IKEA 宜家",
     "product": "IDEALISK 艾迪利斯 立式擦菜器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "501.919.07",
@@ -1852,13 +1880,14 @@
       "尺寸：12×10×20 cm",
       "材料：不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2009,
     "brand": "IKEA 宜家",
     "product": "IDEALISK 艾迪利斯 马铃薯压榨器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "801.919.15",
@@ -1923,13 +1952,14 @@
       "长度：24.5 cm",
       "高度：10 cm",
       "直径：8 cm"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2010,
     "brand": "IKEA 宜家",
     "product": "VARDAGEN 瓦达恩 木柄擦皮器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "705.814.82",
@@ -1993,13 +2023,14 @@
       "长度：33 cm",
       "手柄：上油实心山毛榉",
       "擦丝面：不锈钢"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2011,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 黄油刀",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "605.293.81",
@@ -2063,13 +2094,14 @@
       "高度（官网标示）：20.2 cm",
       "材料：聚丙烯塑料、不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2012,
     "brand": "IKEA 宜家",
     "product": "KONCIS 康吉思 压蒜器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "601.735.64",
@@ -2133,13 +2165,14 @@
       "长度：16 cm",
       "构造：可拆内置件",
       "材料：不锈钢、铝、表面镍层"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2013,
     "brand": "IKEA 宜家",
     "product": "SVARTFISK 斯瓦菲斯 厨用剪刀",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "805.627.65",
@@ -2203,13 +2236,14 @@
       "长度：22 cm",
       "材料：不锈钢、聚酰胺塑料",
       "使用：左右手皆可"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2014,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 水果切片刀4件套",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "405.293.96",
@@ -2274,13 +2308,14 @@
       "直径：12.5 cm",
       "高度：7.4 cm",
       "材料：强化聚丙烯塑料、不锈钢"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2015,
     "brand": "IKEA 宜家",
     "product": "STRÅLFENA 斯加芬纳 意大利面餐具",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "605.874.94",
@@ -2344,13 +2379,14 @@
       "长度：30 cm",
       "材料：实心桦木，上油",
       "功能：中孔量2人份意面；齿状捞面"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2016,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 瓶盖开罐器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "405.294.00",
@@ -2415,13 +2451,14 @@
       "长度：21 cm",
       "宽度：10 cm",
       "适配：直径3–7 cm瓶罐盖"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2017,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 鸡蛋切片机",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "406.051.25",
@@ -2485,13 +2522,14 @@
       "尺寸：13×10 cm",
       "材料：抗冲击聚苯乙烯、不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2018,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 长柄带盖锅",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "806.253.29",
@@ -2560,13 +2598,14 @@
       "直径：14 cm",
       "容量：1 L",
       "长度含把手：31 cm"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2019,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 冰淇淋勺",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "206.203.39",
@@ -2630,13 +2669,14 @@
       "长度：18 cm",
       "材料：ABS塑料",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2020,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 柠檬榨汁器",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "705.286.92",
@@ -2700,13 +2740,14 @@
       "直径：15 cm",
       "高度：7 cm",
       "材料：聚丙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2021,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 比萨饼切刀",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "105.219.38",
@@ -2770,13 +2811,14 @@
       "长度：18 cm",
       "手柄：聚丙烯塑料",
       "刀片：不锈钢"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2022,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 制棒冰盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "906.169.18",
@@ -2841,13 +2883,14 @@
       "尺寸：13×13×12 cm",
       "包装：6件",
       "材料：聚丙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2023,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 量杯4件套",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "605.219.74",
@@ -2911,13 +2954,14 @@
       "量杯：1/4、1/3、1/2、1杯",
       "材料：聚丙烯塑料",
       "收纳：可叠放、带挂孔"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2024,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 沙拉甩干机",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "405.219.51",
@@ -2982,13 +3026,14 @@
       "直径：23 cm",
       "高度：16.5 cm",
       "材料：聚丙烯塑料、合成橡胶"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2025,
     "brand": "IKEA 宜家",
     "product": "UPPFYLLD 乌普菲尔德 滤碗",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "205.219.47",
@@ -3053,13 +3098,14 @@
       "直径：24 cm",
       "高度：12 cm",
       "宽度：30 cm"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2026,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 附盖干燥食品储存罐",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "101.340.23",
@@ -3124,13 +3170,14 @@
       "尺寸：17×8×18 cm",
       "容量：1.3 L",
       "罐体：聚苯乙烯-丙烯酸塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2027,
     "brand": "IKEA 宜家",
     "product": "HAVSTOBIS 海思托比思 附盖食品盒5件套",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "705.610.16",
@@ -3195,13 +3242,14 @@
       "盒体：钢化玻璃",
       "盖：聚丙烯塑料",
       "容量范围：1.3、0.7、0.3、0.15 L（页面列出的容量）"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2028,
     "brand": "IKEA 宜家",
     "product": "BESTÄMMA 贝丹玛 附盖玻璃食品盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "304.957.64",
@@ -3266,13 +3314,14 @@
       "尺寸：12×12×6 cm",
       "容量：0.5 L",
       "盒体：钢化玻璃"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2029,
     "brand": "IKEA 宜家",
     "product": "PRUTA 普塔 附盖食品盒3件套",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "605.971.05",
@@ -3337,13 +3386,14 @@
       "单盒：14×14×6 cm",
       "容量：0.6 L/只",
       "包装：3盒附盖"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2030,
     "brand": "IKEA 宜家",
     "product": "IKEA 365+ 附竹盖耐热玻璃食品盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "495.805.35",
@@ -3408,13 +3458,14 @@
       "尺寸：32×21×9 cm",
       "容量：3.1 L",
       "盒体：耐热玻璃"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2031,
     "brand": "IKEA 宜家",
     "product": "KAPTENSFISK 卡普菲斯 分隔午餐盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "506.169.15",
@@ -3479,13 +3530,14 @@
       "容量：0.7 L",
       "尺寸：23×13×6 cm",
       "材料：聚丙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2032,
     "brand": "IKEA 宜家",
     "product": "UTBJUDA 于特布达 可叠放午餐盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "306.071.15",
@@ -3550,13 +3602,14 @@
       "尺寸：17×12×9 cm",
       "分层：0.2 L+0.6 L",
       "材料：聚丙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2033,
     "brand": "IKEA 宜家",
     "product": "SPLITTERNY 斯贝特尼 零食盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "105.862.94",
@@ -3621,13 +3674,14 @@
       "高度：14 cm",
       "容量：300 ml",
       "材料：聚丙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2034,
     "brand": "IKEA 宜家",
     "product": "SMASKA 斯玛卡 儿童午餐盒",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "301.619.30",
@@ -3691,13 +3745,14 @@
       "尺寸：17×18×10 cm",
       "材料：聚丙烯塑料",
       "开合：掰动盖上的耳朵开合"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2035,
     "brand": "IKEA 宜家",
     "product": "ISTAD 艾斯塔 可重复密封袋",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "705.256.55",
@@ -3762,13 +3817,14 @@
       "包装：30只1 L+30只0.4 L",
       "袋内尺寸：18×19 cm、15×15 cm",
       "材料：聚乙烯塑料"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2036,
     "brand": "IKEA 宜家",
     "product": "GULLRISMOTT 古瑞斯默多 土豆食品储物袋",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "805.817.97",
@@ -3833,13 +3889,14 @@
       "尺寸：30×15×20 cm",
       "容量：9 L",
       "袋体：100%黄麻"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2037,
     "brand": "IKEA 宜家",
     "product": "SKUGGSTUBB 斯库斯托 耐热玻璃杯",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "水杯",
     "model": "406.355.04",
@@ -3904,13 +3961,14 @@
       "高度：10 cm",
       "容量：410 ml",
       "材料：耐热玻璃"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2038,
     "brand": "IKEA 宜家",
     "product": "ENVÄLDIG 恩维蒂 随行杯",
-    "type": "生活精选",
+    "type": "餐厨水具",
     "group": "饮水餐具",
     "category": "随行杯",
     "model": "405.115.27",
@@ -3975,13 +4033,14 @@
       "高度：16 cm",
       "容量：350 ml",
       "主体：不锈钢"
-    ]
+    ],
+    "legacy_type": "生活精选"
   },
   {
     "id": 2039,
     "brand": "IKEA 宜家",
     "product": "BEHÖVD 比胡德 玻璃胆保温瓶",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "503.538.91",
@@ -4050,13 +4109,14 @@
       "高度：30 cm",
       "容量：1 L",
       "内胆：玻璃"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2040,
     "brand": "IKEA 宜家",
     "product": "RIKLIG 利克里希 玻璃茶壶",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "301.632.17",
@@ -4121,13 +4181,14 @@
       "高度：13 cm",
       "容量：1.5 L",
       "主体：耐热玻璃"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2041,
     "brand": "IKEA 宜家",
     "product": "UPPHETTA 乌普塔 法压咖啡壶/茶壶",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "802.413.88",
@@ -4192,13 +4253,14 @@
       "高度：22 cm",
       "直径：10 cm",
       "容量：1 L"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2042,
     "brand": "IKEA 宜家",
     "product": "KORKEN 考肯 附塞玻璃瓶",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "002.135.58",
@@ -4263,13 +4325,14 @@
       "高度：29 cm",
       "直径：9 cm",
       "容量：1 L"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2043,
     "brand": "IKEA 宜家",
     "product": "IDEALISK 艾迪利斯 不锈钢茶滤",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "401.798.35",
@@ -4333,13 +4396,14 @@
       "长度：15 cm",
       "材料：不锈钢",
       "清洗：可用于洗碗机"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2044,
     "brand": "IKEA 宜家",
     "product": "MÅTTLIG 莫里格 不锈钢奶泡壶",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "701.632.15",
@@ -4404,13 +4468,14 @@
       "高度：11 cm",
       "容量：0.5 L",
       "材料：不锈钢"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2045,
     "brand": "IKEA 宜家",
     "product": "GLADELIG 格拉德里 陶瓷咖啡滤杯",
-    "type": "家居生活",
+    "type": "餐厨水具",
     "group": "餐厨水具",
     "category": "餐盒餐具",
     "model": "405.948.05",
@@ -4475,13 +4540,14 @@
       "高度：8 cm",
       "直径：11 cm",
       "材料：石瓷、彩釉"
-    ]
+    ],
+    "legacy_type": "家居生活"
   },
   {
     "id": 2046,
     "brand": "IKEA 宜家",
     "product": "DIMPA 迪姆帕 透明储物袋",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物袋",
     "model": "901.877.53",
@@ -4544,13 +4610,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/dimpa-di-mu-pa-chu-wu-dai-tou-ming-90187753/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2047,
     "brand": "IKEA 宜家",
     "product": "PEPPRIG 佩普里格 清洁收纳提篮",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "清洁收纳",
     "model": "204.830.97",
@@ -4613,13 +4680,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-qing-ji-shou-na-ti-lan-20483097/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2048,
     "brand": "IKEA 宜家",
     "product": "RENSARE 雷恩萨瑞 衣类收纳袋3件套",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "衣物收纳",
     "model": "404.325.06",
@@ -4682,13 +4750,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-yi-lei-shou-na-dai-3-jian-tao-fang-ge-tu-an-hui-se-hei-se-40432506/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2049,
     "brand": "IKEA 宜家",
     "product": "PÄRKLA 派克拉 鞋袋",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "鞋履收纳",
     "model": "105.223.82",
@@ -4751,13 +4820,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/paerkla-pai-ke-la-xie-dai-10522382/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2050,
     "brand": "IKEA 宜家",
     "product": "RENSARE 雷恩萨瑞 8 L分装袋",
-    "type": "家居生活",
+    "type": "出行工具",
     "group": "整理收纳",
     "category": "旅行收纳",
     "model": "704.325.00",
@@ -4820,13 +4890,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-dai-fang-ge-tu-an-hei-se-70432500/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2051,
     "brand": "IKEA 宜家",
     "product": "RENSARE 雷恩萨瑞 2.5 L防水袋",
-    "type": "家居生活",
+    "type": "出行工具",
     "group": "整理收纳",
     "category": "旅行收纳",
     "model": "404.820.30",
@@ -4889,13 +4960,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/rensare-lei-en-sa-rui-fang-shui-dai-40482030/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2052,
     "brand": "IKEA 宜家",
     "product": "GULLDYNA 古迪纳 华夫格浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "606.144.78",
@@ -4959,13 +5031,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/gulldyna-gu-di-na-yu-jin-mi-huang-se-60614478/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2053,
     "brand": "IKEA 宜家",
     "product": "LUDDVIAL 鲁德维亚 轻量浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "105.863.45",
@@ -5028,13 +5101,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/luddvial-lu-de-wei-ya-yu-jin-hui-se-10586345/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2054,
     "brand": "IKEA 宜家",
     "product": "VÅGSJÖN 沃格逊 条纹浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "904.946.10",
@@ -5097,13 +5171,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/vagsjoen-wo-ge-xun-yu-jin-qian-mi-se-90494610/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2055,
     "brand": "IKEA 宜家",
     "product": "ÄNGHÖJDEN 安霍顿 无捻纱浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "406.582.13",
@@ -5167,13 +5242,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/aenghoejden-an-huo-dun-yu-jin-qian-fen-se-40658213/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2056,
     "brand": "IKEA 宜家",
     "product": "BROKGINST 布洛金斯 双面浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "706.144.06",
@@ -5237,13 +5313,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/brokginst-bu-luo-jin-si-yu-jin-hei-se-70614406/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2057,
     "brand": "IKEA 宜家",
     "product": "BROKGLIM 布洛克林 厚棉浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "006.289.11",
@@ -5306,13 +5383,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/brokglim-bu-luo-ke-lin-yu-jin-bai-se-00628911/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2058,
     "brand": "IKEA 宜家",
     "product": "VALLASÅN 沃拉松 棉粘胶浴巾",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "床品卫浴",
     "category": "浴巾",
     "model": "705.313.31",
@@ -5375,13 +5453,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/vallasan-wo-la-song-yu-jin-qian-lu-70531331/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2059,
     "brand": "IKEA 宜家",
     "product": "ENUDDEN 安努登 房门式挂衣钩",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "门后挂钩",
     "model": "402.516.66",
@@ -5444,13 +5523,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/enudden-an-nu-deng-fang-men-shi-gua-yi-gou-bai-se-40251666/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2060,
     "brand": "IKEA 宜家",
     "product": "HÖVOLM 赫沃姆 橡木六钩衣帽架",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "衣帽挂钩",
     "model": "905.000.60",
@@ -5513,13 +5593,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/hoevolm-he-wo-mu-liu-gou-yi-mao-jia-xiang-mu-90500060/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2061,
     "brand": "IKEA 宜家",
     "product": "GRESLA 格雷斯拉 磁性挂钩4件套",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "磁性挂钩",
     "model": "506.345.18",
@@ -5582,13 +5663,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/gresla-ge-lei-si-la-dai-ci-xing-gua-gou-duo-se-50634518/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2062,
     "brand": "IKEA 宜家",
     "product": "ÅKERBRUK 阿克布鲁 壁式储物挂钩架",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "墙壁置物",
     "model": "605.540.78",
@@ -5651,13 +5733,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/akerbruk-a-ke-bu-lu-bi-shi-chu-wu-jian-dai-gua-gou-60554078/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2063,
     "brand": "IKEA 宜家",
     "product": "ALFTA 艾尔福塔 自粘画框挂钩",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "画框挂钩",
     "model": "903.828.44",
@@ -5720,13 +5803,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/alfta-ai-er-fu-ta-kuang-jia-yong-zi-nian-gua-gou-bai-se-90382844/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2064,
     "brand": "IKEA 宜家",
     "product": "KLYKET 克吕凯 折叠挂钩3件套",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "折叠挂钩",
     "model": "905.035.96",
@@ -5789,13 +5873,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/klyket-ke-lu-kai-zhe-die-gua-gou-lu-mi-huang-se-90503596/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2065,
     "brand": "IKEA 宜家",
     "product": "VALASJÖN 瓦拉雪恩 房门式挂衣钩",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "门后挂钩",
     "model": "506.199.47",
@@ -5858,13 +5943,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/valasjoen-wa-la-xue-en-fang-men-shi-gua-yi-gou-50619947/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2066,
     "brand": "IKEA 宜家",
     "product": "SKOGHALL 斯哥奥 自粘挂钩3件套",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "墙面收纳",
     "category": "自粘挂钩",
     "model": "305.678.31",
@@ -5928,13 +6014,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/skoghall-si-ge-ao-zi-nian-gua-gou-du-ge-30567831/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2067,
     "brand": "IKEA 宜家",
     "product": "FORSÅ 芙萨 可调工作灯",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "照明灯具",
     "category": "工作灯",
     "model": "901.467.91",
@@ -5998,13 +6085,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/forsa-fu-sa-gong-zuo-deng-du-nie-90146791/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2068,
     "brand": "IKEA 宜家",
     "product": "BLÅSVERK 布洛威 台灯",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "照明灯具",
     "category": "氛围台灯",
     "model": "105.209.29",
@@ -6068,13 +6156,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/blasverk-bu-luo-wei-tai-deng-mi-huang-se-10520929/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2069,
     "brand": "IKEA 宜家",
     "product": "NÖDMAST 诺德茂思 便携LED灯",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "照明灯具",
     "category": "便携灯",
     "model": "705.759.14",
@@ -6138,13 +6227,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/noedmast-nuo-de-mao-si-bian-xi-l-ed-deng-dian-chi-gong-dian-dan-fen-hong-se-shen-hui-lu-se-70575914/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2070,
     "brand": "IKEA 宜家",
     "product": "SVALLET 斯瓦雷特 工作灯",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "照明灯具",
     "category": "工作灯",
     "model": "903.584.91",
@@ -6208,13 +6298,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/svallet-si-wa-lei-te-gong-zuo-deng-shen-hui-se-bai-se-90358491/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2071,
     "brand": "IKEA 宜家",
     "product": "FADO 法多 球形玻璃台灯",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "照明灯具",
     "category": "氛围台灯",
     "model": "400.963.74",
@@ -6278,13 +6369,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/fado-fa-duo-tai-deng-bai-se-40096374/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2072,
     "brand": "IKEA 宜家",
     "product": "UPPSNOFSAD 乌普诺萨 3.5 L储物盒",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物盒",
     "model": "206.442.84",
@@ -6347,13 +6439,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/uppsnofsad-wu-pu-nuo-sa-chu-wu-he-tou-ming-bai-se-20644284/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2073,
     "brand": "IKEA 宜家",
     "product": "KUGGIS 库吉斯 附盖储物盒",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物盒",
     "model": "795.611.87",
@@ -6416,13 +6509,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/kuggis-ku-ji-si-fu-gai-chu-wu-he-bai-se-s79561187/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2074,
     "brand": "IKEA 宜家",
     "product": "NOJIG 诺伊格 小型收纳盒",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "抽屉收纳",
     "model": "004.770.40",
@@ -6483,13 +6577,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/nojig-nuo-yi-ge-shou-na-he-su-liao-mi-huang-se-00477040/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2075,
     "brand": "IKEA 宜家",
     "product": "GLIS 格利思 附盖收纳盒3件套",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "整理收纳",
     "category": "文具收纳",
     "model": "606.041.15",
@@ -6552,13 +6647,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/glis-ge-li-si-fu-gai-chu-wu-he-hong-se-fen-hong-se-huang-se-60604115/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2076,
     "brand": "IKEA 宜家",
     "product": "PANSARTAX 潘萨塔 2.5 L附盖储物盒",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物盒",
     "model": "005.150.23",
@@ -6621,13 +6717,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pansartax-pan-sa-ta-fu-gai-chu-wu-he-tou-ming-lan-hui-se-00515023/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2077,
     "brand": "IKEA 宜家",
     "product": "FJÄDERHARV 弗耶德哈 两斗储物盒",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "整理收纳",
     "category": "文件收纳",
     "model": "305.969.18",
@@ -6690,13 +6787,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/fjaederharv-fu-ye-de-ha-liang-dou-chu-wu-he-bai-se-30596918/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2078,
     "brand": "IKEA 宜家",
     "product": "FLÅDIS 弗拉迪 海草编织篮",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物篮",
     "model": "403.221.74",
@@ -6759,13 +6857,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/fladis-fu-la-di-lan-hai-cao-40322174/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2079,
     "brand": "IKEA 宜家",
     "product": "SOCKERBIT 索克比 杂物盒",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "工具收纳",
     "model": "703.161.81",
@@ -6828,13 +6927,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/sockerbit-suo-ke-bi-he-bai-se-70316181/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2080,
     "brand": "IKEA 宜家",
     "product": "TJABBIG 夏比格 棉绳篮筐",
-    "type": "家居生活",
+    "type": "家居日用",
     "group": "整理收纳",
     "category": "储物篮",
     "model": "605.326.04",
@@ -6895,13 +6995,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/tjabbig-xia-bi-ge-lan-kuang-zi-ran-se-60532604/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2081,
     "brand": "IKEA 宜家",
     "product": "DRÖNJÖNS 德瑞约恩 信盘2件套",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "办公收纳",
     "category": "文件收纳",
     "model": "404.288.25",
@@ -6965,13 +7066,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/droenjoens-de-rui-yue-en-xin-pan-bai-se-40428825/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2082,
     "brand": "IKEA 宜家",
     "product": "VATTENKAR 瓦滕卡 桌面搁架",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "办公收纳",
     "category": "桌面搁架",
     "model": "005.415.69",
@@ -7035,13 +7137,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/vattenkar-wa-teng-qia-zhuo-mian-ge-jia-bai-se-00541569/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2083,
     "brand": "IKEA 宜家",
     "product": "FODERTRÅG 福德特劳 书桌/壁装收纳件",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "办公收纳",
     "category": "桌面收纳",
     "model": "405.907.65",
@@ -7104,13 +7207,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/fodertrag-fu-de-te-lao-shu-zhuo-bi-zhuang-shou-na-jian-dan-hui-se-40590765/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2084,
     "brand": "IKEA 宜家",
     "product": "HAVREHOJ 哈勒霍 平板电脑支架",
-    "type": "家居生活",
+    "type": "数码家电",
     "group": "办公收纳",
     "category": "平板支架",
     "model": "005.345.78",
@@ -7174,13 +7278,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/havrehoj-ha-le-huo-ping-ban-dian-nao-zhi-jia-00534578/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2085,
     "brand": "IKEA 宜家",
     "product": "LILLNAGGEN 利纳根 玻璃清洁刮板",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "玻璃刮板",
     "model": "202.435.97",
@@ -7241,13 +7346,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/lillnaggen-li-na-gen-bo-li-qing-ji-gua-ban-20243597/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2086,
     "brand": "IKEA 宜家",
     "product": "STACKSTOD 斯塔斯多 办公桌收纳件",
-    "type": "家居生活",
+    "type": "学习办公",
     "group": "办公收纳",
     "category": "桌面收纳",
     "model": "306.201.45",
@@ -7310,13 +7416,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/stackstod-si-ta-si-duo-ban-gong-zhuo-shou-na-jian-hong-se-30620145/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2087,
     "brand": "IKEA 宜家",
     "product": "PEPPRIG 佩普里格 挤压清洁平板拖把",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "平板拖把",
     "model": "305.698.54",
@@ -7380,13 +7487,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-ji-ya-qing-ji-ping-ban-tuo-ba-hui-se-30569854/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2088,
     "brand": "IKEA 宜家",
     "product": "PEPPRIG 佩普里格 可折叠脸盆",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "脸盆",
     "model": "405.677.22",
@@ -7449,13 +7557,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-lian-pen-ke-zhe-die-huang-se-40567722/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2089,
     "brand": "IKEA 宜家",
     "product": "PEPPRIG 佩普里格 簸箕扫帚套装",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "扫帚簸箕",
     "model": "705.676.31",
@@ -7518,13 +7627,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-bo-ji-sao-zhou-hui-se-lu-se-70567631/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2090,
     "brand": "IKEA 宜家",
     "product": "PEPPRIG 佩普里格 550 mL洒水瓶",
-    "type": "家居生活",
+    "type": "清洁纸品",
     "group": "清洁工具",
     "category": "喷壶",
     "model": "905.014.32",
@@ -7587,13 +7697,14 @@
       "source_urls": [
         "https://www.ikea.cn/cn/zh/p/pepprig-pei-pu-li-ge-sa-shui-ping-90501432/"
       ]
-    }
+    },
+    "legacy_type": "家居生活"
   },
   {
     "id": 2091,
     "brand": "Nike 耐克",
     "product": "Nike Elite 2.0 舒适速干中筒运动袜（1 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "球类运动",
     "category": "运动配件",
     "model": "HM0285-500",
@@ -7657,13 +7768,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/elite-2-%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-lne43Ape/HM0285-500"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2092,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Lightweight 速干中筒训练袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "运动袜",
     "model": "SX7676-903",
@@ -7728,13 +7840,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%AE%AD%E7%BB%83%E8%A2%9C3-%E5%8F%8C-d9vLkAkW/SX7676-903"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2093,
     "brand": "Nike 耐克",
     "product": "Nike Club 钥匙扣",
-    "type": "运动户外",
+    "type": "出行工具",
     "group": "户外恢复",
     "category": "出行配件",
     "model": "HF3594-083",
@@ -7796,13 +7909,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/club-%E9%92%A5%E5%8C%99%E6%89%A3-D7W2Zrus/HF3594-083"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2094,
     "brand": "Nike 耐克",
     "product": "Nike Club 挂绳",
-    "type": "运动户外",
+    "type": "出行工具",
     "group": "户外恢复",
     "category": "出行配件",
     "model": "HF3596-312",
@@ -7866,13 +7980,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/club-%E6%8C%82%E7%BB%B3-HqplEnKQ/HF3596-312"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2095,
     "brand": "Nike 耐克",
     "product": "NikeGrip Studio 女子速干训练浅口袜（1 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "游泳健身",
     "category": "训练袜",
     "model": "SK0113-570",
@@ -7936,7 +8051,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/nikegrip-studio-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E6%B5%85%E5%8F%A3%E8%A2%9C1-%E5%8F%8C-MaCojJNx/SK0113-570"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2096,
@@ -8004,13 +8120,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/kobe-bryant-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E8%87%82%E5%B8%A61-%E5%8F%AA-qpdEGcCi/IW7957-027"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2097,
     "brand": "Nike 耐克",
     "product": "Nike Core Swoosh 婴童运动短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "儿童运动袜",
     "model": "CU3604-664",
@@ -8072,13 +8189,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/core-swoosh-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-6wCxAPiQ/CU3604-664"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2098,
     "brand": "Nike 耐克",
     "product": "Nike Snow Day 幼童中筒运动袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "儿童运动袜",
     "model": "IQ2821-126",
@@ -8140,13 +8258,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/snow-day-%E5%B9%BC%E7%AB%A5%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-RQlP9WXC/IQ2821-126"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2099,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Plus 大童速干中筒运动袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "儿童运动袜",
     "model": "HM6946-901",
@@ -8209,13 +8328,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-plus-%E5%A4%A7%E7%AB%A5%E8%88%92%E9%80%82%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-btV0gZ9t/HM6946-901"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2100,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Elevated 速干运动短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "运动袜",
     "model": "IH8523-906",
@@ -8280,13 +8400,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-JEn4HX8T/IH8523-906"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2101,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Lightweight 速干训练短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "运动袜",
     "model": "SX7677-906",
@@ -8351,13 +8472,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-lightweight-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-weuzQ5N5/SX7677-906"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2102,
     "brand": "Jordan",
     "product": "Jordan Everyday 速干运动短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "球类运动",
     "category": "运动袜",
     "model": "DX9655-100",
@@ -8421,13 +8543,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/jordan-everyday-%E9%80%9F%E5%B9%B2%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-d3lxurQR/DX9655-100"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2103,
     "brand": "Jordan",
     "product": "Jordan Americana 婴童运动短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "儿童运动袜",
     "model": "IZ7518-657",
@@ -8489,13 +8612,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/jordan-americana-%E5%A9%B4%E7%AB%A5%E8%BF%90%E5%8A%A8%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-5k6qMPsH/IZ7518-657"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2104,
     "brand": "Jordan",
     "product": "Jordan 大童条纹短袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "儿童运动袜",
     "model": "HM4781-010",
@@ -8557,7 +8681,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/jordan-%E5%A4%A7%E7%AB%A5%E6%9D%A1%E7%BA%B9%E7%9F%AD%E8%A2%9C3-%E5%8F%8C-28gpnsoj/HM4781-010"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2105,
@@ -8627,7 +8752,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/skills-%E7%AF%AE%E7%90%83-zTtCrbHZ/BB0634-563"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2106,
@@ -8698,7 +8824,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/skills-%E8%B6%B3%E7%90%83-um4YuOAr/IQ0648-100"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2107,
@@ -8766,7 +8893,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/kobe-nike-dri-fit-%E7%A7%91%E6%AF%94%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-iI2XpJeQ/IW7960-027"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2108,
@@ -8834,13 +8962,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/swoosh-classic-%E6%8A%A4%E8%85%951-%E5%AF%B9-KIXObTU8"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2109,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Elevated 速干高筒运动袜（1 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "运动袜",
     "model": "IO1846-100",
@@ -8903,13 +9032,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C1-%E5%8F%8C-nHw7SwR6/IO1846-100"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2110,
     "brand": "Nike 耐克",
     "product": "Nike Academy 速干高筒足球袜（1 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "球类运动",
     "category": "足球袜",
     "model": "SX4120-402",
@@ -8971,13 +9101,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/academy-%E9%80%9F%E5%B9%B2%E9%AB%98%E7%AD%92%E8%B6%B3%E7%90%83%E8%A2%9C1-%E5%8F%8C-pmUGWjAM/SX4120-402"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2111,
     "brand": "Nike 耐克",
     "product": "Nike Pacer Dri-FIT 速干跑步手套（1 副）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "跑步手套",
     "model": "HM9024-318",
@@ -9041,13 +9172,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/pacer-dri-fit-%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%89%8B%E5%A5%971-%E5%89%AF-tFzvBaZU/HM9024-318"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2112,
     "brand": "Nike 耐克",
     "product": "Nike Refuel 0.95L 挤压式水壶",
-    "type": "运动户外",
+    "type": "餐厨水具",
     "group": "游泳健身",
     "category": "运动水壶",
     "model": "IR8702-069",
@@ -9110,13 +9242,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/refuel-0-95l-%E6%8C%A4%E5%8E%8B%E5%BC%8F%E6%B0%B4%E5%A3%B6-HRbCqbSI/IR8702-069"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2113,
     "brand": "Nike 耐克",
     "product": "Nike Club 收纳袋式钱包",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "户外恢复",
     "category": "出行配件",
     "model": "IQ6092-138",
@@ -9180,7 +9313,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/club-%E6%94%B6%E7%BA%B3%E8%A2%8B%E5%BC%8F%E9%92%B1%E5%8C%85-yegLEaH8/IQ6092-138"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2114,
@@ -9248,13 +9382,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/nikecourt-%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E5%A4%B4%E5%B8%A61-%E6%9D%A1-eIZQJiWj/DD4490-374"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2115,
     "brand": "Nike 耐克",
     "product": "Nike Club Premier 软顶足球运动帽",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "户外恢复",
     "category": "运动帽",
     "model": "IV7540-065",
@@ -9316,13 +9451,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/club-premier-%E8%BD%AF%E9%A1%B6%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%B8%BD-eXQL5Re8/IV7540-065"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2116,
     "brand": "Nike 耐克",
     "product": "Nike Dri-FIT ADV Ace 速干遮阳帽",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "户外恢复",
     "category": "遮阳帽",
     "model": "FB6443-010",
@@ -9386,7 +9522,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/dri-fit-adv-ace-%E7%B1%B3%E6%8B%89%E5%90%8C%E6%AC%BE%E9%80%9F%E5%B9%B2%E9%81%AE%E9%98%B3%E5%B8%BD-tdKbG9"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2117,
@@ -9455,7 +9592,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/kobe-signature-%E7%A7%91%E6%AF%94%E7%AF%AE%E7%90%83-V6jX9XJr/IW8002-039"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2118,
@@ -9526,7 +9664,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/infinity-gametack-%E5%AE%A4%E5%86%85-%E6%88%B7%E5%A4%96%E7%AF%AE%E7%90%83-6zJDCpgE/IW7923-855"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2119,
@@ -9595,7 +9734,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/dri-fit-2-%E8%BD%BB%E4%BE%BF%E5%9E%8B%E9%98%B2%E6%99%92%E9%80%9F%E5%B9%B2%E8%B7%91%E6%AD%A5%E6%8A%A4%E8%87%821-%E5%89%AF-dkMrw4/DX7120-318"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2120,
@@ -9663,7 +9803,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/pitch-%E8%B6%B3%E7%90%83-Qu8i8mho/IQ0646-710"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2121,
@@ -9731,13 +9872,14 @@
       "source_urls": [
         "https://www.nike.com.cn/t/pro-%E9%80%9F%E5%B9%B2%E8%AE%AD%E7%BB%83%E8%84%9A%E8%B8%9D%E6%8A%A4%E5%A5%971-%E5%8F%AA-DVQ6cILl/DA6929-010"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2122,
     "brand": "Nike 耐克",
     "product": "Nike Everyday Elevated 速干中筒运动袜（3 双）",
-    "type": "运动户外",
+    "type": "服饰鞋包",
     "group": "跑步骑行",
     "category": "运动袜",
     "model": "HQ4335-915",
@@ -9802,7 +9944,8 @@
       "source_urls": [
         "https://www.nike.com.cn/t/everyday-elevated-%E9%80%9F%E5%B9%B2%E4%B8%AD%E7%AD%92%E8%BF%90%E5%8A%A8%E8%A2%9C3-%E5%8F%8C-H1jNtaap/HQ4335-915"
       ]
-    }
+    },
+    "legacy_type": "运动户外"
   },
   {
     "id": 2123,
@@ -9882,7 +10025,8 @@
       "source_urls": [
         "https://www.casio.com.cn/scientific-calculators/product.FX-82CN-CW-2/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2124,
@@ -9962,7 +10106,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.MS-20UC-PK/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2125,
@@ -10042,7 +10187,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.MX-12B-LB/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2126,
@@ -10122,7 +10268,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.GY-120-RD/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2127,
@@ -10202,7 +10349,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.AX-120B/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2128,
@@ -10282,7 +10430,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.GX-12B/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2129,
@@ -10362,7 +10511,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.DY-120-RDG/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2130,
@@ -10443,7 +10593,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.DS-2D/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2131,
@@ -10523,7 +10674,8 @@
       "source_urls": [
         "https://www.casio.com.cn/basic-calculators/product.DX-120B/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2132,
@@ -10603,7 +10755,8 @@
       "source_urls": [
         "https://www.casio.com.cn/scientific-calculators/product.FC-01A/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2133,
@@ -10683,7 +10836,8 @@
       "source_urls": [
         "https://www.casio.com.cn/scientific-calculators/product.FX-95CN-CW-2/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2134,
@@ -10763,7 +10917,8 @@
       "source_urls": [
         "https://www.casio.com.cn/scientific-calculators/product.FX-999CN-CW-2/"
       ]
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2135,
@@ -10854,7 +11009,8 @@
       "url": "https://img.muji.com.cn/img/item/4550344084731_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2136,
@@ -10941,7 +11097,8 @@
       "url": "https://webimg.muji.com.cn/oms916010678/1a0bba3b-fd3b-469b-ba96-6dd40919669f.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2137,
@@ -11030,7 +11187,8 @@
       "url": "https://img.muji.com.cn/img/item/4550344084373_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2138,
@@ -11119,7 +11277,8 @@
       "url": "https://img.muji.com.cn/img/item/4550344084175_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2139,
@@ -11206,7 +11365,8 @@
       "url": "https://img.muji.com.cn/img/item/4945247421347_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2140,
@@ -11295,7 +11455,8 @@
       "url": "https://img.muji.com.cn/img/item/4550002553210_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2141,
@@ -11383,7 +11544,8 @@
       "url": "https://webimg.muji.com.cn/oms916012152/033b15f3-0106-42b3-9095-a321b4124773.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2142,
@@ -11472,7 +11634,8 @@
       "url": "https://webimg.muji.com.cn/oms916012284/01225818-8fb8-44d4-9344-6a2648a4284f.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2143,
@@ -11562,7 +11725,8 @@
       "url": "https://webimg.muji.com.cn/oms3907/b26b16e7-e2e4-4b16-9430-761c06c7e3dd.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2144,
@@ -11652,7 +11816,8 @@
       "url": "https://webimg.muji.com.cn/oms3907/f3e5a834-3ee3-44d1-ad36-562d488419fb.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2145,
@@ -11738,7 +11903,8 @@
       "url": "https://img.muji.com.cn/img/item/4550344902660_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2146,
@@ -11826,7 +11992,8 @@
       "url": "https://img.muji.com.cn/img/item/4550002555771_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2147,
@@ -11913,7 +12080,8 @@
       "url": "https://img.muji.com.cn/img/item/4550002555658_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2148,
@@ -12002,7 +12170,8 @@
       "url": "https://webimg.muji.com.cn/oms916012658/6ab9152e-dc31-491f-ba30-fd531f3b46b9.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2149,
@@ -12089,7 +12258,8 @@
       "url": "https://img.muji.com.cn/img/item/4550583768126_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2150,
@@ -12178,7 +12348,8 @@
       "url": "https://img.muji.com.cn/img/item/4550583693510_01_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2151,
@@ -12267,7 +12438,8 @@
       "url": "https://webimg.muji.com.cn/oms61806189/bc0edaba-eb47-41b5-b2b7-64cdddfc5d0c.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2152,
@@ -12354,7 +12526,8 @@
       "url": "https://img.muji.com.cn/img/item/4550344072912_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2153,
@@ -12443,7 +12616,8 @@
       "url": "https://img.muji.com.cn/img/item/4548076369479_400.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   },
   {
     "id": 2154,
@@ -12531,6 +12705,7 @@
       "url": "https://webimg.muji.com.cn/oms916014155/f46b7c05-0429-4bae-ad19-4ed18343fd9c.jpg",
       "label": "原厂商城所选SKU商品图",
       "checked_at": "2026-10-14"
-    }
+    },
+    "legacy_type": "学习办公"
   }
 ]

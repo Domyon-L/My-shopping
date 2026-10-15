@@ -5,6 +5,7 @@ import {JSDOM} from 'jsdom';
 import {boot} from './helpers.mjs';
 import {wormholeFrame,wormholeMesh} from '../dist/wormhole-core.mjs';
 import {normalizePreferences} from '../dist/personal-core.mjs';
+import {LEGACY_INTEREST_TYPES} from '../dist/taxonomy-core.mjs';
 
 function renderFrame(b,t){for(const [id,fn]of [...b.frames]){b.frames.delete(id);fn(t);}}
 
@@ -57,6 +58,7 @@ test('effects can stop and resume a passage while its calm fallback and controls
 
 test('galaxy and crimson moods persist while existing budget, interest and daylight preferences remain valid',()=>{
  const old=normalizePreferences({nickname:'小星',budget:50,interests:['家居生活'],accent:'coral'});assert.equal(old.cosmicTone,'galaxy');assert.equal(old.budget,50);assert.equal(old.accent,'coral');assert.equal(normalizePreferences({cosmicTone:'invalid'}).cosmicTone,'galaxy');
+ assert.equal(old.schema_version,21);assert.deepEqual(old.legacy_interests,['家居生活']);assert.deepEqual(old.interests,LEGACY_INTEREST_TYPES['家居生活']);assert.deepEqual(normalizePreferences(old),old);
  const b=boot();let saved;try{
   b.click('.personal-header');b.$('#personalCosmicTone').value='crimson';b.$('#personalForm').dispatchEvent(new b.w.Event('submit',{bubbles:true,cancelable:true}));saved=b.w.localStorage.getItem('domyon-preferences');assert.equal(b.w.document.documentElement.dataset.cosmicTone,'crimson');assert.equal(b.$('#resultCount').textContent,'1000 件');assert.deepEqual(b.errors,[]);
  }finally{b.dom.window.close();}

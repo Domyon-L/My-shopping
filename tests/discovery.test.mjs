@@ -43,14 +43,16 @@ test('personal preferences persist and affect only the requested personal discov
  const b=boot();let saved;try{
   const {$,w,click}=b;click('.personal-header');assert($('#personalDialog').open);
   $('#personalNickname').value='小星';$('#personalBudget').value='50';$('#personalScene').value='宿舍';$('#personalIntensity').value='quiet';
-  $('#personalInterests [value="家居生活"]').checked=true;$('#personalForm [name=accent][value=coral]').checked=true;
+  $('#personalInterests [value="家居日用"]').checked=true;$('#personalForm [name=accent][value=coral]').checked=true;
   $('#personalForm').dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));saved=w.localStorage.getItem('domyon-preferences');
   assert.equal(w.document.documentElement.dataset.accent,'coral');assert.equal(w.document.documentElement.dataset.intensity,'quiet');assert($('#personalGreeting').textContent.includes('小星'));assert.equal($('#resultCount').textContent,'1000 件');
-  click('[data-close="personalDialog"]');click('#personalDiscover');assert.equal($('#resultCount').textContent,'2 件');
-  assert([...w.document.querySelectorAll('#products .product-card')].every(n=>{const x=w.CATALOG.items.find(x=>x.id===Number(n.dataset.product));return x.type==='家居生活'&&x.tags.includes('宿舍')&&withinBudget(x,50)&&x.review.status==='documented';}));
+  const prefs=JSON.parse(saved);assert.equal(prefs.schema_version,21);assert.deepEqual(prefs.interests,['家居日用']);assert.deepEqual(prefs.legacy_interests,[]);
+  click('[data-close="personalDialog"]');click('#personalDiscover');
+  const expected=filterCatalog(w.CATALOG.items,{...freshState(),scope:'documented',max:50,scene:'宿舍',preferredTypes:['家居日用'],personalOnly:true},[],now);assert(expected.length);assert(expected.some(x=>x.id===683));assert(!expected.some(x=>x.id===1012));assert.equal($('#resultCount').textContent,expected.length+' 件');
+  assert([...w.document.querySelectorAll('#products .product-card')].every(n=>{const x=w.CATALOG.items.find(x=>x.id===Number(n.dataset.product));return x.type==='家居日用'&&x.tags.includes('宿舍')&&withinBudget(x,50)&&x.review.status==='documented';}));
   $('.header .brand').dispatchEvent(new w.MouseEvent('click',{bubbles:true,cancelable:true}));assert.equal($('#resultCount').textContent,'1000 件');assert.deepEqual(b.errors,[]);
  }finally{b.dom.window.close();}
- const again=boot({'domyon-preferences':saved});try{assert(again.$('#personalGreeting').textContent.includes('小星'));assert.equal(again.w.document.documentElement.dataset.accent,'coral');assert.equal(again.$('#resultCount').textContent,'1000 件');}finally{again.dom.window.close();}
+ const again=boot({'domyon-preferences':saved});try{assert(again.$('#personalGreeting').textContent.includes('小星'));assert.equal(again.w.document.documentElement.dataset.accent,'coral');assert.equal(again.$('#resultCount').textContent,'1000 件');again.click('.personal-header');assert(again.$('#personalInterests [value="家居日用"]').checked);}finally{again.dom.window.close();}
  assert.deepEqual(normalizePreferences({budget:-1,interests:['unknown'],accent:'bad',intensity:'bad'}),normalizePreferences());
 });
 

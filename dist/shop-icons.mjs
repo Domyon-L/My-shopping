@@ -9,7 +9,11 @@ export const SHOP_ICON_PATHS=[
  'M9 3h6v6h6v6h-6v6H9v-6H3V9h6z',
  'M7 3h10v3l2 3v12H5V9l2-3z M5 12h14',
  'M4 18 15 7 M2 16l4 4 M14 4l6 6 M16 2l6 6 M6 14l4 4',
- 'M5 3h14v18H5z M9 7h6 M9 11h6 M9 15h4'
+ 'M5 3h14v18H5z M9 7h6 M9 11h6 M9 15h4',
+ 'M6 10h10l2 11H4z M9 10V4h7 M11 4V2 M7 15h8',
+ 'M12 4a8 8 0 1 0 0 16a8 8 0 1 0 0-16 M12 7a5 5 0 1 0 0 10a5 5 0 1 0 0-10',
+ 'M8 4h8v3H8z M5 7h14v14H5z M9 7v14 M15 7v14',
+ 'M3 3h7v7H3z M14 3h7v7h-7z M3 14h7v7H3z M14 14h7v7h-7z'
 ];
-const types=['数码科技','服饰穿搭','鞋履配件','个护美妆','家居生活','生活精选','玩具潮玩','健康常备','食品饮品','运动户外','学习办公'];
-export function shopIcon(type){return `<svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="${SHOP_ICON_PATHS[Math.max(0,types.indexOf(type))]}"/></svg>`;}
+const typeIcons={'清洁纸品':11,'家居日用':4,'餐厨水具':12,'个护美妆':3,'服饰鞋包':1,'学习办公':10,'数码家电':0,'运动户外':9,'食品饮品':8,'出行工具':13,'玩具文娱':6,'健康用品':7};
+export function shopIcon(type){return `<svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="${SHOP_ICON_PATHS[typeIcons[type]??14]}"/></svg>`;}
