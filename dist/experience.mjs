@@ -49,12 +49,31 @@ function drawTunnel(){
  const seed=i=>{const a=Math.random()*Math.PI*2,r=.08+Math.random()*.76;return {x:Math.cos(a)*r,y:Math.sin(a)*r,z:Math.random(),angle:0,color:colors[i%colors.length]};};
  const stars=Array.from({length:w<600?230:470},(_,i)=>seed(i));
  const icons=Array.from({length:w<600?8:16},(_,i)=>({...seed(i),z:(i+.3)/(w<600?8:16),path:typeof Path2D==='function'?new Path2D(SHOP_ICON_PATHS[i%SHOP_ICON_PATHS.length]):null}));
+ const debris=Array.from({length:w<600?42:96},(_,i)=>({...seed(i),spin:Math.random()*6.28,verts:3+i%3,scale:.55+Math.random()*.75}));
+ const orbs=Array.from({length:w<600?9:20},(_,i)=>({...seed(i),orb:1.6+Math.random()*2.6}));
+ const glyphChars=['✦','◈','⟡','◇','⬡','✧'];
+ const glyphs=Array.from({length:w<600?6:14},(_,i)=>({...seed(i),ch:glyphChars[i%glyphChars.length],tilt:(Math.random()-.5)*.8}));
+ const comets=Array.from({length:w<600?2:4},(_,i)=>({...seed(i),speed:.35+Math.random()*.5,len:.10+Math.random()*.13,glow:i%2===0}));
+ const puffs=Array.from({length:w<600?4:7},(_,i)=>({x:.12+Math.random()*.76,y:.15+Math.random()*.7,r:.12+Math.random()*.2,c:i%3,depth:.18+Math.random()*.34}));
  const draw=t=>{
   portalFrame=0;if(!portal.open||reduce.matches||!effects||document.hidden)return;
   const p=Math.max(0,Math.min((t-portalStart)/activeDuration,1)),f=wormholeFrame(p,w,h);
   const shake=Math.min(7,f.warp*f.warp*7);ctx.setTransform(dpr,0,0,dpr,Math.sin(t*.085)*shake,Math.cos(t*.11)*shake);paintNightSky(ctx,night,w,h,p*2.6,p);
   const shade=ctx.createRadialGradient(f.cx,f.cy,0,f.cx,f.cy,Math.max(w,h)*.60);shade.addColorStop(0,'rgba(2,1,10,.80)');shade.addColorStop(.32,'rgba(10,4,28,.30)');shade.addColorStop(1,'rgba(0,0,6,.35)');ctx.fillStyle=shade;ctx.fillRect(0,0,w,h);
   paintWormhole(ctx,f,wormholeMesh(f,w<600?14:22,w<600?36:56),crimson);ctx.globalCompositeOperation='screen';
+  for(const q of puffs){
+   const px=(q.x+Math.sin(p*2.2+q.depth*9)*.03)*w,py=(q.y+Math.cos(p*1.7+q.depth*7)*.03)*h,pr=Math.max(w,h)*q.r*(1+p*.25);
+   const col=q.c===0?'120,90,220':q.c===1?'60,120,200':'150,80,190';
+   const pg=ctx.createRadialGradient(px,py,0,px,py,pr);
+   pg.addColorStop(0,`rgba(${col},${.05+f.warp*.06})`);pg.addColorStop(.5,`rgba(${col},${.022+f.warp*.03})`);pg.addColorStop(1,`rgba(${col},0)`);
+   ctx.fillStyle=pg;ctx.fillRect(px-pr,py-pr,pr*2,pr*2);
+  }
+  for(const gl of glyphs){
+   const point=projectTunnel({...gl,angle:p*.55},p,w,h);
+   if(point.alpha<.05||point.x<-40||point.y<-40||point.x>w+40||point.y>h+40)continue;
+   ctx.save();ctx.translate(point.x,point.y);ctx.rotate(gl.tilt+(1-point.z)*.9);ctx.globalAlpha=point.alpha*.5;ctx.fillStyle=`rgb(${gl.color})`;
+   ctx.font=Math.max(9,point.size*.55)+'px system-ui,sans-serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(gl.ch,0,0);ctx.restore();
+  }
   for(const s of stars){
    const point=projectTunnel({...s,angle:p*.9+(1-s.z)*p*.3},p,w,h);
    if(point.x<-80||point.y<-80||point.x>w+80||point.y>h+80)continue;
@@ -62,10 +81,39 @@ function drawTunnel(){
    ctx.beginPath();ctx.moveTo(point.tailX,point.tailY);ctx.lineTo((point.tailX+point.x)*.5-(point.y-f.cy)*.018,(point.tailY+point.y)*.5+(point.x-f.cx)*.018);ctx.lineTo(point.x,point.y);ctx.stroke();
    if(point.z>.35){ctx.fillStyle=`rgba(${s.color},${point.alpha})`;ctx.beginPath();ctx.arc(point.x,point.y,1.1,0,Math.PI*2);ctx.fill();}
   }
+  for(const d of debris){
+   const point=projectTunnel({...d,angle:p*.7+(1-d.z)*p*.25},p,w,h);
+   if(point.x<-60||point.y<-60||point.x>w+60||point.y>h+60)continue;
+   const sz=Math.max(1.2,point.size*.16*d.scale);
+   ctx.save();ctx.translate(point.x,point.y);ctx.rotate(d.spin+p*(1.6+d.z));
+   ctx.globalAlpha=point.alpha*.42;ctx.fillStyle=`rgb(${d.color})`;ctx.beginPath();
+   for(let k=0;k<d.verts;k++){const a=k/d.verts*6.283,qx=Math.cos(a)*sz,qy=Math.sin(a)*sz*(.7+d.z*.3);k?ctx.lineTo(qx,qy):ctx.moveTo(qx,qy);}
+   ctx.closePath();ctx.fill();ctx.restore();
+  }
+  for(const o of orbs){
+   const point=projectTunnel({...o,angle:p*.65},p,w,h);
+   if(point.x<-50||point.y<-50||point.x>w+50||point.y>h+50)continue;
+   const r=Math.max(2,point.size*.22*o.orb*(1+f.warp*.35));
+   const og=ctx.createRadialGradient(point.x,point.y,0,point.x,point.y,r*3.2);
+   og.addColorStop(0,`rgba(${o.color},${point.alpha*.72})`);og.addColorStop(.35,`rgba(${o.color},${point.alpha*.22})`);og.addColorStop(1,`rgba(${o.color},0)`);
+   ctx.fillStyle=og;ctx.beginPath();ctx.arc(point.x,point.y,r*3.2,0,6.283);ctx.fill();
+   ctx.fillStyle=`rgba(240,250,255,${point.alpha*.85})`;ctx.beginPath();ctx.arc(point.x,point.y,Math.max(.8,r*.34),0,6.283);ctx.fill();
+  }
   for(const s of icons){
    const point=projectTunnel({...s,angle:p*.8},p,w,h);
    if(point.alpha<.04||point.x<-point.size||point.y<-point.size||point.x>w+point.size||point.y>h+point.size||Math.hypot(point.x-f.cx,point.y-f.cy)<f.core*1.5*f.holeAlpha)continue;
    ctx.save();ctx.translate(point.x,point.y);ctx.rotate(point.rotation+(1-point.z)*.5);ctx.scale(point.size/30,point.size/30);ctx.translate(-12,-12);ctx.globalAlpha=point.alpha*.45;ctx.strokeStyle=`rgb(${s.color})`;ctx.lineWidth=1.25;ctx.lineCap='round';ctx.lineJoin='round';if(s.path)ctx.stroke(s.path);ctx.restore();
+  }
+  for(const c of comets){
+   const z0=(p*1.35*c.speed+c.z)%1;
+   const point=projectTunnel({...c,z:Math.min(.96,Math.max(.08,z0))},p,w,h);
+   if(point.x<-100||point.y<-100||point.x>w+100||point.y>h+100)continue;
+   const tx=point.tailX+(point.x-point.tailX)*(1+c.len*3.5),ty=point.tailY+(point.y-point.tailY)*(1+c.len*3.5);
+   const cg=ctx.createLinearGradient(tx,ty,point.x,point.y);
+   cg.addColorStop(0,`rgba(${c.color},0)`);cg.addColorStop(.7,`rgba(${c.color},${point.alpha*.28})`);cg.addColorStop(1,`rgba(235,248,255,${point.alpha*.72})`);
+   ctx.strokeStyle=cg;ctx.lineWidth=Math.max(1,point.size*.13);ctx.lineCap='round';
+   ctx.beginPath();ctx.moveTo(tx,ty);ctx.lineTo(point.x,point.y);ctx.stroke();
+   if(c.glow){ctx.fillStyle=`rgba(240,250,255,${point.alpha*.85})`;ctx.beginPath();ctx.arc(point.x,point.y,Math.max(1.1,point.size*.075),0,6.283);ctx.fill();}
   }
   ctx.globalCompositeOperation='source-over';paintBlackHole(ctx,f,crimson);
   if(f.flash>0){const arrival=ctx.createRadialGradient(f.cx,f.cy,0,f.cx,f.cy,Math.max(w,h)*.75);arrival.addColorStop(0,`rgba(196,222,255,${f.flash*.32})`);arrival.addColorStop(.25,`rgba(119,133,239,${f.flash*.13})`);arrival.addColorStop(1,'rgba(34,22,62,0)');ctx.fillStyle=arrival;ctx.fillRect(0,0,w,h);
