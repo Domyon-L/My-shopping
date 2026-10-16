@@ -57,14 +57,14 @@ export function paintBlackHole(ctx,f,crimson=false){
  }
  // A lighter near side and a restrained cyan crest establish disk depth.
  const front=ctx.createLinearGradient(-f.radius,0,f.radius,0);
- front.addColorStop(0,`rgba(${hot},.10)`);front.addColorStop(.37,`rgba(${hot},.42)`);front.addColorStop(.70,`rgba(${cool},.58)`);front.addColorStop(1,`rgba(${cool},.06)`);
+ front.addColorStop(0,`rgba(${hot},.16)`);front.addColorStop(.37,`rgba(${hot},.62)`);front.addColorStop(.70,`rgba(${cool},.82)`);front.addColorStop(1,`rgba(${cool},.10)`);
  for(let k=0;k<7;k++){
-  const r=f.radius*(.65+k*.052);ctx.strokeStyle=front;ctx.lineWidth=k===3?2.4:.85;
+  const r=f.radius*(.65+k*.052);ctx.strokeStyle=front;ctx.lineWidth=k===3?3:1.05;
   ctx.beginPath();ctx.ellipse(0,0,r,r*.225,0,.02,Math.PI-.02);ctx.stroke();
  }
  for(let k=0;k<48;k++){
   const angle=k/48*TAU+f.phase*(.40+(k%5)*.065),r=f.radius*(.59+(k%11)*.046),tail=.018+(k%4)*.006;
-  ctx.strokeStyle=`rgba(${k%5===0?pearl:k%3===0?cool:hot},${.15+(k%4)*.055})`;ctx.lineWidth=.55+(k%4)*.25;
+  ctx.strokeStyle=`rgba(${k%5===0?pearl:k%3===0?cool:hot},${.22+(k%4)*.085})`;ctx.lineWidth=.62+(k%4)*.32;
   ctx.beginPath();ctx.moveTo(Math.cos(angle)*r,Math.sin(angle)*r*.225);ctx.lineTo(Math.cos(angle+tail)*r,Math.sin(angle+tail)*r*.225);ctx.stroke();
  }
  ctx.restore();
@@ -76,7 +76,7 @@ export function paintBlackHole(ctx,f,crimson=false){
  // The opaque shadow is the final disk layer; no filament crosses its centre.
  ctx.globalCompositeOperation='source-over';ctx.fillStyle='#010106';ctx.beginPath();ctx.arc(0,0,f.core,0,TAU);ctx.fill();
  const rim=ctx.createRadialGradient(0,0,f.core,0,0,f.core*1.13);
- rim.addColorStop(0,'rgba(0,0,0,0)');rim.addColorStop(.13,`rgba(${pearl},.55)`);rim.addColorStop(.35,`rgba(${hot},.25)`);rim.addColorStop(1,`rgba(${hot},0)`);
+ rim.addColorStop(0,'rgba(0,0,0,0)');rim.addColorStop(.12,`rgba(${pearl},.88)`);rim.addColorStop(.20,`rgba(${cool},.55)`);rim.addColorStop(.38,`rgba(${hot},.36)`);rim.addColorStop(1,`rgba(${hot},0)`);
  ctx.fillStyle=rim;ctx.beginPath();ctx.arc(0,0,f.core*1.13,0,TAU);ctx.fill();
  ctx.restore();
 }
@@ -90,29 +90,38 @@ export function paintWormhole(ctx,f,rings,crimson=false){
   const far=rings[i],near=rings[i+1],n=Math.min(far.points.length,near.points.length),alpha=Math.min(far.alpha,near.alpha);
   for(let j=0;j<8;j++){
    const a=Math.floor(j/8*n),b=Math.floor((j+.42)/8*n)%n;
-   ctx.fillStyle=`rgba(${j%3===0?hot:cool},${alpha*(j%2?.026:.016)})`;ctx.beginPath();
+   ctx.fillStyle=`rgba(${j%3===0?hot:cool},${alpha*(j%2?.044:.028)})`;ctx.beginPath();
    ctx.moveTo(far.points[a].x,far.points[a].y);ctx.lineTo(far.points[b].x,far.points[b].y);ctx.lineTo(near.points[b].x,near.points[b].y);ctx.lineTo(near.points[a].x,near.points[a].y);ctx.closePath();ctx.fill();
   }
  }
  for(let i=0;i<rings.length;i++){
   const ring=rings[i],n=ring.points.length,offset=Math.floor(wrap(f.p*.8+i*.137)*n),length=Math.max(3,Math.floor(n*.14));
-  ctx.strokeStyle=`rgba(${i%3===0?hot:cool},${ring.alpha*.16})`;ctx.lineWidth=.45+(1-ring.z)*.75;
+  ctx.strokeStyle=`rgba(${i%3===0?hot:cool},${ring.alpha*.30})`;ctx.lineWidth=.5+(1-ring.z)*.9;
   ctx.beginPath();ring.points.forEach((point,j)=>j?ctx.lineTo(point.x,point.y):ctx.moveTo(point.x,point.y));ctx.closePath();ctx.stroke();
-  ctx.strokeStyle=`rgba(${i%2?hot:'166,230,255'},${ring.alpha*.48})`;ctx.lineWidth=.75+(1-ring.z)*1.5;
+  ctx.strokeStyle=`rgba(${i%2?hot:'176,238,255'},${ring.alpha*.74})`;ctx.lineWidth=.85+(1-ring.z)*1.8;
   ctx.beginPath();for(let j=0;j<length;j++){const point=ring.points[(offset+j)%n];if(j)ctx.lineTo(point.x,point.y);else ctx.moveTo(point.x,point.y);}ctx.stroke();
  }
  // Fixed angular coordinates through winding sections create helical rails.
  for(let j=0;j<16;j++){
-  ctx.strokeStyle=`rgba(${j%4===0?hot:cool},${f.warp*(j%4===0?.23:.10)})`;ctx.lineWidth=j%4===0?1.25:.6;ctx.beginPath();
+  ctx.strokeStyle=`rgba(${j%4===0?hot:cool},${f.warp*(j%4===0?.46:.19)})`;ctx.lineWidth=j%4===0?1.5:.72;ctx.beginPath();
   rings.forEach((ring,i)=>{const point=ring.points[Math.floor(j/16*ring.points.length)];if(i)ctx.lineTo(point.x,point.y);else ctx.moveTo(point.x,point.y);});ctx.stroke();
+ }
+ // Two bright energy shockwaves travel down the tunnel so the passage reads as a live conduit.
+ for(let k=0;k<2;k++){
+  const z=.10+wrap(f.p*1.3+k*.5)*.84,pulse=smooth(1-Math.abs(wrap(f.p*1.3+k*.5)-.5)*2);
+  if(pulse<=.01)continue;
+  ctx.strokeStyle=`rgba(206,242,255,${pulse*f.warp*.55})`;ctx.lineWidth=1.4+pulse*2.6;
+  ctx.beginPath();
+  for(let j=0;j<=44;j++){const q=wallPoint(f,z,j/44*TAU);if(j)ctx.lineTo(q.x,q.y);else ctx.moveTo(q.x,q.y);}
+  ctx.closePath();ctx.stroke();
  }
  // Short light trails follow the curved wall toward its vanishing point.
  // Fade at both depth boundaries rather than popping in or out of view.
- for(let k=0;k<40;k++){
-  const z=.055+wrap(k*.61803398875+f.travel*.72)*.91,angle=k/40*TAU;
+ for(let k=0;k<52;k++){
+  const z=.055+wrap(k*.61803398875+f.travel*.72)*.91,angle=k/52*TAU;
   const alpha=smooth((z-.055)/.12)*smooth((.965-z)/.19)*f.warp;
-  ctx.strokeStyle=`rgba(${k%5===0?hot:'181,228,255'},${alpha*.59})`;ctx.lineWidth=.65+(1-z)*1.25;ctx.beginPath();
-  for(let j=0;j<6;j++){const q=wallPoint(f,Math.max(.045,z-(5-j)*.0045),angle);if(j)ctx.lineTo(q.x,q.y);else ctx.moveTo(q.x,q.y);}ctx.stroke();
+  ctx.strokeStyle=`rgba(${k%5===0?hot:'198,238,255'},${alpha*.92})`;ctx.lineWidth=.7+(1-z)*1.7;ctx.beginPath();
+  for(let j=0;j<12;j++){const q=wallPoint(f,Math.max(.045,z-(11-j)*.0042),angle);if(j)ctx.lineTo(q.x,q.y);else ctx.moveTo(q.x,q.y);}ctx.stroke();
  }
  // Soft local entry light leaves the far aperture dark, with no white flash.
  const short=Math.min(f.w,f.h),aperture=wallPoint(f,.98,0),glow=ctx.createRadialGradient(aperture.cx,aperture.cy,short*.027,aperture.cx,aperture.cy,short*.24);
