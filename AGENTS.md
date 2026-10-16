@@ -78,3 +78,9 @@
 - Respect compositionstart/compositionend and isComposing: never replace the input during Chinese IME composition. Suggestions and results use the same eligibility, hard price upper-bound rules and relevant vocabulary. Preserve explicit price sorting; the default query order is relevance, with previous price/evidence rules breaking relevance ties. Search relevance is not a quality score.
 - Product archives, prices, evidence dates and review status are unchanged in this release. No new products or physical tests were added. Preserve documented versus historical distinctions; never invent verified trousers to satisfy search.
 - Version 22 adds eight search/layout checks, for 80 total. The two supplied screenshots were inspected. No supported control-browser is available in this managed environment; do not claim post-change rendered browser or real-device verification. Prior BrowserAct failure was not retried. Publish to the existing Site and sync the same source and ZIP to the authorized GitHub repository.
+
+## Repository housekeeping 2026-10-15
+- Added an MIT license (`LICENSE`, Copyright (c) 2026 Domyon-L); the repository previously had none. Keep the license file when syncing.
+- Renamed the CI workflow file from `.github/workflows/webpack.yml` to `.github/workflows/checks.yml`. The workflow name "Catalog and interaction checks" and all steps are unchanged.
+- Removed the outdated root deployment archives `site-deploy.tar.gz` and `site-v8.tar.gz` from the working tree; both remain recoverable from Git history. Do not re-add them and do not treat them as current releases.
+- These housekeeping decisions supersede the earlier "preserve existing archives" wording for those two root files. Continue to preserve `archives/` snapshots and the repository history.

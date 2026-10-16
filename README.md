@@ -44,4 +44,8 @@ npm test
 
 每次完成更新与验证后，发布到原公网网站，并同步到`Domyon-L/My-shopping`的`main`分支。两个平台保留各自的提交历史，GitHub同步采用正常提交，不强制覆盖分支。GitHub Actions执行构建与回归检查。
 
-`archives/shopping_latest_source.zip`是本次源文件快照，校验值和文件数量见`archives/SHA256.txt`。快照排除Git元数据、依赖缓存与`archives/`本身，避免递归打包；源码以仓库根目录的最新文件为准。根目录旧`site-*.tar.gz`为保留的历史部署归档，不是当前版本。
+`archives/shopping_latest_source.zip`是本次源文件快照，校验值和文件数量见`archives/SHA256.txt`。快照排除Git元数据、依赖缓存与`archives/`本身，避免递归打包；源码以仓库根目录的最新文件为准。根目录旧`site-*.tar.gz`历史部署归档已于2026-10-15清理，不再随仓库分发；如需取回，可从Git历史中恢复。
+
+## 许可证
+
+本项目以MIT许可证发布，详见`LICENSE`。
